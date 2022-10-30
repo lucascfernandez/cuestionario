@@ -14,3 +14,9 @@ la misma institución en su página oficial con sus respectivas
 respuestas y organizados por materia y tipo de pregunta.
 
 📑 [Ir a la Página](https://lucascfernandez.github.io/cuestionario/)
+
+## Suporte
+
+El contenido de este trabajo también puede ser descargado y utilizado
+por los usuarios que deseen clonar este repositorio. En ese sentido
+bastará que modifiquen el archivo .org y lo exporten a html en emacs.

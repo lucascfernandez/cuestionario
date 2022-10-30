@@ -3,7 +3,7 @@
 Recompilación de exámenes habilitantes de la Defensoria Penal Pública
 para fines educativos.
 
-[[file:home.png]]
+[Captura de Pantalla](file:home.png)
 
 ## Presentación
 
@@ -13,4 +13,4 @@ consiste en una recompilación de los exámenes históricos ofrecidos por
 la misma institución en su página oficial con sus respectivas
 respuestas y organizados por materia y tipo de pregunta.
 
-📑 [[https://lucascfernandez.github.io/cuestionario/]]
+📑 [Ir a la Página](https://lucascfernandez.github.io/cuestionario/)

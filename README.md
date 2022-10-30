@@ -3,7 +3,7 @@
 Recompilación de exámenes habilitantes de la Defensoria Penal Pública
 para fines educativos.
 
-![Captura de Pantalla](file:home.png)
+![Captura de Pantalla](home.png){ width=60%,height:30px }
 
 ## Presentación
 

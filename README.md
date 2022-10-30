@@ -20,3 +20,7 @@ respuestas y organizados por materia y tipo de pregunta.
 El contenido de este trabajo también puede ser descargado y utilizado
 por los usuarios que deseen clonar este repositorio. En ese sentido
 bastará que modifiquen el archivo .org y lo exporten a html en emacs.
+
+📔 [Ver archivo](https://github.com/lucascfernandez/cuestionario/blob/main/cuestionario.org)
+
+![Cuestionario](cuestionario.png)

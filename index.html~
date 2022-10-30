@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-10-30 dom 20:33 -->
+<!-- 2022-10-30 dom 10:37 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cuestionario Examen Habilitación</title>
@@ -28,66 +28,66 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org60c9826">1. Presentación</a>
+<li><a href="#orga9f815e">1. Presentación</a>
 <ul>
-<li><a href="#org93d5505">1.1. Recomendación</a></li>
-<li><a href="#orgf48c522">1.2. Archivos de Descarga</a>
+<li><a href="#org503d849">1.1. Recomendación</a></li>
+<li><a href="#org2f011c3">1.2. Archivos de Descarga</a>
 <ul>
-<li><a href="#org966756a">1.2.1. Penal</a></li>
-<li><a href="#org2fe4759">1.2.2. Procesal</a></li>
-<li><a href="#org881c8dc">1.2.3. Humanos</a></li>
-<li><a href="#org22a78d3">1.2.4. Ley DPP</a></li>
-<li><a href="#org56cb499">1.2.5. Penitenciario</a></li>
+<li><a href="#org78afbe9">1.2.1. Penal</a></li>
+<li><a href="#orgc2889fa">1.2.2. Procesal</a></li>
+<li><a href="#org654f594">1.2.3. Humanos</a></li>
+<li><a href="#orgb82475e">1.2.4. Ley DPP</a></li>
+<li><a href="#org1e751a2">1.2.5. Penitenciario</a></li>
 </ul>
 </li>
-<li><a href="#org9d6e10d">1.3. Pendiente</a>
+<li><a href="#org91b9498">1.3. Pendiente</a>
 <ul>
-<li><a href="#org7d6b6ae">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
-<li><a href="#org7b03ee9">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
-<li><a href="#orgdbfbd01">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
-<li><a href="#org762e4b0">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org220c9bb">2. Penal</a>
-<ul>
-<li><a href="#org63a25b3">2.1. General</a>
-<ul>
-<li><a href="#orga0d2d64">2.1.1. Alternativas</a></li>
-<li><a href="#orgb79fb9b">2.1.2. Verdadero y Falso</a></li>
-</ul>
-</li>
-<li><a href="#orgb32b5d7">2.2. Especial</a>
-<ul>
-<li><a href="#org88c1c48">2.2.1. Alternativas</a></li>
-<li><a href="#org5e7770f">2.2.2. Verdadero y Falso</a></li>
+<li><a href="#orgf9e6a86">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
+<li><a href="#orge044ba0">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
+<li><a href="#orgcb10720">1.3.3. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
+<li><a href="#orgeb05903">1.3.4. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org6751443">3. Procesal</a>
+<li><a href="#orgfe8a0dc">2. Penal</a>
 <ul>
-<li><a href="#org9df8a0b">3.1. Alternativas</a></li>
-<li><a href="#org4890207">3.2. Verdadero y Falso</a></li>
+<li><a href="#orgdc59967">2.1. General</a>
+<ul>
+<li><a href="#org992351a">2.1.1. Alternativas</a></li>
+<li><a href="#org2276649">2.1.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#orgfd738b0">4. Humanos</a>
+<li><a href="#org27daae1">2.2. Especial</a>
 <ul>
-<li><a href="#org116227b">4.1. Alternativas</a></li>
-<li><a href="#orgc8f889d">4.2. Verdadero y Falso</a></li>
+<li><a href="#org0e5a957">2.2.1. Alternativas</a></li>
+<li><a href="#orgd369ff4">2.2.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org168b918">5. Ley DPP</a>
-<ul>
-<li><a href="#orgfbccd29">5.1. Alternativas</a></li>
-<li><a href="#orgeb02e13">5.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#orge067750">6. Penitenciario</a>
+<li><a href="#orgb8886ef">3. Procesal</a>
 <ul>
-<li><a href="#orgd94b403">6.1. Alternativas</a></li>
-<li><a href="#org01efd89">6.2. Verdadero y Falso</a></li>
+<li><a href="#org8f28256">3.1. Alternativas</a></li>
+<li><a href="#org28a57a8">3.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#orgf05758e">4. Humanos</a>
+<ul>
+<li><a href="#org29973cc">4.1. Alternativas</a></li>
+<li><a href="#org7d483b4">4.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org5e4d5e2">5. Ley DPP</a>
+<ul>
+<li><a href="#orgdcf9162">5.1. Alternativas</a></li>
+<li><a href="#org98ce1f0">5.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#orgf67c16b">6. Penitenciario</a>
+<ul>
+<li><a href="#org9fa9921">6.1. Alternativas</a></li>
+<li><a href="#org5c72742">6.2. Verdadero y Falso</a></li>
 </ul>
 </li>
 </ul>
@@ -96,8 +96,11 @@
 
 
 
-<div id="outline-container-org60c9826" class="outline-2">
-<h2 id="org60c9826"><span class="section-number-2">1.</span> Presentación</h2>
+
+
+
+<div id="outline-container-orga9f815e" class="outline-2">
+<h2 id="orga9f815e"><span class="section-number-2">1.</span> Presentación</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 El siguiente documento/página contiene una recompilación de las
@@ -125,8 +128,8 @@ ayuda para aquellos que la necesiten.
 </p>
 </div>
 
-<div id="outline-container-org93d5505" class="outline-3">
-<h3 id="org93d5505"><span class="section-number-3">1.1.</span> Recomendación</h3>
+<div id="outline-container-org503d849" class="outline-3">
+<h3 id="org503d849"><span class="section-number-3">1.1.</span> Recomendación</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Tal como se señaló anteriormente, esta página puede ofrecer una
@@ -140,8 +143,8 @@ existencia de dos ítems denominados <i>Collapse all</i> y <i>Expand all</i> , c
 
 
 
-<div id="outline-container-orgf48c522" class="outline-3">
-<h3 id="orgf48c522"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
+<div id="outline-container-org2f011c3" class="outline-3">
+<h3 id="org2f011c3"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Con la finalidad de facilitar el buen uso de la información
@@ -151,8 +154,8 @@ mantener una copia física.
 </p>
 </div>
 
-<div id="outline-container-org966756a" class="outline-4">
-<h4 id="org966756a"><span class="section-number-4">1.2.1.</span> Penal</h4>
+<div id="outline-container-org78afbe9" class="outline-4">
+<h4 id="org78afbe9"><span class="section-number-4">1.2.1.</span> Penal</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <p>
 <a href="https://drive.google.com/file/d/14V0RjynKEk_z1j_iyjCQRMqEMNcegRyl/view?usp=sharing">Presione Aquí</a>
@@ -160,8 +163,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org2fe4759" class="outline-4">
-<h4 id="org2fe4759"><span class="section-number-4">1.2.2.</span> Procesal</h4>
+<div id="outline-container-orgc2889fa" class="outline-4">
+<h4 id="orgc2889fa"><span class="section-number-4">1.2.2.</span> Procesal</h4>
 <div class="outline-text-4" id="text-1-2-2">
 <p>
 <a href="https://drive.google.com/file/d/1X_Al-3Ozc2VLlvVZ3x2No7GVIPaAy0sy/view?usp=sharing">Presione Aquí</a>
@@ -169,8 +172,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org881c8dc" class="outline-4">
-<h4 id="org881c8dc"><span class="section-number-4">1.2.3.</span> Humanos</h4>
+<div id="outline-container-org654f594" class="outline-4">
+<h4 id="org654f594"><span class="section-number-4">1.2.3.</span> Humanos</h4>
 <div class="outline-text-4" id="text-1-2-3">
 <p>
 <a href="https://drive.google.com/file/d/1CCEWIRv1pyQ9d6-qmdJ_QNw2yPaV-zAl/view?usp=sharing">Presione Aquí</a>
@@ -178,8 +181,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org22a78d3" class="outline-4">
-<h4 id="org22a78d3"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
+<div id="outline-container-orgb82475e" class="outline-4">
+<h4 id="orgb82475e"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
 <div class="outline-text-4" id="text-1-2-4">
 <p>
 <a href="https://drive.google.com/file/d/1_tCkMazc2Hc2T8ljJVJKJgqvWW2eIxE4/view?usp=sharing">Presione Aquí</a>
@@ -187,8 +190,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org56cb499" class="outline-4">
-<h4 id="org56cb499"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
+<div id="outline-container-org1e751a2" class="outline-4">
+<h4 id="org1e751a2"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
 <div class="outline-text-4" id="text-1-2-5">
 <p>
 <a href="https://drive.google.com/file/d/1znjd0yhQa4ZshXcE7o0QRl0Fe0H0lyuF/view?usp=sharing">Presione Aquí</a>
@@ -197,42 +200,43 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org9d6e10d" class="outline-3">
-<h3 id="org9d6e10d"><span class="section-number-3">1.3.</span> Pendiente</h3>
+<div id="outline-container-org91b9498" class="outline-3">
+<h3 id="org91b9498"><span class="section-number-3">1.3.</span> Pendiente</h3>
 <div class="outline-text-3" id="text-1-3">
 </div>
-<div id="outline-container-org7d6b6ae" class="outline-4">
-<h4 id="org7d6b6ae"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
+<div id="outline-container-orgf9e6a86" class="outline-4">
+<h4 id="orgf9e6a86"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
 </div>
 
-<div id="outline-container-org7b03ee9" class="outline-4">
-<h4 id="org7b03ee9"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
+<div id="outline-container-orge044ba0" class="outline-4">
+<h4 id="orge044ba0"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
 </div>
 
-<div id="outline-container-orgdbfbd01" class="outline-4">
-<h4 id="orgdbfbd01"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
-</div>
-<div id="outline-container-org762e4b0" class="outline-4">
-<h4 id="org762e4b0"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
-<div class="outline-text-4" id="text-1-3-4">
+<div id="outline-container-orgcb10720" class="outline-4">
+<h4 id="orgcb10720"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
+<div class="outline-text-4" id="text-1-3-3">
 <p>
 Estar atento cuando actualicen la página:
 <a href="https://www.dpp.cl/repositorio/212/589">ir a página DPP</a>
 </p>
 </div>
 </div>
+<div id="outline-container-orgeb05903" class="outline-4">
+<h4 id="orgeb05903"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
 </div>
 </div>
-<div id="outline-container-org220c9bb" class="outline-2">
-<h2 id="org220c9bb"><span class="section-number-2">2.</span> Penal</h2>
+</div>
+
+<div id="outline-container-orgfe8a0dc" class="outline-2">
+<h2 id="orgfe8a0dc"><span class="section-number-2">2.</span> Penal</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org63a25b3" class="outline-3">
-<h3 id="org63a25b3"><span class="section-number-3">2.1.</span> General</h3>
+<div id="outline-container-orgdc59967" class="outline-3">
+<h3 id="orgdc59967"><span class="section-number-3">2.1.</span> General</h3>
 <div class="outline-text-3" id="text-2-1">
 </div>
-<div id="outline-container-orga0d2d64" class="outline-4">
-<h4 id="orga0d2d64"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
+<div id="outline-container-org992351a" class="outline-4">
+<h4 id="org992351a"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Señale cual o cuáles de los siguientes enunciados es/son correctos
@@ -7145,8 +7149,8 @@ Estudios y Proyectos, Defensoría Penal Pública.
 </div>
 
 
-<div id="outline-container-orgb79fb9b" class="outline-4">
-<h4 id="orgb79fb9b"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org2276649" class="outline-4">
+<h4 id="org2276649"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-1-2">
 <p>
 El artículo 2° del Código Penal emplea la voz “dolo”, haciéndola
@@ -9278,12 +9282,12 @@ Verdadero
 </div>
 </div>
 
-<div id="outline-container-orgb32b5d7" class="outline-3">
-<h3 id="orgb32b5d7"><span class="section-number-3">2.2.</span> Especial</h3>
+<div id="outline-container-org27daae1" class="outline-3">
+<h3 id="org27daae1"><span class="section-number-3">2.2.</span> Especial</h3>
 <div class="outline-text-3" id="text-2-2">
 </div>
-<div id="outline-container-org88c1c48" class="outline-4">
-<h4 id="org88c1c48"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
+<div id="outline-container-org0e5a957" class="outline-4">
+<h4 id="org0e5a957"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-2-1">
 <p>
 En el delito de perjurio, de acuerdo a la opinión dominante, es
@@ -14922,8 +14926,8 @@ Estudios y Proyectos
 
 
 
-<div id="outline-container-org5e7770f" class="outline-4">
-<h4 id="org5e7770f"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-orgd369ff4" class="outline-4">
+<h4 id="orgd369ff4"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-2-2">
 <p>
 El concurso aparente de leyes penales entre el homicidio calificado y
@@ -16966,12 +16970,12 @@ acción judicial constituye amenazas.
 
 
 
-<div id="outline-container-org6751443" class="outline-2">
-<h2 id="org6751443"><span class="section-number-2">3.</span> Procesal</h2>
+<div id="outline-container-orgb8886ef" class="outline-2">
+<h2 id="orgb8886ef"><span class="section-number-2">3.</span> Procesal</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org9df8a0b" class="outline-3">
-<h3 id="org9df8a0b"><span class="section-number-3">3.1.</span> Alternativas</h3>
+<div id="outline-container-org8f28256" class="outline-3">
+<h3 id="org8f28256"><span class="section-number-3">3.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Señale cuál o cuáles de las siguientes afirmación/es es/son correctas
@@ -28625,8 +28629,8 @@ Letra d).
 
 
 
-<div id="outline-container-org4890207" class="outline-3">
-<h3 id="org4890207"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org28a57a8" class="outline-3">
+<h3 id="org28a57a8"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Conforme las reglas del juicio oral, sólo en los casos previstos en
@@ -32096,12 +32100,12 @@ Verdadero.
 </div>
 
 
-<div id="outline-container-orgfd738b0" class="outline-2">
-<h2 id="orgfd738b0"><span class="section-number-2">4.</span> Humanos</h2>
+<div id="outline-container-orgf05758e" class="outline-2">
+<h2 id="orgf05758e"><span class="section-number-2">4.</span> Humanos</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-org116227b" class="outline-3">
-<h3 id="org116227b"><span class="section-number-3">4.1.</span> Alternativas</h3>
+<div id="outline-container-org29973cc" class="outline-3">
+<h3 id="org29973cc"><span class="section-number-3">4.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Cuál o cuáles de las siguientes afirmaciones es o son correctas:
@@ -32995,8 +32999,8 @@ Penal Pública” (2020), pp129-135.
 </div>
 
 
-<div id="outline-container-orgc8f889d" class="outline-3">
-<h3 id="orgc8f889d"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org7d483b4" class="outline-3">
+<h3 id="org7d483b4"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 El Tribunal Constitucional ha señalado que la existencia de un trato
@@ -33361,12 +33365,12 @@ Penal.
 
 
 
-<div id="outline-container-org168b918" class="outline-2">
-<h2 id="org168b918"><span class="section-number-2">5.</span> Ley DPP</h2>
+<div id="outline-container-org5e4d5e2" class="outline-2">
+<h2 id="org5e4d5e2"><span class="section-number-2">5.</span> Ley DPP</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-orgfbccd29" class="outline-3">
-<h3 id="orgfbccd29"><span class="section-number-3">5.1.</span> Alternativas</h3>
+<div id="outline-container-orgdcf9162" class="outline-3">
+<h3 id="orgdcf9162"><span class="section-number-3">5.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 En relación con las facultades del Defensor Regional, es correcto
@@ -34144,8 +34148,8 @@ c)
 </div>
 
 
-<div id="outline-container-orgeb02e13" class="outline-3">
-<h3 id="orgeb02e13"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org98ce1f0" class="outline-3">
+<h3 id="org98ce1f0"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 De conformidad al artículo 61 de la ley 20.000, los defensores penales
@@ -34300,2012 +34304,13 @@ Falso: Las modalidades de pago se fijarán conjuntamente.
 
 
 
-<div id="outline-container-orge067750" class="outline-2">
-<h2 id="orge067750"><span class="section-number-2">6.</span> Penitenciario</h2>
+<div id="outline-container-orgf67c16b" class="outline-2">
+<h2 id="orgf67c16b"><span class="section-number-2">6.</span> Penitenciario</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-orgd94b403" class="outline-3">
-<h3 id="orgd94b403"><span class="section-number-3">6.1.</span> Alternativas</h3>
+<div id="outline-container-org9fa9921" class="outline-3">
+<h3 id="org9fa9921"><span class="section-number-3">6.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-6-1">
-<p>
-Respecto de la posibilidad de interrumpir una pena privativa de libertad y
-remplazarla por el régimen de libertad vigilada intensiva, señale la alternativa
-correcta:
-</p>
-
-<p>
-I. La pena mixta, no es en verdad una pena, por lo mismo el tribunal para determinar
-si procede no es el que condenó al postulante si no el de ejecución
-</p>
-
-<p>
-II.Para acceder a la pena mixta es necesario que el penado haya cumplido al menos
-un tercio de la pena privativa de libertad de manera efectiva
-</p>
-
-<p>
-III.La sanción impuesta al condenado no puede ser mayor a cinco años de presidio o
-reclusión menor en grado máximo
-</p>
-
-<p>
-IV. El postulante no debe presentar condenas anteriores, aun cuando hayan sido
-impuestas bajo el régimen de la Ley 20.084 de responsabilidad penal adolescente
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) I y II
-</p>
-
-<p>
-c) Todas son correctas
-</p>
-
-<p>
-d) II y III
-</p>
-
-<p>
-e) Sólo III
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-<p>
-En nuestra normativa penitenciaria el fin atribuido a las penas privativas de
-libertad durante la etapa de su ejecución es:
-</p>
-
-<p>
-I. La prevención especial negativa
-</p>
-
-<p>
-II. La retribución por el delito cometido
-</p>
-
-<p>
-III. La prevención especial positiva
-</p>
-
-<p>
-IV. La prevención general
-</p>
-
-<p>
-a) Solo I
-</p>
-
-<p>
-b) II y III
-</p>
-
-<p>
-c) Solo III
-</p>
-
-<p>
-d) Solo IV
-</p>
-
-<p>
-e) Ninguna de las anteriores
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-<p>
-En relación con las personas condenadas presidio perpetuo simple, es correcto
-señalar que:
-</p>
-
-<p>
-I. Podrán postular a la salida dominical cuando hubieren cumplido 19 años de su
-pena, siempre que concurran los demás requisitos establecidos en el Reglamento
-de Establecimientos Penitenciarios.
-</p>
-
-<p>
-II.Podrán acceder al beneficio de reducción de condena, contemplado en la Ley
-19.856, pero sólo en la medida que se les haya reconocido en la respectiva
-sentencia la circunstancia atenuante de la irreprochable conducta anterior.
-</p>
-
-<p>
-III.Sólo pueden acceder a la salida esporádica.
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) I y II
-</p>
-
-<p>
-c) Todas son correctas
-</p>
-
-<p>
-d) Sólo II es correcta
-</p>
-
-<p>
-e) I y III son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-
-<p>
-Iván Vásquez fue condenado en julio de 2011 a la pena de 10 años y 1
-día de presidio mayor en su grado medio, por el delito de robo con
-violencia simple.  Durante ese período Iván ha trabajado como mozo en
-la cocina y ha realizado varios talleres en ese ámbito, su conducta es
-muy buena desde hacer 3 años en que le sorprendieron 10 gramos. de
-marihuana entre sus ropas. No asiste a la Escuela porque ya antes de
-ser condenado, cursaba cuarto año de Derecho en una Universidad
-privada. Considerando la reforma de la Ley 20.931 ¿cuáles de estas
-afirmaciones son ciertas?
-</p>
-
-<p>
-I.Ahora, el tiempo mínimo de postulación a la libertad condicional en
-el caso del sr.  Vásquez es de 6 años y 8 meses y 1 día
-</p>
-
-<p>
-II. La ley de “agenda corta” no afecta sus posibilidades de acceder al
-beneficio de libertad condicional
-</p>
-
-<p>
-III. Mientras no asista a la Escuela del penal no cumplirá el 4°
-requisitos del artículo 2 del DL 321, por lo que no podrá acceder a la
-libertad condicional
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) I y IV
-</p>
-
-<p>
-c) Sólo II
-</p>
-
-<p>
-d) Sólo III
-</p>
-
-<p>
-e) III y IV
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-<ol class="org-ol">
-<li>Respecto del indulto particular, son correctas las siguientes afirmaciones:</li>
-</ol>
-
-<p>
-I.No procede respecto de todo delito
-</p>
-
-<p>
-II.Consiste en la remisión, conmutación o reducción de la pena
-</p>
-
-<p>
-III.Elimina la calidad de condenado para todos los efectos legales
-</p>
-
-<p>
-IV.Exige el inicio de la condena en el establecimiento penal respectivo, en caso de
-condena privativa de libertad efectiva
-</p>
-
-<p>
-a) I, II y IV
-</p>
-
-<p>
-b) II y III
-</p>
-
-<p>
-c) II y IV
-</p>
-
-<p>
-d) I, II y III
-</p>
-
-<p>
-e) Todas son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-
-<p>
-En relación al beneficio de reducción de condena es correcto señalar lo
-siguiente:
-</p>
-
-<p>
-I.El beneficio de reducción de condena se concede por la “Comisión de beneficio
-reducción de condena”
-</p>
-
-<p>
-II.El condenado que ha cumplido las condiciones impuestas para acceder a la libertad
-condicional está excluido del beneficio de reducción de condena
-</p>
-
-<p>
-III.El beneficio de reducción de condena opera solo una vez en la vida de una
-persona, de tal manera que si el condenado ya obtuvo este beneficio respecto de
-una condena anterior queda excluido en relación con otras condenas futuras
-</p>
-
-<p>
-a) Todas son correctas
-</p>
-
-<p>
-b) Sólo I
-</p>
-
-<p>
-c) I y II
-</p>
-
-<p>
-d) Sólo III
-</p>
-
-<p>
-e) II y III
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-
-<p>
-Los meses acumulados por rebaja de condena pueden perderse en caso de:
-</p>
-
-<p>
-I.Incurrir el condenado en alguna de las causales de exclusión del artículo 17 de la
-Ley de rebaja de condena
-</p>
-
-<p>
-II.Cuando el condenado obtiene la libertad condicional
-</p>
-
-<p>
-III.Cuando en un período de calificación, la Comisión de Rebaja de Condena califica el
-comportamiento del condenado como “no sobresaliente”
-</p>
-
-<p>
-IV.Nunca pueden perderse, es un derecho del condenado
-</p>
-
-<p>
-a) Solo I
-</p>
-
-<p>
-b) I y II
-</p>
-
-<p>
-c) Solo III
-</p>
-
-<p>
-d) Solo IV
-</p>
-
-<p>
-e) I y III
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-En relación con las normas del Reglamento de Establecimientos Penitenciarios
-sobre las sanciones disciplinarias, señale la alternativa correcta:
-</p>
-
-<p>
-I.Para la adopción de una sanción en forma ajustada a la falta, se considerarán,
-además de la gravedad de la misma, la conducta del interno dentro del año
-</p>
-
-<p>
-II.Según el Reglamento de Establecimientos Penitenciarios, en caso de faltas menos
-graves o leves no es obligatorio que antes de aplicarse la sanción se escuche
-personalmente al infractor
-</p>
-
-<p>
-III.Sólo en caso de faltas graves debe remitirse una copia de la resolución que aplica
-la sanción al Director Regional de Gendarmería, quien podrá anularla o modificarla
-por razones fundadas
-</p>
-
-<p>
-a) Todas son correctas
-</p>
-
-<p>
-b) Ninguna es correcta
-</p>
-
-<p>
-c) Sólo II es correcta
-</p>
-
-<p>
-d) I y III son correctas
-</p>
-
-<p>
-e) II y III son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-
-<p>
-El beneficio de reducción de condena consiste en:
-</p>
-
-<p>
-I.La rebaja del tiempo de condena equivalente a dos meses por cada año de
-cumplimiento en el cual el condenado hubiere demostrado comportamiento
-sobresaliente.
-</p>
-
-<p>
-II.A partir de la mitad de la condena la rebaja de tiempo se ampliará a
-tres meses por cada año de comportamiento sobresaliente
-</p>
-
-<p>
-III. La rebaja del tiempo de condena equivalente a tres meses por cada año de
-cumplimiento en el cual el condenado hubiere demostrado comportamiento
-sobresaliente
-</p>
-
-<p>
-IV. La rebaja del tiempo de condena equivalente a 1 mes por cada año de
-cumplimiento en el cual el condenado hubiere demostrado comportamiento
-sobresaliente
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) Sólo II
-</p>
-
-<p>
-c) Sólo III
-</p>
-
-<p>
-d) Sólo IV
-</p>
-
-<p>
-e) Ninguna de las anteriores
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-
-<p>
-En relación al Tribunal de Conducta, señale cuál o cuáles de las siguientes
-afirmaciones es/son correctas:
-</p>
-
-<p>
-I.Las notas para calificar la conducta de los reclusos son: pésima, mala, regular,
-buena y muy buena
-</p>
-
-<p>
-II.Sólo si el recluso ha experimentado durante el período de calificación un
-comportamiento excepcionalmente sobresaliente podrá aumentar su calificación
-de pésima a muy buena
-</p>
-
-<p>
-III.Para la calificación de la conducta el Tribunal sólo puede tomar en consideración el
-comportamiento que el recluso ha tenido en su módulo y patio.
-</p>
-
-<p>
-IV.El tribunal de conducta puede estar integrado por civiles no funcionarios de
-Gendarmería de Chile
-</p>
-
-<p>
-V.El Tribunal de Conducta además, tiene por función determinar los postulantes a la
-libertad condicional en el tiempo previo a cada período de funcionamiento de la
-Comisión de Libertad condicional
-</p>
-
-<p>
-a) Sólo V
-</p>
-
-<p>
-b) I, IV y V
-</p>
-
-<p>
-c) I, II y III
-</p>
-
-<p>
-d) I y III
-</p>
-
-<p>
-e) Todas las anteriores
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-<p>
-Obtenida la libertad condicional, el condenado quedará sujeto a las siguientes
-obligaciones:
-</p>
-
-<p>
-I.A presentarse a la unidad penal donde cumplía condena una vez al mes
-</p>
-
-<p>
-II.Obedecer todas las órdenes legales que imparta el tribunal de conducta
-</p>
-
-<p>
-III.No salir de su lugar de residencia sin autorización del Tribunal de conducta
-</p>
-
-<p>
-a) II y III
-</p>
-
-<p>
-b) I y II
-</p>
-
-<p>
-c) I y III
-</p>
-
-<p>
-d) Sólo III
-</p>
-
-<p>
-e) Sólo I
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-
-<p>
-¿Cuál o cuáles de las siguientes afirmaciones son correctas respecto de la
-sanción de internación en celda solitaria?:
-</p>
-
-<p>
-I. Según el Reglamento de Establecimientos Penitenciarios, la aplicación de esta
-sanción implica necesariamente una rebaja en la calificación de la conducta
-</p>
-
-<p>
-II.No puede aplicarse esta sanción a las mujeres que tuvieren hijos consigo
-</p>
-
-<p>
-III.Los internos sancionados con esta medida deberán ser visitados diariamente por el
-Jefe del Establecimiento
-</p>
-
-<p>
-a) Sólo III es correcta
-</p>
-
-<p>
-b) I y II son correctas
-</p>
-
-<p>
-c) I y III
-</p>
-
-<p>
-d) II y III son correctas
-</p>
-
-<p>
-e) Todas son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-Las Reglas Mínimas de las Naciones Unidas para el tratamiento del delincuente
-establecen:
-</p>
-
-<p>
-I.Los objetivos de las penas y medidas privativas de libertad son principalmente
-proteger a la sociedad contra el delito y reducir la reincidencia
-</p>
-
-<p>
-II.Son muy antiguas y se encuentran desfasadas
-</p>
-
-<p>
-III.Un sistema penitenciario modelo a ser seguido por las diversas legislaciones
-</p>
-
-<p>
-IV.Que sus normas no se aplican a adolescentes
-</p>
-
-<p>
-a) I, II y III
-</p>
-
-<p>
-b) I y II
-</p>
-
-<p>
-c) I y IV
-</p>
-
-<p>
-d) II y III
-</p>
-
-<p>
-e) Todas las anteriores
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-<p>
-Las siguientes afirmaciones son correctas en relación a la posición de garante
-del Estado respecto de las personas privadas libertad:
-</p>
-
-<p>
-I.Implica que Gendarmería debe garantizar aquellos derechos que los reclusos no
-pueden satisfacerse a sí mismos, por su particular situación de dependencia en
-relación con el órgano del Estado que ejerce su custodia
-</p>
-
-<p>
-II.Gendarmería es responsable de las agresiones que sufra una persona en la cárcel,
-sea provocada por funcionarios o producto de un riña con otros reclusos
-</p>
-
-<p>
-III.La privación de libertad trae a menudo, como consecuencia ineludible, la
-afectación del goce de otros derechos humanos además del derecho a la libertad
-personal; pueden, por ejemplo, verse restringidos los derechos de privacidad y de
-intimidad familiar. Esta restricción de derechos, consecuencia de la privación de
-libertad o efecto colateral de la misma, sin embargo, debe limitarse de manera
-rigurosa
-</p>
-
-<p>
-a) Sólo I es correcta
-</p>
-
-<p>
-b) I y II son correctas
-</p>
-
-<p>
-c) I y III son correctas
-</p>
-
-<p>
-d) II y III
-</p>
-
-<p>
-e) Todas son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-<p>
-Las siguientes aseveraciones son correctas en relación con el abono de tiempo
-de privación de libertad en causa diversa:
-</p>
-
-<p>
-I.La jurisprudencia de la Corte Suprema ha señalado que al abono se aplica la regla
-del artículo 164 del Código Orgánico de Tribunales, es decir, la exigencia de que
-ambas causas (la de la privación de libertad que se abona y la de la condena en que
-se abona el tiempo) hayan podido juzgarse conjuntamente
-</p>
-
-<p>
-II.Sólo se puede abonar el tiempo de privación de libertad en causa diversa, cuando
-en esta última se haya dictado sentencia absolutoria
-</p>
-
-<p>
-III.El fundamento legal del abono se encuentra en el artículo 26 del Código Penal y no
-son aplicables las reglas de la unificación de penas
-</p>
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) I y II son correctas.
-</p>
-
-<p>
-c) Ninguna es correcta.
-</p>
-
-<p>
-d) Sólo II es correcta.
-</p>
-
-<p>
-e) I y III son correctas
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-En relación al derecho a salud, son correctas las siguientes afirmaciones:
-</p>
-
-<p>
-I.En caso de atenciones médicas que no puedan ser prestadas en el establecimiento
-penal, el Director Regional podrá autorizar la internación en centros hospitalarios
-externos
-</p>
-
-<p>
-II.La atención médica al interior de la cárcel está limitada a las posibilidades
-presupuestarias de Gendarmería, de modo que si no existe la posibilidad de
-atención médica en determinadas especialidades, se la debe procurar el propio
-condenado
-</p>
-
-<p>
-III.La duración de la internación de los reclusos en establecimientos hospitalarios
-externos será determinada por personal médico de Gendarmería de Chile
-</p>
-
-<p>
-IV.En cada recinto penitenciario debe existir un módulo especial para las personas
-que padezcan de enajenación mental
-</p>
-
-<p>
-V.El condenado puede ser atendido en un establecimiento médico privado si cuenta
-con los recursos para ello y ha sido autorizado por el Director Regional de
-Gendarmería
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) Sólo II
-</p>
-
-<p>
-c) III y IV
-</p>
-
-<p>
-d) I, III y IV
-</p>
-
-<p>
-e) II y IV
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-<p>
-Un condenado es sancionado a 10 días en internación en celda solitaria por
-haber ocasionado lesiones a un compañero de celda. Como consecuencia de
-ello, el jefe del establecimiento le señala que podrá salir de su celda de castigo
-sólo una hora al día, que no podrá recibir encomiendas durante dicho período,
-salvo artículos de higiene y limpieza, ni tampoco recibir visitas. ¿Cuál o cuáles
-de las siguientes alternativas es correcta?
-</p>
-
-<p>
-I.El jefe del establecimiento ha actuado dentro de sus atribuciones ya que es
-facultativo de dicha autoridad imponer restricciones adicionales (visitas y
-encomiendas) en el cumplimiento de la sanción de internación en celda solitaria
-</p>
-
-<p>
-II.La aplicación de celda de castigo está prohibida en nuestro ordenamiento, por lo
-que de ninguna manera se pudo haber impuesto esta medida
-</p>
-
-<p>
-III.El jefe del establecimiento deberá poner en conocimiento del Ministerio Público lo
-ocurrido para que se inicie la investigación correspondiente
-</p>
-
-<p>
-IV.En caso que la causa iniciada por el delito de lesiones concluya en una sentencia
-condenatoria, la sanción de aislamiento de 10 días impuesta al condenado deberá
-imputarse a la eventual sanción de privación de libertad por el delito de lesiones ya
-que nuestro ordenamiento penitenciario no permite la doble sanción administrativa y penal- por el mismo hecho
-</p>
-
-<p>
-V.El jefe del establecimiento, al disponer la restricción de visitas, infringe la
-prohibición de acumulación de sanciones
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) II y III
-</p>
-
-<p>
-c) Sólo III
-</p>
-
-<p>
-d) Sólo IV
-</p>
-
-<p>
-e) III y V
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-Francisco Pinto se encuentra condenado a 6 años de presidio mayor en su
-grado mínimo por un delito de homicidio simple, solicita información acerca de
-los requisitos para poder obtener salida dominical. El interno ha cumplido
-exactamente 2 años de la pena impuesta, ha tenido muy buena conducta, ha
-participado en el taller deportivo, pero no asiste a la escuela penitenciaria ya
-que el curso que le corresponde (4° medio) no tiene vacantes. ¿Cuál
-información proporcionada por el defensor(a) penitenciario(a) es correcta?:
-</p>
-
-<p>
-I Usted deberá esperar 1 año más para poder postular a la salida dominical, ya que
-le tiempo mínimo del homicidio son 2/3 de la pena. Además de mantener su buena
-conducta y participación en las actividades que realiza
-</p>
-
-<p>
-II. Usted deberá postular previamente a la salida esporádica y cumplir
-adecuadamente durante al menos 6 meses
-</p>
-
-<p>
-III.-Usted deberá esperar a tener un cupo en la escuela penitenciaria para poder
-postular ya que uno de los requisitos exigidos por el reglamento de
-establecimientos penitenciarios es asistir con regularidad y provecho a la escuela
-</p>
-
-<p>
-IV.Usted está en condiciones de postular a la salida dominical, siempre que mantenga
-su buena conducta y siga participando en las actividades que realiza
-</p>
-
-<p>
-V.Usted deberá esperar 1 año y 6 meses más para poder postular a la salida
-dominical y mantener su buena conducta y participación en las actividades que
-realiza
-</p>
-
-<p>
-a) Sólo I
-</p>
-
-<p>
-b) Sólo II
-</p>
-
-<p>
-c) Sólo III
-</p>
-
-<p>
-d) Sólo IV
-</p>
-
-<p>
-e) Sólo V
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-<p>
-En relación al beneficio de libertad condicional, es correcto afirmar:
-</p>
-
-<p>
-I.En caso de presidio perpetuo calificado deberán transcurrir 40 años de
-cumplimiento efectivo de la pena para poder postular a este beneficio
-</p>
-
-<p>
-II.La concesión de la libertad condicional depende, en definitiva, del informe de
-Gendarmería
-</p>
-
-<p>
-III.Sólo podrán postular aquellos condenados que hayan registrado en conducta y
-aplicación una nota equivalente a “muy bueno” durante el semestre anterior a la
-postulación
-</p>
-
-<p>
-IV.No pueden postular aquellos condenados que, teniendo buena conducta y tiempo
-mínimo, no hayan participado en talleres
-</p>
-
-
-<p>
-a) I, III y IV
-</p>
-
-<p>
-b) I, II y IV
-</p>
-
-<p>
-c) I, II y III
-</p>
-
-<p>
-d) I y III
-</p>
-
-<p>
-e) Todas las anteriores
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-<p>
-Señale la alternativa correcta en materia del llamado recurso de revisión:
-</p>
-
-<p>
-I.No puede probarse por testigos los hechos en que se funda la solicitud de revisión
-</p>
-
-<p>
-II.Por la acción de revisión se puede pedir la anulación de una sentencia absolutoria
-</p>
-
-<p>
-III.Se puede revisar una sentencia condenatoria si ésta se ha fundado en un
-testimonio, cuya falsedad ha sido declarada por un sentencia firme en causa
-criminal
-</p>
-
-<p>
-a) Todas son correctas
-</p>
-
-<p>
-b) Sólo III
-</p>
-
-<p>
-c) II y III
-</p>
-
-<p>
-d) Sólo I es correcta
-</p>
-
-<p>
-e) I y III
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-Un condenado que acumula 7 años de condena por delitos de estafa, solicita
-información acerca de los requisitos para poder obtener salida dominical. El
-interno ha cumplido exactamente 2 años de la pena impuesta, ha tenido muy
-buena conducta, ha participado en el taller deportivo, pero no asiste a la escuela
-penitenciaria ya que el curso que le corresponde (2° medio) no tiene vacantes.
-¿Cuál información proporcionada por el defensor(a) penitenciario(a) es correcta?:
-</p>
-
-<p>
-I.-Usted deberá esperar 1 año y 6 meses más para poder postular a la salida
-dominical y mantener su buena conducta y participación en las actividades que
-realiza.
-</p>
-
-<p>
-II.Usted deberá postular previamente a la salida esporádica y cumplir
-adecuadamente durante al menos 6 meses.
-</p>
-
-<p>
-III.-Usted deberá esperar a tener un cupo en la escuela penitenciaria para poder
-postular ya que uno de los requisitos exigidos por el reglamento de
-establecimientos penitenciarios es asistir con regularidad y provecho a la escuela.
-</p>
-
-<p>
-IV.Usted está en condiciones de postular a la salida dominical.
-</p>
-
-<p>
-V.-Usted deberá esperar 6 meses más para poder postular a la salida dominical y
-mantener su buena conducta y participación en las actividades que realiza.
-</p>
-
-<p>
-a)I y II
-b)II y III
-c)Ninguna es correcta
-d)Sólo IV
-e)Sólo V
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-<p>
-Respecto de la posibilidad de interrumpir una pena privativa de libertad y
-remplazarla por el régimen de libertad vigilada intensiva, señale la alternativa
-correcta:
-</p>
-
-<p>
-I. Para acceder a la pena mixta es necesario que el penado haya cumplido al menos
-la mitad de la pena privativa de libertad de manera efectiva.
-</p>
-
-<p>
-II. La sanción impuesta al condenado no puede ser mayor a cinco años de presidio o
-reclusión menor en su grado máximo.
-</p>
-
-<p>
-III.De acuerdo a la Ley N°18.216, si se dispone la interrupción y reemplazo señalados,
-la libertad vigilada intensiva deberá ser siempre controlada mediante monitoreo
-telemático.	  
-</p>
-
-<p>
-a) Todas son correctas.
-b) I y II.
-c) I y III.
-d) II y III.
-e) Sólo III.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-<p>
-En relación con las personas condenadas como autores del delito de tráfico de
-estupefacientes es correcto señalar que:
-</p>
-
-<p>
-I. No podrán acceder al beneficio de reducción de condena, contemplado en la Ley
-N° 19.856.
-</p>
-
-<p>
-II. No podrán gozar de ningún permiso de salida, salvo el de salida esporádica.
-</p>
-
-<p>
-III. No podrán postular al beneficio de libertad condicional.
-</p>
-
-<p>
-a) Todas son correctas.
-b) Ninguna es correcta.
-c) Sólo I es correcta.
-d) II y III son correctas.
-e) Sólo III es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-<p>
-Las siguientes aseveraciones son correctas en relación con el abono de tiempo de
-privación de libertad en causa diversa:
-</p>
-
-<p>
-I. La jurisprudencia de la Corte Suprema ha señalado en el último tiempo que al
-abono se aplica la regla del artículo 164 del Código Orgánico de Tribunales (COT),
-es decir, la exigencia de que ambas causas (la de la privación de libertad que se
-abona y la de la condena en que se abona el tiempo) hayan podido juzgarse
-conjuntamente.
-</p>
-
-<p>
-II. Es procedente abonar a una condena el tiempo de prisión preventiva que sufrió
-una persona en causa diversa cuando esta última causa terminó en sobreseimiento
-definitivo.
-</p>
-
-<p>
-III. Es procedente abonar a una condena el tiempo de privación de libertad que sufrió
-una persona en causa diversa cuando esta última causa terminó por aplicación del
-principio de oportunidad.
-</p>
-
-<p>
-a) Todas son correctas.
-b) I y II son correctas.
-c) Ninguna es correcta.
-d) Sólo II es correcta.
-e) II y III son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-<p>
-Luciano Vera fue condenado a una pena de 600 días de presidio menor en su grado
-medio, sustituyéndosele por la pena sustitutiva de remisión condicional de la pena
-por el lapso de 2 años. El Sr. Vera cometió un nuevo simple delito cuando había
-cumplido 1 año de la mencionada pena sustitutiva, siendo condenado por
-sentencia firme. ¿Cuáles de las siguientes afirmaciones es correcta en el caso del
-Sr. Vera?
-</p>
-
-<p>
-I.- El tiempo cumplido conforme a pena sustitutiva se puede abonar en caso de
-revocación, por lo que a los 600 días de privación de libertad se deben restar los
-365 días cumplidos bajo remisión condicional, lo que implica que le restan por
-cumplir 235 días.
-</p>
-
-<p>
-II.-No corresponde el abono y debe cumplir la pena privativa de libertad de manera
-íntegra ya que se trata de modalidades de cumplimiento de naturaleza
-incompatible.
-</p>
-
-<p>
-III.Corresponde el abono pero éste debe hacerse de manera proporcional por lo que
-le restan por cumplir 300 días de privación de libertad.
-</p>
-
-<p>
-IV.-Cada día cumplido bajo la modalidad de remisión condicional equivale a un tercio
-(8 horas) de un día de privación de libertad, por lo que los 365 días de pena
-sustitutiva equivalen a 122 días de privación de libertad que deben restarse a los
-600 originalmente impuestos, lo que significa que le restan 478 días de privación
-de libertad.
-</p>
-
-<p>
-a)Sólo I.
-</p>
-
-<p>
-b)Sólo II.
-</p>
-
-<p>
-c)Sólo III.
-</p>
-
-<p>
-d)Sólo IV.
-</p>
-
-<p>
-e)Ninguna es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-
-<p>
-En cuanto a la aplicación del artículo 164 del Código Orgánico de Tribunales, que
-regula la circunstancia de dictarse distintas sentencias condenatorias contra un
-mismo imputado, es correcto señalar:
-</p>
-
-<p>
-I. El tribunal competente es el tribunal que dictare el fallo posterior.
-</p>
-
-<p>
-II. Según la jurisprudencia de la Corte Suprema, ambos procesos deben haber
-coincidido en el tiempo, de modo que la sentencia del primer caso debe causar
-ejecutoria después que se haya iniciado la investigación del segundo caso, y así
-sucesivamente en caso de tratarse de varias condenas.
-</p>
-
-<p>
-III. El objetivo de la norma es la unificación de penas, por lo que sólo opera en la
-medida que pueda aplicarse el artículo 351 del Código Procesal Penal.
-</p>
-
-<p>
-a) I y II son correctas.
-</p>
-
-<p>
-b) II y III son correctas.
-</p>
-
-<p>
-c) Todas son correctas.
-</p>
-
-<p>
-d) Sólo II es correcta.
-</p>
-
-<p>
-e) Sólo I es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-<p>
-Señale cuál o cuáles de las siguiente afirmaciones son correctas respecto de los
-permisos de salida contemplados en el Reglamento de establecimientos
-penitenciarios:
-</p>
-
-<p>
-I. La salida esporádica es el único permiso de salida que no se inspira en el carácter
-progresivo del proceso de reinserción social.
-</p>
-
-<p>
-II. Los condenados a penas inferiores a un año no pueden postular a los permisos de
-salida.
-</p>
-
-<p>
-III. La concesión, suspensión o revocación de los permisos de salida es una facultad
-privativa del Jefe de Establecimiento.
-</p>
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) Sólo I y II son correctas.
-</p>
-
-<p>
-c) Sólo II y III son correctas.
-</p>
-
-<p>
-d) Sólo I y III son correctas.
-</p>
-
-<p>
-e) Ninguna es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-<p>
-En relación a la facultad de Gendarmería para trasladar reclusos, es acertado decir
-que:
-</p>
-
-<p>
-I. Sólo procede como sanción frente a una falta grave.
-</p>
-
-<p>
-II. Debe ser autorizada por el juez de garantía del lugar de reclusión.
-</p>
-
-<p>
-III. La decisión de traslado se materializa a través de un acto administrativo, por lo que
-bien podría impugnarse si es que no se expresan claramente los fundamentos de
-hecho del mismo.
-</p>
-
-<p>
-a) Todas son correctas
-</p>
-
-<p>
-b) Sólo I.
-</p>
-
-<p>
-c) I y III.
-</p>
-
-<p>
-d) II y III.
-</p>
-
-<p>
-e) Sólo III.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-<p>
-En relación al beneficio de reducción de condena es correcto señalar lo siguiente:
-</p>
-
-<p>
-I. No procede este beneficio cuando en la condena se ha considerado concurrente
-alguna de las circunstancias agravantes de los números 15 y 16 del artículo 12 del
-Código Penal.
-</p>
-
-<p>
-II. La reducción de condena se concede por decreto supremo, pero la autoridad
-administrativa no puede revisar el mérito de lo obrado por la Comisión de
-beneficio reducción de condena, salvo en cuanto a las causales de exclusión del
-beneficio expresamente establecidas en el artículo 17 de la Ley N° 19.856.
-</p>
-
-<p>
-III. El beneficio no es procedente respectos de condenados en libertad condicional.
-</p>
-
-<p>
-a) Sólo I.
-</p>
-
-<p>
-b) I y II.
-</p>
-
-<p>
-c) Todas son correctas.
-</p>
-
-<p>
-d) I y III.
-</p>
-
-<p>
-e) Ninguna es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-
-<p>
-En relación con el requisito relativo a la conducta exigido, entre otros, para acceder
-a distintos beneficios, es correcto señalar lo siguiente:
-</p>
-
-<p>
-I. Para acceder a salida dominical, de fin de semana y controlada al medio libre se
-requiere haber observado muy buena conducta en los tres bimestres anteriores a
-su postulación.
-</p>
-
-<p>
-II. Para acceder a la libertad condicional se requiere haber observado conducta
-intachable en el establecimiento penal, para lo cual el Tribunal de Conducta toma
-en consideración las notas medias que tenga el interno en su Libro de Vida durante
-el semestre anterior al primero de abril o primero de octubre de cada año,
-respectivamente.
-</p>
-
-<p>
-III.Para que un interno pueda participar del proceso de calificación de conducta
-sobresaliente que realiza la “Comisión de beneficio reducción de condena”, se
-requiere haber sido calificada su conducta con nota “buena” o “muy buena” en los
-tres últimos bimestres anteriores al inicio del proceso de calificación.
-</p>
-
-<p>
-a) Sólo I es correcta.
-</p>
-
-<p>
-b) I y II son correctas.
-</p>
-
-<p>
-c) Todas son correctas.
-</p>
-
-<p>
-d) II y III son correctas.
-</p>
-
-<p>
-e) I y III son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-<p>
-Respecto de la pena mixta, es correcto señalar que:
-</p>
-
-<p>
-I. No es procedente tratándose del autor de un homicidio calificado consumado
-(artículo 391 N°1 del Código Penal), a menos que se le hubiera reconocido en la
-sentencia la circunstancia primera del artículo 11 del Código Penal.
-</p>
-
-<p>
-II. Sí es procedente si se trata del cómplice de homicidio calificado consumado.
-</p>
-
-<p>
-III. No procede si se trata del cómplice del delito consumado de sustracción de menor
-(artículo 142 del Código Penal).
-</p>
-
-<p>
-a) Todas con correctas.
-</p>
-
-<p>
-b) II y III son correctas
-</p>
-
-<p>
-c) I y III son correctas.
-</p>
-
-<p>
-d) I y II son correctas.
-</p>
-
-<p>
-e) Sólo I es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-<p>
-En relación con las normas relativas a las faltas disciplinarias, señale la alternativa
-correcta:
-</p>
-
-<p>
-I. Toda sanción será aplicada por el Jefe del Establecimiento.
-</p>
-
-<p>
-II. En caso de falta menos grave no es obligatorio que antes de aplicarse la sanción el
-Jefe del Establecimiento escuche personalmente al infractor.
-</p>
-
-<p>
-III. La gradualidad de la rebaja de conducta consecuente de la aplicación de una
-sanción por falta grave o menos grave la determinará el Tribunal de Conducta.
-</p>
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) Ninguna es correcta.
-</p>
-
-<p>
-c) Sólo I es correcta.
-</p>
-
-<p>
-d) I y III son correctas.
-</p>
-
-<p>
-e) I y II son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-<p>
-Son condiciones que debe cumplir la sanción de internación en celda solitaria:
-</p>
-
-<p>
-I. Cuando se imponga por reiteración de infracciones menos graves, no puede
-extenderse más allá de cinco días.
-</p>
-
-<p>
-II. Copia de la resolución que impone esta sanción debe ser remitida al Director
-Regional de Gendarmería para su conocimiento, quien podrá modificarla o anularla
-por razones fundadas.
-</p>
-
-<p>
-III. El interno afectado por esta medida debe ser visitado diariamente por el Jefe del
-Establecimiento.
-</p>
-
-<p>
-a) Sólo III es correcta.
-</p>
-
-<p>
-b) Todas son correctas.
-</p>
-
-<p>
-c) I y II son correctas.
-</p>
-
-<p>
-d) I y III.
-</p>
-
-<p>
-e) II y III son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
-<p>
-Señale la alternativa correcta en materia del llamado recurso de revisión:
-</p>
-
-<p>
-I. La acción de revisión no procede en contra de sentencias condenatorias por faltas.
-</p>
-
-<p>
-II. La acción de revisión no procede en contra de sentencias absolutorias.
-</p>
-
-<p>
-III. La acción de revisión la conoce y falla el pleno de la Corte Suprema.
-</p>
-
-<p>
-a) Sólo I es correcta.
-</p>
-
-<p>
-b) I y II son correctas.
-</p>
-
-<p>
-c) Todas son correctas.
-</p>
-
-<p>
-d) Sólo II es correcta.
-</p>
-
-<p>
-e) Ninguna es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-b)
-</p>
-
-
-<p>
-Se impone a un interno la sanción de privación de toda visita por un mes. ¿Cuál de
-las siguientes afirmaciones es correcta de acuerdo a la normativa penitenciaria?
-</p>
-
-<p>
-I. Si el condenado es reincidente es posible la acumulación de la sanción impuesta
-con otra de menor entidad.
-</p>
-
-<p>
-II. Esta sanción puede aplicarse a una infracción grave y, excepcionalmente, ante
-reiteración de infracciones menos graves.
-</p>
-
-<p>
-III. Si la infracción cometida pudiera constituir delito, la aplicación de la sanción debe
-suspenderse hasta que se resuelva la situación por la Justicia Penal, de tal manera
-que si se le condena judicialmente, la sanción administrativa quedará sin efecto.
-</p>
-
-<p>
-a) Ninguna es correcta
-</p>
-
-<p>
-b) Todas son correctas.
-</p>
-
-<p>
-c) Sólo I es correcta.
-</p>
-
-<p>
-d) Sólo II es correcta.
-</p>
-
-<p>
-e) Sólo III es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-a)
-</p>
-
-<p>
-En relación con la libertad condicional es cierto que:
-</p>
-
-<p>
-I. El beneficio se otorga por decreto supremo a propuesta de la Comisión de libertad
-condicional.
-</p>
-
-<p>
-II. Según el Reglamento de la Ley de Libertad Condicional, la persona que no sabe leer
-y escribir, no cumple con uno de los requisitos para optar al beneficio.
-</p>
-
-<p>
-III. Las personas condenadas a penas privativas de libertad inferiores a un año no
-pueden optar al beneficio.
-</p>
-
-<p>
-a) Sólo I.
-</p>
-
-<p>
-b) Sólo II.
-</p>
-
-<p>
-c) Sólo III.
-</p>
-
-<p>
-d) II y III.
-</p>
-
-<p>
-e) Todas son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-<p>
-En relación con la regulación de las visitas que hace el Reglamento de
-establecimientos penitenciarios, es correcto señalar:
-</p>
-
-<p>
-I. Las visitas íntimas se conceden una vez al mes.
-</p>
-
-<p>
-II. Las visitas especiales (familiares e íntimas) se conceden a internos que no gocen de
-permisos de salida.
-</p>
-
-<p>
-III. En las visitas ordinarias los menores de edad deberán tener más de catorce años.
-</p>
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) I y II.
-</p>
-
-<p>
-c) I y III.
-</p>
-
-<p>
-d) II y III.
-</p>
-
-<p>
-e) Sólo II.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:
-a)</li>
-</ul>
-
-
-
-<p>
-Las siguientes afirmaciones son correctas en relación a la posición de garante del
-Estado respecto de las personas privadas libertad:
-</p>
-
-<p>
-I.La privación de libertad trae a menudo, como consecuencia ineludible, la
-afectación del goce de otros derechos humanos además del derecho a la libertad
-personal; pueden, por ejemplo, verse restringidos los derechos de privacidad y de
-intimidad familiar. Esta restricción de derechos, consecuencia de la privación de
-libertad o efecto colateral de la misma, sin embargo, debe limitarse de manera
-rigurosa.
-</p>
-
-<p>
-II.Gendarmería es responsable de las agresiones que sufra una persona en la cárcel,
-sea provocada por funcionarios o producto de un riña con otros reclusos.
-</p>
-
-<p>
-III.Los Estados excepcional y fundadamente pueden invocar privaciones económicas
-para justificar condiciones de detención que no cumplen con los estándares
-mínimos internacionales.
-</p>
-
-<p>
-a) Sólo I es correcta.
-</p>
-
-<p>
-b) Todas son correctas.
-</p>
-
-<p>
-c) I y II son correctas.
-</p>
-
-<p>
-d) I y III son correctas.
-</p>
-
-<p>
-e) II y III.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-c)
-</p>
-
-
-<p>
-Sobre la pena sustitutiva de expulsión, son correctas las siguientes aseveraciones:
-</p>
-
-<p>
-I.Según la Ley N° 18.216, el tribunal no puede de oficio sustituir el cumplimiento de
-la pena impuesta por la expulsión del extranjero condenado.
-</p>
-
-<p>
-II.El extranjero al que se le aplica la pena sustitutiva de expulsión no puede regresar
-al territorio nacional en un plazo de diez años.
-</p>
-
-<p>
-III.La imposición de la pena sustitutiva de expulsión a un extranjero que no hubiera
-sido condenado anteriormente por crimen o simple delito tendrá mérito suficiente
-para la omisión, en los certificados de antecedentes, de las anotaciones a que
-diere lugar la sentencia condenatoria.
-</p>
-
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) I, II son correctas.
-</p>
-
-<p>
-c) Sólo II es correcta.
-</p>
-
-<p>
-d) II y III son correctas.
-</p>
-
-<p>
-e) Sólo la III es correcta.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-d)
-</p>
-
-
-<p>
-En relación con el indulto particular es correcto señalar:
-</p>
-
-<p>
-I.El indultado continúa con el carácter de condenado para los efectos de la
-reincidencia.
-</p>
-
-<p>
-II.La calificación de la concurrencia de los requisitos que permiten denegar el indulto
-corresponde al Consejo Técnico respectivo.
-</p>
-
-<p>
-III.El indulto puede consistir en la remisión, conmutación o reducción de la pena..
-</p>
-
-<p>
-a) Todas son correctas.
-</p>
-
-<p>
-b) Sólo I es correcta.
-</p>
-
-<p>
-c) I y II son correctas.
-</p>
-
-<p>
-d) II y III son correctas.
-</p>
-
-<p>
-e) I y III son correctas.
-</p>
-
-<ul class="org-ul">
-<li>Respuesta:</li>
-</ul>
-<p>
-e)
-</p>
-
-
 <p>
 En relación con la salida dominical es correcta señalar:
 </p>
@@ -39700,401 +37705,9 @@ b)
 </div>
 
 
-<div id="outline-container-org01efd89" class="outline-3">
-<h3 id="org01efd89"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org5c72742" class="outline-3">
+<h3 id="org5c72742"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-6-2">
-<p>
-Para acceder al beneficio de libertad condicional no se requiere
-necesariamente haber obtenido y cumplido satisfactoriamente algún tipo de
-permiso de salida.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Por la acción de revisión, y para el caso en que no se reúnan todas las
-condiciones que permitan la anulación de la condena, se puede pedir la
-rebaja de la pena de manera proporcional
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El condenado extranjero que ha sido objeto de expulsión de todas maneras
-puede obtener permiso de salida.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Toda sanción por alguna falta disciplinaria debe ser aplicada por el Jefe del
-Establecimiento.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La sanción de internación en celda solitaria sólo puede imponerse por faltas
-graves y reiteración de infracciones menos graves.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-La salida controlada al medio libre debe autorizarse con vigilancia.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-En nuestro sistema penitenciario el juez encargado de hacer ejecutar las
-condenas criminales y las medidas de seguridad, y resolver las solicitudes y
-reclamos relativos a dicha ejecución es el juez que dictó la sentencia o impuso
-la medida de seguridad.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Los condenados por hurto o estafa a más seis años, pueden obtener la libertad
-condicional una vez cumplidos tres años.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-El desaseo en la presentación personal constituye una falta disciplinaria en el
-Reglamento de Establecimientos Penitenciarios.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Los permisos de salida no proceden en caso de condenas privativas de libertad
-inferiores a un año.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El indulto particular no procede respecto de condenados que hubieren sido
-indultados anteriormente.
-</p>
-
-<p>
-V
-</p>
-
-<ol class="org-ol">
-<li>La decisión que se adopte a este respecto se la solicitud de pena mixta no es</li>
-</ol>
-<p>
-apelable
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El condenado beneficiado con la pena mixta no podrá acceder al remplazo de la
-libertad vigilada intensiva por libertad vigilada.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-En caso de quebrantamiento o incumplimiento voluntario de las condiciones de
-algún permiso, al reingreso, el interno tendrá una conducta calificada con la nota
-mínima.
-</p>
-
-<p>
-V
-</p>
-
-<ol class="org-ol">
-<li>Las personas condenadas a penas privativas de libertad iguales o menores a un</li>
-</ol>
-<p>
-año no pueden postular a la libertad condicional.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Los Alcaides pueden autorizar visitas familiares e íntimas pero sólo a los internos
-que no gocen de permisos de salida.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-El traslado de un condenado a otra Unidad Penal es una sanción administrativa
-que sólo procede respecto de una infracción grave.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-En nuestro ordenamiento jurídico ningún cuerpo legal contempla un recurso que
-tenga por finalidad específica impugnar judicialmente una resolución o decisión
-adoptada por la administración penitenciaria.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La competencia en materia de ejecución de sentencias criminales y medidas de
-seguridad está radicada en el juez de garantía del lugar donde la pena deba
-cumplirse.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El condenado que ha incumplido las condiciones impuestas durante el régimen de
-libertad condicional está excluido del beneficio de reducción de condena.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La revocación de la pena sustitutiva de prestación de servicios en beneficio de la
-comunidad trae como consecuencia el cumplimiento íntegro de la pena privativa
-de libertad originalmente impuesta.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Para efectos de la libertad condicional, se entiende por “tiempo de condena” el
-total de las condenas que tenga el reo, con excepción de las que se impongan
-mientras se cumplen éstas.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Según el Reglamento de Establecimientos Penitenciarios, el desaseo de un
-condenado en su presentación personal constituye una falta disciplinaria.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La Ley N° 19.880, que establece bases de los procedimientos administrativos que
-rigen los actos de la administración del Estado, es aplicable supletoriamente a los
-procedimientos de Gendarmería de Chile.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-No procede el beneficio de reducción de condena respecto de los condenados que
-hubiere quebrantado su condena, a menos que mejore sustancialmente su
-conducta, siendo calificada como muy buena durante los dos semestres
-posteriores al reinicio del cumplimiento de su pena.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Según el Reglamento de Establecimientos Penitenciarios, la facultad de aplicar
-sanciones disciplinarias a los internos está radicada en el Jefe del Establecimiento,
-no obstante, la repetición de toda medida disciplinaria a un condenado debe ser
-autorizada por el Juez del lugar de reclusión.
-</p>
-
-<p>
-V
-</p>
-
-<ol class="org-ol">
-<li>Para acceder a la salida dominical es necesario haber sido beneficiado previamente</li>
-</ol>
-<p>
-de la salida esporádica y haber dado cumplimiento cabal a la totalidad de las
-obligaciones que impone esta última salida.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El condenado por homicidio calificado (Art. 391 N° 1 del Código Penal), al que no le
-reconoce ninguna circunstancia modificatoria de responsabilidad penal, no podrá
-optar al beneficio de reducción de su condena aunque la pena impuesta sea
-inferior a presidio perpetuo.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Antes de otorgarse un permiso de salida a un extranjero condenado debe
-recabarse si el interno tiene o no orden de expulsión del país.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-Los condenados pueden rehusarse a participar en la programación de las
-actividades y acciones para la reinserción social sin consecuencias disciplinarias.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La salida controlada al medio libre sólo puede otorgarse con autorización judicial.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Los extranjeros que ingresen a nuestro país en calidad de refugiados o asilados
-políticos sólo podrán ser expulsados administrativamente si es que son
-condenados por crimen.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Constituye circunstancia agravante cometer el delito durante el tiempo
-correspondiente al período condonado en virtud del beneficio de reducción de
-condena.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-En nuestro sistema penitenciario el juez encargado de hacer ejecutar las condenas
-criminales y las medidas de seguridad, y resolver las solicitudes y reclamos
-relativos a dicha ejecución es el juez que dictó la sentencia o impuso la medida de
-seguridad.
-</p>
-
-<p>
-F
-</p>
-
-<p>
-Es posible autorizar a internos para que realicen trabajos fuera del recinto
-penitenciario pero, sólo podrá ser en beneficio de la comunidad o encontrarse
-justificado en relación a algún programa de rehabilitación, capacitación o empleo.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-En las audiencias judiciales relativas a determinar la situación del condenado que
-cae en enajenación mental debe intervenir el Ministerio Público, el defensor y el
-Curador ad litem, si existe.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La salida controlada al medio libre debe sólo puede autorizarse con sistema de
-vigilancia electrónico (brazalete).
-</p>
-
-<p>
-F
-</p>
-
-<p>
-El tiempo que un condenado hubiere permanecido en prisión preventiva durante
-todo o parte del respectivo proceso se computará para los efectos de proceder a la
-calificación de comportamiento sobresaliente del beneficio de reducción de
-condena.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-La Ley de N° 19.856 permite postular al beneficio de reducción de condena a
-aquellas personas que se encontraren cumpliendo una condena en régimen de
-reclusión nocturna.
-</p>
-
-<p>
-V
-</p>
-
-<p>
-En nuestra normativa penitenciaria así como en el derecho internacional de los
-derechos humanos, el fin atribuido a las penas privativas de libertad durante la
-etapa de su ejecución es la prevención especial positiva.
-</p>
-
-<p>
-V
-</p>
-
-
 <p>
 Los condenados por hurto o estafa a más de seis años, podrán obtener
 la libertad condicional una vez cumplidos tres años.
@@ -41069,7 +38682,7 @@ F
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Lucas Fernandez</p>
-<p class="date">Created: 2022-10-30 dom 20:33</p>
+<p class="date">Created: 2022-10-30 dom 10:37</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

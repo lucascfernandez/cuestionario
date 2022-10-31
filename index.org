@@ -13,15 +13,15 @@ completamente autónoma por parte del autor para fines exclusivamente
 didácticos. Con todo, cabe tener presente que pueden existir
 incongruencias que deben ser advertidas por el lector.
 
-Por otro lado, esta página puede servir de utilidad práctica para el
-lector al ofrecer la posibilidad de /"abrir y cerrar"/ los títulos con
-sus respectivos contenidos, facilitando la navegación por las
-distintas materias y su visualización general.
+Por otro lado, esta página puede servir de utilidad práctica al
+ofrecer la posibilidad de /"abrir y cerrar"/ los títulos con sus
+respectivos contenidos, facilitando la navegación por las distintas
+materias y su visualización general.
 
 Por último, se informa al lector que lo contenido en esta plataforma
 consiste en una primera entrega de un trabajo realizado por una sola
-persona, y que en definitiva jamás podría tener por pretensión
-sustituir aquél ofrecido oficialmente por la misma Defensoría en un
+persona, y que en definitiva, jamás podría tener por pretensión
+sustituir aquél ofrecido oficialmente por la misma Defensoría en su
 [[https://www.dpp.cl/pag/265/533][página oficial]]. Sin embargo, se espera que esta plataforma sea de
 ayuda para aquellos que la necesiten.
 
@@ -30,8 +30,8 @@ ayuda para aquellos que la necesiten.
 Tal como se señaló anteriormente, esta página puede ofrecer una
 facilidad al navegar sobre el contenido general de ésta. En efecto, si
 el lector se fija en la parte superior derecha ⤴ podrá advertir la
-existencia de dos ítems denominados /Collapse all/ y /Expand all/ , con
-éstos se podrá abrir y cerrar el contenido de cada capítulo.
+existencia de dos ítems denominados /Collapse all/ y /Expand all/, con
+éstos se podrá abrir y cerrar el contenido de todos los capítulos.
 
 
 

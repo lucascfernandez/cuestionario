@@ -1,7 +1,8 @@
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+
 #+TITLE: Cuestionario Examen Habilitación
 #+AUTHOR: Lucas Fernandez
-
+#+LATEX_CLASS: org-plain-latex
+#+SETUPFILE: ~/Dropbox/templates/latex.setup
 
 
 * Presentación
@@ -19752,6 +19753,471 @@ Falso: Las modalidades de pago se fijarán conjuntamente.
 
 ** Alternativas
 
+Respecto del indulto particular, son correctas las siguientes afirmaciones:
+
+a) Procede respecto de todo delito.
+
+b) Consiste en la remisión, conmutación o reducción de la pena.
+
+c) Elimina la calidad de condenado para todos los efectos legales.
+
+d) Deben faltar 3 meses para el cumplimiento de la condena privativa de libertad.
+
+e) El indulto procede, tanto de condenados como imputados, siempre que haya
+precedido una formalización.
+
+Respuesta correcta:
+b) Consiste en la remisión, conmutación o reducción de la pena.
+
+
+En materias de régimen disciplinario al interior de las cárceles ¿Cuál afirmación es
+correcta?:
+
+a) En Chile no existe la sanción de internación en celda solitaria
+
+b) Si la falta es muy grave, se puede aplicar 10 días de aislamiento y privación de toda
+visita hasta por 1 mes.
+
+c) La sanción de internación en celda solitaria sólo puede aplicarse por períodos que
+no excedan los 10 días.
+
+d) Las sanciones leves las aplica el Jefe de Régimen Interno, las de mediana gravedad
+el Jefe de Establecimiento y las graves, deben ser aprobadas por el Consejo
+Técnico.
+
+e) En el caso de las personas sujetas a prisión preventiva, sólo cuando sean
+sancionados repetidamente será notificado el juez de garantía, quien podrá
+autorizarla o no si cumple los requisitos legales.
+
+Respuesta correcta:
+
+c) La sanción de internación en celda solitaria sólo puede
+aplicarse por períodos que no excedan los 10 días.
+
+No procede el beneficio de reducción de condena según lo establecido en la Ley N°
+19856, que crea un sistema de reinserción social de los condenados sobre la base de la
+observación de buena conducta, cuando concurre alguna de las circunstancias siguientes:
+
+a) Si el condenado ya hubiere obtenido el beneficio de reducción de condena con
+anterioridad.
+
+b) Si ejecutó el delito en desprecio o con ofensa de la autoridad pública o en el lugar que
+se halle ejerciendo funciones.
+
+c) Se trate de personas condenadas por violación de menor de 14 años.
+
+d) Si el condenado se encuentra haciendo uso del beneficio de libertad condicional
+
+e) Si la condena hubiere sido dictada considerando concurrente alguna de las
+circunstancias agravantes establecidas en el artículo 12 del Código Penal.
+
+Respuesta correcta:
+a) Si el condenado ya hubiere obtenido el beneficio de reducción
+de condena con anterioridad.
+
+
+El beneficio de reducción de condena consiste en:
+
+a) La rebaja del tiempo de condena equivalente a tres meses por cada año de cumplimiento
+en el cual el condenado hubiere demostrado comportamiento sobresaliente.
+
+b) La rebaja del tiempo de condena equivalente a 1 mes por cada año de cumplimiento en
+el cual el condenado hubiere demostrado comportamiento sobresaliente.
+
+c) La rebaja del tiempo de condena equivalente a dos meses y medio por cada año de
+cumplimiento en el cual el condenado hubiere demostrado comportamiento sobresaliente.
+
+d) La rebaja del tiempo de condena equivalente a dos meses por cada año de cumplimiento
+en el cual el condenado hubiere demostrado comportamiento sobresaliente. A partir de la
+mitad de la condena la rebaja de tiempo se ampliará a tres meses por cada año de
+comportamiento sobresaliente.
+
+e) Ninguna alternativa de este listado es correcta.
+
+Respuesta correcta:
+d) La rebaja del tiempo de condena equivalente a dos meses por
+cada año de cumplimiento en el cual el condenado hubiere demostrado
+comportamiento sobresaliente. A partir de la mitad de la condena la rebaja de tiempo
+se ampliará a tres meses por cada año de comportamiento sobresaliente.
+
+
+En relación con el beneficio de libertad condicional, es correcto afirmar:
+
+a) Uno de los requisitos para obtener la libertad condicional es saber leer y escribir.
+
+b) En caso de presidio perpetuo calificado deberán transcurrir 40 años de cumplimiento
+efectivo de la pena para poder postular a este beneficio.
+
+c) Cuando el tiempo mínimo de postulación es la mitad de la condena, bastarán 3 bimestres
+de buena conducta.
+
+d) Sólo puede otorgarse el beneficio a quienes cumplen los requisitos legales al momento
+de funcionamiento de la Comisión de Libertad Condicional; es decir, durante los primeros
+quince días de los meses de abril y octubre de cada año.
+
+e) La libertad condicional se concede por resolución de la Secretaría Ministerial de Justicia
+respectiva.
+
+
+Respuesta correcta:
+b) En caso de presidio perpetuo calificado deberán transcurrir
+40 años de cumplimiento efectivo de la pena para poder postular a este beneficio.
+
+
+Pablo Pizarro se encuentra cumpliendo una condena de 6 años de presidio mayor en su
+grado mínimo por un delito de robo con intimidación, solicita información acerca de los
+requisitos para poder postular a la salida dominical. El interno ha cumplido exactamente 3
+años de la pena impuesta, ha tenido muy buena conducta, ha participado en el taller
+deportivo, pero no asiste a la escuela penitenciaria ya que el curso que le corresponde (4°
+medio) no tiene vacantes. ¿Cuál información proporcionada por el defensor(a)
+penitenciario(a) es correcta?:
+
+a) El condenado deberá postular previamente a la salida esporádica y cumplir
+adecuadamente durante al menos 6 meses.
+
+b) Pablo Pizarro deberá esperar 1 año más para poder postular a la salida dominical, ya
+que el tiempo mínimo exigido para postular a este permiso de salida en caso del delito de
+robo con intimidación es de dos tercios de la pena.
+
+c) El Sr. Pizarro deberá esperar a tener un cupo en la escuela penitenciaria para poder
+postular, ya que uno de los requisitos exigidos por el reglamento de establecimientos
+penitenciarios es asistir con regularidad y provecho a la escuela.
+
+d) El condenado debe esperar que el Consejo técnico lo postule.
+
+e) Él está en condiciones de postular a la salida dominical, siempre que mantenga su buena
+conducta y siga participando de las actividades que realiza.
+
+Respuesta correcta:
+e) Él está en condiciones de postular a la salida dominical,
+siempre que mantenga su buena conducta y siga participando de las actividades que
+realiza.
+
+Señale la alternativa correcta en materia del llamado recurso de revisión:
+
+a) Por la acción de revisión se puede pedir la anulación de una sentencia
+absolutoria.
+
+b) El recurso de revisión se presenta ante el tribunal que dictó la sentencia
+impugnada, para que sea conocido por la Corte Suprema.
+
+c) El recurso de revisión sólo puede interponerse dentro de 1 año a contar de la
+notificación de la sentencia condenatoria.
+
+d) El recurso de revisión se presenta ante la Corte de Apelaciones de la jurisdicción
+donde tuvo lugar el juicio.
+
+e) No puede probarse por testigos los hechos en que se funda la solicitud de
+revisión.
+
+Respuesta correcta:
+e) No puede probarse por testigos los hechos en que se
+funda la solicitud de revisión.
+
+
+Señale la alternativa correcta respecto del Tribunal de Conducta que funciona en los
+establecimientos penitenciarios:
+
+a) Es presidido por un juez de garantía del lugar en que se encuentra el establecimiento
+penitenciario
+
+b) Una de las funciones del Tribunal de Conducta es formular, proponer y evaluar los
+proyectos y programas de reinserción dirigidos a la población penal.
+
+c) Gendarmería de Chile debe acreditar, mediante informe del respectivo Tribunal de
+Conducta y demás antecedentes, el cumplimiento de los requisitos establecidos para
+postular a la libertad condicional.
+
+d) El Tribunal de Conducta se reúne una vez al año para evaluar la conducta de las
+personas condenadas a penas privativas de libertad, o cuando el Jefe del Establecimiento
+los convoque.
+
+e) Sólo para efectos de definir los postulantes a la libertad condicional, pueden asistir a las
+sesiones del Tribunal de Conducta un miembro de los Tribunales de Justicia designado por
+la Corte de Apelaciones respectiva, un miembro de la Defensoría Penal Pública, designado
+por la jefatura de la Defensoría Regional respectiva, y un miembro del Ministerio Público.
+
+Respuesta correcta:
+c) Gendarmería de Chile debe acreditar, mediante informe del
+respectivo Tribunal de Conducta y demás antecedentes, el cumplimiento de los
+requisitos establecidos para postular a la libertad condicional.
+
+En relación con la regulación de las visitas que hace el Reglamento de Establecimientos
+Penitenciarios, es correcto señalar que:
+
+a) El estar haciendo uso de permisos de salida no obsta a solicitar visitas íntimas.
+
+b) La limitación o privación de las visitas no puede utilizarse como sanción frente a faltas
+disciplinarias de los internos
+
+c) El registro de los visitantes y sus pertenencias será realizado y dirigido por personal del
+mismo sexo del visitante.
+
+d) Para tener derecho a visitas es necesario haber sido evaluado en los últimos tres últimos
+bimestres con conducta buena o muy buena.
+
+e) Los Jefes de los establecimientos no podrán impedir las visitas de determinadas
+personas cuya presentación sea indecorosa o claramente desaseada.
+
+Respuesta correcta:
+c) El registro de los visitantes y sus pertenencias será realizado
+y dirigido por personal del mismo sexo del visitante.
+
+Uno de los requisitos que deben reunir los condenados para postular a la libertad
+condicional es contar con “conducta intachable”, lo que significa:
+
+a) No tener sanciones por faltas graves durante su condena.
+
+b) Haber sido calificado con conducta “buena” durante los últimos tres o cuatro bimestres,
+según la extensión de su condena.
+
+c) Haber sido calificado con conducta “muy buena” durante los últimos 6 bimestres.
+
+d) La calificación de su conducta como "muy buena", durante los últimos cuatro bimestres
+anteriores a su postulación, o los últimos tres bimestres, si la condena impuesta no
+excediere de quinientos cuarenta y un días.
+
+e) Tener un perfil de bajo riesgo de reincidencia.
+
+Respuesta Correcta:
+d) La calificación de su conducta como "muy buena", durante
+los últimos cuatro bimestres anteriores a su postulación, o los últimos tres
+bimestres, si la condena impuesta no excediere de quinientos cuarenta y un días.
+
+
+En relación con la facultad de Gendarmería para trasladar reclusos sin o contra su
+voluntad, es acertado decir que:
+
+a) El Reglamento de Establecimientos penitenciarios señala expresamente que es una
+sanción administrativa que sólo procede frente a reiteración de faltas disciplinarias graves.
+
+b) Es una facultad del Jefe del Establecimiento.
+
+c) El traslado implica que la conducta del interno sea calificada con nota mínima, en el
+bimestre siguiente.
+
+d) Gendarmería no puede disponer el traslado de una persona sujeta a prisión preventiva
+sin su consentimiento.
+
+e) El traslado no tiene otro objetivo que la preservación de la seguridad de los internos, sus
+compañeros de internación, del régimen del establecimiento, de los funcionarios, y de las
+tareas impuestas a la administración.
+
+Respuesta Correcta:
+e) El traslado no tiene otro objetivo que la preservación de la
+seguridad de los internos, sus compañeros de internación, del régimen del
+establecimiento, de los funcionarios, y de las tareas impuestas a la administración.
+
+Señale cuál de las siguientes alternativas es requisito para la concesión de la pena
+mixta:
+
+a) Que el condenado hubiere observado un comportamiento calificado como “bueno” o “muy
+bueno”, en los seis bimestres anteriores a su solicitud.
+
+b) Que al momento de discutirse su procedencia el condenado no registre condena por
+crimen o simple delito, a menos que hayan transcurrido 10 o 5 años, respectivamente, de
+su cumplimiento.
+
+c) Que el condenado se encuentre haciendo uso de alguno de los permisos de salida.
+
+d) Que el condenado haya cumplido al menos tres años privado de libertad.
+
+e) Que la sanción impuesta al condenado fuere de cinco años de presidio o reclusión menor
+en su grado máximo, u otra pena inferior.
+
+Respuesta correcta:
+b) Que al momento de discutirse su procedencia el condenado
+no registre condena por crimen o simple delito, a menos que hayan transcurrido 10
+o 5 años, respectivamente, de su cumplimiento.
+
+Señale cuál de las siguientes afirmaciones es correcta respecto de los permisos de
+salida:
+
+a) Los permisos de salida no proceden respecto de hechos que fueren perpetrados en el
+contexto de violaciones a los Derechos Humanos, por agentes del Estado o por personas
+o grupos de personas que actuaron con la autorización, el apoyo o la aquiescencia del
+Estado.
+
+b) Los permisos de salida esporádicos son concedidos por el Consejo Técnico.
+
+c) Uno de los requisitos para acceder a la salida dominical es haber observado muy buena
+conducta durante el año anterior a su postulación.
+
+d) Si las circunstancias existentes al momento de conceder el beneficio se modifican, de
+modo que ya no resulte aconsejable que el interno continúe gozando de él, el Jefe del
+Establecimiento deberá suspenderlo o revocarlo.
+
+e) Para postular a la salida dominical no se requiere haber cumplido un tiempo mínimo de
+la pena de manera efectiva.
+
+Respuesta correcta:
+d) Si las circunstancias existentes al momento de conceder el
+beneficio se modifican, de modo que ya no resulte aconsejable que el interno
+continúe gozando de él, el Jefe del Establecimiento deberá suspenderlo o revocarlo.
+
+
+Conforme a lo establecido en el Reglamento de Establecimientos Penitenciarios, cuál
+de las siguientes afirmaciones es incorrecta:
+
+a) El fin de la actividad penitenciaria consiste principalmente en proteger a la sociedad del
+delito.
+
+b) Fuera de los derechos perdidos o limitados por su detención, prisión preventiva o
+condena, la condición jurídica del interno es idéntica a los ciudadanos libres.
+
+c) Uno de los fines primordiales de la actividad penitenciaria consiste en la acción educativa
+necesaria para la reinserción social de los condenados.
+
+d) El Reglamento de Establecimientos Penitenciarios señala expresamente que la actividad
+penitenciaria se desarrollará con las garantías y dentro de los límites establecidos por la
+Constitución Política de la República, los tratados internacionales ratificados por Chile y
+vigentes, las leyes y sus reglamentos y las sentencias judiciales.
+
+e) El Reglamento de Establecimientos Penitenciarios garantiza la libertad ideológica y
+religiosa de los internos.
+
+Respuesta correcta:
+a) El fin de la actividad penitenciaria consiste principalmente en
+proteger a la sociedad del delito.
+
+
+En relación con el régimen disciplinario regulado en el Reglamento de Establecimientos
+Penitenciarios señale la alternativa correcta:
+
+a) En caso de falta grave sólo procede la sanción de internación en celda solitaria
+
+b) La sanción de internación en celda solitaria, en caso de las mujeres embarazas, sólo
+puede durar hasta 5 días.
+
+c) Los Jefes de turno al interior del establecimiento podrán disponer la incomunicación o
+aislamiento provisorio de cualquier interno que incurriere en falta grave, por un plazo
+máximo de veinticuatro horas.
+
+d) Las madres lactantes sancionadas con internación en celda solitaria tienen derecho a
+salir de su castigo para amamantar a sus hijos cada cuatro horas.
+
+e) Para aplicar la sanción de internación en celda solitaria se requiere la opinión favorable
+del Consejo Técnico.
+
+Respuesta correcta:
+c) Los Jefes de turno al interior del establecimiento podrán
+disponer la incomunicación o aislamiento provisorio de cualquier interno que
+incurriere en falta grave, por un plazo máximo de veinticuatro horas.
+
+
+Para acceder a la eliminación de antecedentes penales regulada por el Decreto Ley N°
+409 de 1932, es correcto afirmar:
+
+a) No se debe estar condenado por delito terrorista
+
+b) Sólo puede eliminar sus antecedentes penales la persona que registre una sola condena.
+
+c) Deben haber transcurrido 8 años desde el cumplimiento de la condena
+
+d) El Registro Civil debe emitir una resolución que así lo disponga.
+
+e) Entre otros requisitos, se debe estar en contacto con el Patronato de Reos (hoy, Centro
+de Apoyo para la Integración Social).
+
+Respuesta correcta:
+e) Entre otros requisitos, se debe estar en contacto con el
+Patronato de Reos (hoy, Centro de Apoyo para la Integración Social).
+
+¿Cuál de las siguientes afirmaciones en relación con el beneficio de reducción de
+condena, regulado por la Ley N°19.856, es correcta?
+
+a) Es otorgado por la Comisión de beneficio de reducción de condena.
+
+b) La reducción de la condena tendrá lugar sólo en el momento en que se diere total
+cumplimiento a la pena impuesta, una vez aplicadas las rebajas que correspondieren.
+
+c) Según la Ley N° 19.856, las personas condenadas a quienes se les aplicó las penas
+sustitutivas de libertad vigilada o libertad vigilada intensiva también pueden optar al
+beneficio si demuestran conducta sobresaliente.
+
+d) Quedan excluidas las personas que cumplen la pena sustitutiva de reclusión parcial.
+
+e) Sólo se considera, para efectos de la calificación de comportamiento, el tiempo que la
+persona ha cumplido en calidad de condenado, y no el que hubiere permanecido en prisión
+preventiva.
+
+Respuesta correcta: b) La reducción de la condena tendrá lugar sólo en el momento
+en que se diere total cumplimiento a la pena impuesta, una vez aplicadas las rebajas
+que correspondieren.
+
+Según lo establecido en el Decreto Ley N° 321, que establece la libertad condicional
+para las personas condenadas a penas privativas de libertad, señale la afirmación correcta
+respecto de los libertos.
+
+a) Las personas en libertad condicional deben presentarse una vez al mes en el
+establecimiento donde cumplían su condena.
+
+b) Las personas en libertad condicional deben obedecer todas las órdenes legales que
+imparta el respectivo tribunal de conducta.
+
+c) Las personas en libertad condicional quedarán sujetas a la supervisión de un delegado
+de libertad condicional de Gendarmería de Chile.
+
+d) Si la persona en libertad condicional incumpliere las condiciones establecidas en su plan
+de intervención individual sin justificación suficiente, Gendarmería de Chile deberá informar
+de ello al respectivo juez de garantía, para que se pronuncie, en audiencia citada al efecto,
+respecto de la continuidad o revocación de la libertad condicional.
+
+e) Las personas que se encontraren gozando de libertad condicional que hayan sido
+condenadas por conductas que la sentencia, en conformidad al derecho internacional,
+hubiere considerado como genocidio, crímenes de lesa humanidad o crímenes de guerra
+sólo pueden ser beneficiadas con la libertad completa, al cumplir los dos tercios del
+beneficio y las condiciones de plan de intervención individual.
+
+Respuesta correcta:
+c) Las personas en libertad condicional quedarán sujetas a la
+supervisión de un delegado de libertad condicional de Gendarmería de Chile.
+
+
+
+De acuerdo al Decreto ley N° 321, sobre libertad condicional, es correcto decir que:
+
+a) La libertad condicional es una forma de cumplir la pena que beneficia a las personas que
+no tienen antecedentes anteriores y demuestran buena conducta.
+
+b) La libertad condicional es un medio de prueba de que el delincuente se encuentra
+resocializado.
+
+c) La libertad condicional es un beneficio especialmente destinado a los condenados que
+han pedido perdón a las víctimas.
+
+d) La libertad condicional es un beneficio para toda persona condenada a una pena privativa
+de libertad de más de un año de duración, siempre que cumpla con los requisitos legales.
+
+e) La resolución de la Comisión de Libertad Condicional que rechaza el beneficio es
+apelable ante la respectiva Corte de Apelaciones.
+
+Respuesta correcta:
+d) La libertad condicional es un beneficio para toda persona
+condenada a una pena privativa de libertad de más de un año de duración, siempre
+que cumpla con los requisitos legales.
+
+En relación con la pena mixta regulada en la Ley N° 18,216, señale la alternativa
+correcta:
+
+a) La decisión que concede la pena mixta no es apelable.
+
+b) La decisión que deniega la pena mixta es apelable.
+
+c) Si el tribunal no otorga la pena mixta, ésta puede discutirse nuevamente en cualquier
+momento.
+
+d) Los condenados que fueren beneficiados con la interrupción de la pena privativa de
+libertad que cumplan satisfactoriamente su plan de intervención individual, podrán acceder
+al reemplazo de la libertad vigilada intensiva por el régimen de libertad vigilada.
+
+e) El control de la pena mixta mediante monitoreo telemático sólo se dispondrá en casos
+muy justificados.
+
+Respuesta correcta:
+b) La decisión que deniega la pena mixta es apelable.
+
+
 Respecto de la posibilidad de interrumpir una pena privativa de libertad y
 remplazarla por el régimen de libertad vigilada intensiva, señale la alternativa
 correcta:
@@ -19762,11 +20228,11 @@ si procede no es el que condenó al postulante si no el de ejecución
 II.Para acceder a la pena mixta es necesario que el penado haya cumplido al menos
 un tercio de la pena privativa de libertad de manera efectiva
 
-III.La sanción impuesta al condenado no puede ser mayor a cinco años de presidio o
-reclusión menor en grado máximo
+III.La sanción impuesta al condenado no puede ser mayor a cinco años
+de presidio o reclusión menor en grado máximo y el postulante no debe
+presentar condenas anteriores, aun cuando hayan sido impuestas bajo el
+régimen de la Ley 20.084 de responsabilidad penal adolescente
 
-IV. El postulante no debe presentar condenas anteriores, aun cuando hayan sido
-impuestas bajo el régimen de la Ley 20.084 de responsabilidad penal adolescente
 
 a) Sólo I
 

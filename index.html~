@@ -3,23 +3,196 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-10-30 dom 21:58 -->
+<!-- 2022-11-03 jue 10:13 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cuestionario Examen Habilitación</title>
 <meta name="author" content="Lucas Fernandez" />
 <meta name="generator" content="Org Mode" />
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
-<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
-<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
 </head>
 <body>
 <div id="content" class="content">
@@ -28,66 +201,66 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org7ea58b6">1. Presentación</a>
+<li><a href="#orgd75caee">1. Presentación</a>
 <ul>
-<li><a href="#orgf54f406">1.1. Recomendación</a></li>
-<li><a href="#org6b86aad">1.2. Archivos de Descarga</a>
+<li><a href="#orgc8590c8">1.1. Recomendación</a></li>
+<li><a href="#orgf6d9176">1.2. Archivos de Descarga</a>
 <ul>
-<li><a href="#org34a217f">1.2.1. Penal</a></li>
-<li><a href="#orgec8fff1">1.2.2. Procesal</a></li>
-<li><a href="#orge4c6f83">1.2.3. Humanos</a></li>
-<li><a href="#org6d34404">1.2.4. Ley DPP</a></li>
-<li><a href="#org623b37c">1.2.5. Penitenciario</a></li>
+<li><a href="#org8b5f409">1.2.1. Penal</a></li>
+<li><a href="#orge6da090">1.2.2. Procesal</a></li>
+<li><a href="#org19588c7">1.2.3. Humanos</a></li>
+<li><a href="#org0b8f55d">1.2.4. Ley DPP</a></li>
+<li><a href="#org8048e02">1.2.5. Penitenciario</a></li>
 </ul>
 </li>
-<li><a href="#orgbb9e961">1.3. Pendiente</a>
+<li><a href="#org17bb5c1">1.3. Pendiente</a>
 <ul>
-<li><a href="#orgc33c31e">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
-<li><a href="#org6b4dc44">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
-<li><a href="#org4841b36">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
-<li><a href="#orgbe00518">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org8605ff1">2. Penal</a>
-<ul>
-<li><a href="#org1524acb">2.1. General</a>
-<ul>
-<li><a href="#org729756c">2.1.1. Alternativas</a></li>
-<li><a href="#org2a7dbcd">2.1.2. Verdadero y Falso</a></li>
-</ul>
-</li>
-<li><a href="#org2311bbe">2.2. Especial</a>
-<ul>
-<li><a href="#org8eb876d">2.2.1. Alternativas</a></li>
-<li><a href="#org593097b">2.2.2. Verdadero y Falso</a></li>
+<li><a href="#org19055ad">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
+<li><a href="#org8bf500c">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
+<li><a href="#org366594a">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
+<li><a href="#org0954965">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org269580d">3. Procesal</a>
+<li><a href="#org9e1ff9b">2. Penal</a>
 <ul>
-<li><a href="#org9b72669">3.1. Alternativas</a></li>
-<li><a href="#org08a07cb">3.2. Verdadero y Falso</a></li>
+<li><a href="#orga09ec6a">2.1. General</a>
+<ul>
+<li><a href="#org74f9000">2.1.1. Alternativas</a></li>
+<li><a href="#orgc2373c6">2.1.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org438177b">4. Humanos</a>
+<li><a href="#orgbe99e28">2.2. Especial</a>
 <ul>
-<li><a href="#orgdc511aa">4.1. Alternativas</a></li>
-<li><a href="#org6c6c8f2">4.2. Verdadero y Falso</a></li>
+<li><a href="#org28ebea8">2.2.1. Alternativas</a></li>
+<li><a href="#org8995726">2.2.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org4a5db02">5. Ley DPP</a>
-<ul>
-<li><a href="#orgaa33ef2">5.1. Alternativas</a></li>
-<li><a href="#org5b555d4">5.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org6a2c69e">6. Penitenciario</a>
+<li><a href="#org81919c1">3. Procesal</a>
 <ul>
-<li><a href="#orgccf57b8">6.1. Alternativas</a></li>
-<li><a href="#org3368cdc">6.2. Verdadero y Falso</a></li>
+<li><a href="#org2d0ccd6">3.1. Alternativas</a></li>
+<li><a href="#org0ab36c2">3.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org93027ab">4. Humanos</a>
+<ul>
+<li><a href="#org9da26b6">4.1. Alternativas</a></li>
+<li><a href="#org662cd4c">4.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org4a09f51">5. Ley DPP</a>
+<ul>
+<li><a href="#org9882332">5.1. Alternativas</a></li>
+<li><a href="#org62d078c">5.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org3bde23c">6. Penitenciario</a>
+<ul>
+<li><a href="#org39e31d1">6.1. Alternativas</a></li>
+<li><a href="#org5fdab41">6.2. Verdadero y Falso</a></li>
 </ul>
 </li>
 </ul>
@@ -95,9 +268,8 @@
 </div>
 
 
-
-<div id="outline-container-org7ea58b6" class="outline-2">
-<h2 id="org7ea58b6"><span class="section-number-2">1.</span> Presentación</h2>
+<div id="outline-container-orgd75caee" class="outline-2">
+<h2 id="orgd75caee"><span class="section-number-2">1.</span> Presentación</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 El siguiente documento/página contiene una recompilación de las
@@ -125,8 +297,8 @@ ayuda para aquellos que la necesiten.
 </p>
 </div>
 
-<div id="outline-container-orgf54f406" class="outline-3">
-<h3 id="orgf54f406"><span class="section-number-3">1.1.</span> Recomendación</h3>
+<div id="outline-container-orgc8590c8" class="outline-3">
+<h3 id="orgc8590c8"><span class="section-number-3">1.1.</span> Recomendación</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Tal como se señaló anteriormente, esta página puede ofrecer una
@@ -140,8 +312,8 @@ existencia de dos ítems denominados <i>Collapse all</i> y <i>Expand all</i>, co
 
 
 
-<div id="outline-container-org6b86aad" class="outline-3">
-<h3 id="org6b86aad"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
+<div id="outline-container-orgf6d9176" class="outline-3">
+<h3 id="orgf6d9176"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Con la finalidad de facilitar el buen uso de la información
@@ -151,8 +323,8 @@ mantener una copia física.
 </p>
 </div>
 
-<div id="outline-container-org34a217f" class="outline-4">
-<h4 id="org34a217f"><span class="section-number-4">1.2.1.</span> Penal</h4>
+<div id="outline-container-org8b5f409" class="outline-4">
+<h4 id="org8b5f409"><span class="section-number-4">1.2.1.</span> Penal</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <p>
 <a href="https://drive.google.com/file/d/14V0RjynKEk_z1j_iyjCQRMqEMNcegRyl/view?usp=sharing">Presione Aquí</a>
@@ -160,8 +332,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-orgec8fff1" class="outline-4">
-<h4 id="orgec8fff1"><span class="section-number-4">1.2.2.</span> Procesal</h4>
+<div id="outline-container-orge6da090" class="outline-4">
+<h4 id="orge6da090"><span class="section-number-4">1.2.2.</span> Procesal</h4>
 <div class="outline-text-4" id="text-1-2-2">
 <p>
 <a href="https://drive.google.com/file/d/1X_Al-3Ozc2VLlvVZ3x2No7GVIPaAy0sy/view?usp=sharing">Presione Aquí</a>
@@ -169,8 +341,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-orge4c6f83" class="outline-4">
-<h4 id="orge4c6f83"><span class="section-number-4">1.2.3.</span> Humanos</h4>
+<div id="outline-container-org19588c7" class="outline-4">
+<h4 id="org19588c7"><span class="section-number-4">1.2.3.</span> Humanos</h4>
 <div class="outline-text-4" id="text-1-2-3">
 <p>
 <a href="https://drive.google.com/file/d/1CCEWIRv1pyQ9d6-qmdJ_QNw2yPaV-zAl/view?usp=sharing">Presione Aquí</a>
@@ -178,8 +350,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org6d34404" class="outline-4">
-<h4 id="org6d34404"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
+<div id="outline-container-org0b8f55d" class="outline-4">
+<h4 id="org0b8f55d"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
 <div class="outline-text-4" id="text-1-2-4">
 <p>
 <a href="https://drive.google.com/file/d/1_tCkMazc2Hc2T8ljJVJKJgqvWW2eIxE4/view?usp=sharing">Presione Aquí</a>
@@ -187,8 +359,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org623b37c" class="outline-4">
-<h4 id="org623b37c"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
+<div id="outline-container-org8048e02" class="outline-4">
+<h4 id="org8048e02"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
 <div class="outline-text-4" id="text-1-2-5">
 <p>
 <a href="https://drive.google.com/file/d/1znjd0yhQa4ZshXcE7o0QRl0Fe0H0lyuF/view?usp=sharing">Presione Aquí</a>
@@ -197,23 +369,23 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-orgbb9e961" class="outline-3">
-<h3 id="orgbb9e961"><span class="section-number-3">1.3.</span> Pendiente</h3>
+<div id="outline-container-org17bb5c1" class="outline-3">
+<h3 id="org17bb5c1"><span class="section-number-3">1.3.</span> Pendiente</h3>
 <div class="outline-text-3" id="text-1-3">
 </div>
-<div id="outline-container-orgc33c31e" class="outline-4">
-<h4 id="orgc33c31e"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
+<div id="outline-container-org19055ad" class="outline-4">
+<h4 id="org19055ad"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
 </div>
 
-<div id="outline-container-org6b4dc44" class="outline-4">
-<h4 id="org6b4dc44"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
+<div id="outline-container-org8bf500c" class="outline-4">
+<h4 id="org8bf500c"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
 </div>
 
-<div id="outline-container-org4841b36" class="outline-4">
-<h4 id="org4841b36"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
+<div id="outline-container-org366594a" class="outline-4">
+<h4 id="org366594a"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
 </div>
-<div id="outline-container-orgbe00518" class="outline-4">
-<h4 id="orgbe00518"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
+<div id="outline-container-org0954965" class="outline-4">
+<h4 id="org0954965"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
 <div class="outline-text-4" id="text-1-3-4">
 <p>
 Estar atento cuando actualicen la página:
@@ -223,16 +395,16 @@ Estar atento cuando actualicen la página:
 </div>
 </div>
 </div>
-<div id="outline-container-org8605ff1" class="outline-2">
-<h2 id="org8605ff1"><span class="section-number-2">2.</span> Penal</h2>
+<div id="outline-container-org9e1ff9b" class="outline-2">
+<h2 id="org9e1ff9b"><span class="section-number-2">2.</span> Penal</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org1524acb" class="outline-3">
-<h3 id="org1524acb"><span class="section-number-3">2.1.</span> General</h3>
+<div id="outline-container-orga09ec6a" class="outline-3">
+<h3 id="orga09ec6a"><span class="section-number-3">2.1.</span> General</h3>
 <div class="outline-text-3" id="text-2-1">
 </div>
-<div id="outline-container-org729756c" class="outline-4">
-<h4 id="org729756c"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
+<div id="outline-container-org74f9000" class="outline-4">
+<h4 id="org74f9000"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Señale cual o cuáles de los siguientes enunciados es/son correctos
@@ -7145,8 +7317,8 @@ Estudios y Proyectos, Defensoría Penal Pública.
 </div>
 
 
-<div id="outline-container-org2a7dbcd" class="outline-4">
-<h4 id="org2a7dbcd"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-orgc2373c6" class="outline-4">
+<h4 id="orgc2373c6"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-1-2">
 <p>
 El artículo 2° del Código Penal emplea la voz “dolo”, haciéndola
@@ -9278,12 +9450,12 @@ Verdadero
 </div>
 </div>
 
-<div id="outline-container-org2311bbe" class="outline-3">
-<h3 id="org2311bbe"><span class="section-number-3">2.2.</span> Especial</h3>
+<div id="outline-container-orgbe99e28" class="outline-3">
+<h3 id="orgbe99e28"><span class="section-number-3">2.2.</span> Especial</h3>
 <div class="outline-text-3" id="text-2-2">
 </div>
-<div id="outline-container-org8eb876d" class="outline-4">
-<h4 id="org8eb876d"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
+<div id="outline-container-org28ebea8" class="outline-4">
+<h4 id="org28ebea8"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-2-1">
 <p>
 En el delito de perjurio, de acuerdo a la opinión dominante, es
@@ -14922,8 +15094,8 @@ Estudios y Proyectos
 
 
 
-<div id="outline-container-org593097b" class="outline-4">
-<h4 id="org593097b"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org8995726" class="outline-4">
+<h4 id="org8995726"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-2-2">
 <p>
 El concurso aparente de leyes penales entre el homicidio calificado y
@@ -16966,12 +17138,12 @@ acción judicial constituye amenazas.
 
 
 
-<div id="outline-container-org269580d" class="outline-2">
-<h2 id="org269580d"><span class="section-number-2">3.</span> Procesal</h2>
+<div id="outline-container-org81919c1" class="outline-2">
+<h2 id="org81919c1"><span class="section-number-2">3.</span> Procesal</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org9b72669" class="outline-3">
-<h3 id="org9b72669"><span class="section-number-3">3.1.</span> Alternativas</h3>
+<div id="outline-container-org2d0ccd6" class="outline-3">
+<h3 id="org2d0ccd6"><span class="section-number-3">3.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Señale cuál o cuáles de las siguientes afirmación/es es/son correctas
@@ -28625,8 +28797,8 @@ Letra d).
 
 
 
-<div id="outline-container-org08a07cb" class="outline-3">
-<h3 id="org08a07cb"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org0ab36c2" class="outline-3">
+<h3 id="org0ab36c2"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Conforme las reglas del juicio oral, sólo en los casos previstos en
@@ -32096,12 +32268,12 @@ Verdadero.
 </div>
 
 
-<div id="outline-container-org438177b" class="outline-2">
-<h2 id="org438177b"><span class="section-number-2">4.</span> Humanos</h2>
+<div id="outline-container-org93027ab" class="outline-2">
+<h2 id="org93027ab"><span class="section-number-2">4.</span> Humanos</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-orgdc511aa" class="outline-3">
-<h3 id="orgdc511aa"><span class="section-number-3">4.1.</span> Alternativas</h3>
+<div id="outline-container-org9da26b6" class="outline-3">
+<h3 id="org9da26b6"><span class="section-number-3">4.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Cuál o cuáles de las siguientes afirmaciones es o son correctas:
@@ -32995,8 +33167,8 @@ Penal Pública” (2020), pp129-135.
 </div>
 
 
-<div id="outline-container-org6c6c8f2" class="outline-3">
-<h3 id="org6c6c8f2"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org662cd4c" class="outline-3">
+<h3 id="org662cd4c"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 El Tribunal Constitucional ha señalado que la existencia de un trato
@@ -33361,12 +33533,12 @@ Penal.
 
 
 
-<div id="outline-container-org4a5db02" class="outline-2">
-<h2 id="org4a5db02"><span class="section-number-2">5.</span> Ley DPP</h2>
+<div id="outline-container-org4a09f51" class="outline-2">
+<h2 id="org4a09f51"><span class="section-number-2">5.</span> Ley DPP</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-orgaa33ef2" class="outline-3">
-<h3 id="orgaa33ef2"><span class="section-number-3">5.1.</span> Alternativas</h3>
+<div id="outline-container-org9882332" class="outline-3">
+<h3 id="org9882332"><span class="section-number-3">5.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 En relación con las facultades del Defensor Regional, es correcto
@@ -34144,8 +34316,8 @@ c)
 </div>
 
 
-<div id="outline-container-org5b555d4" class="outline-3">
-<h3 id="org5b555d4"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org62d078c" class="outline-3">
+<h3 id="org62d078c"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 De conformidad al artículo 61 de la ley 20.000, los defensores penales
@@ -34300,13 +34472,760 @@ Falso: Las modalidades de pago se fijarán conjuntamente.
 
 
 
-<div id="outline-container-org6a2c69e" class="outline-2">
-<h2 id="org6a2c69e"><span class="section-number-2">6.</span> Penitenciario</h2>
+<div id="outline-container-org3bde23c" class="outline-2">
+<h2 id="org3bde23c"><span class="section-number-2">6.</span> Penitenciario</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-orgccf57b8" class="outline-3">
-<h3 id="orgccf57b8"><span class="section-number-3">6.1.</span> Alternativas</h3>
+<div id="outline-container-org39e31d1" class="outline-3">
+<h3 id="org39e31d1"><span class="section-number-3">6.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-6-1">
+<p>
+Respecto del indulto particular, son correctas las siguientes afirmaciones:
+</p>
+
+<p>
+a) Procede respecto de todo delito.
+</p>
+
+<p>
+b) Consiste en la remisión, conmutación o reducción de la pena.
+</p>
+
+<p>
+c) Elimina la calidad de condenado para todos los efectos legales.
+</p>
+
+<p>
+d) Deben faltar 3 meses para el cumplimiento de la condena privativa de libertad.
+</p>
+
+<p>
+e) El indulto procede, tanto de condenados como imputados, siempre que haya
+precedido una formalización.
+</p>
+
+<p>
+Respuesta correcta:
+b) Consiste en la remisión, conmutación o reducción de la pena.
+</p>
+
+
+<p>
+En materias de régimen disciplinario al interior de las cárceles ¿Cuál afirmación es
+correcta?:
+</p>
+
+<p>
+a) En Chile no existe la sanción de internación en celda solitaria
+</p>
+
+<p>
+b) Si la falta es muy grave, se puede aplicar 10 días de aislamiento y privación de toda
+visita hasta por 1 mes.
+</p>
+
+<p>
+c) La sanción de internación en celda solitaria sólo puede aplicarse por períodos que
+no excedan los 10 días.
+</p>
+
+<p>
+d) Las sanciones leves las aplica el Jefe de Régimen Interno, las de mediana gravedad
+el Jefe de Establecimiento y las graves, deben ser aprobadas por el Consejo
+Técnico.
+</p>
+
+<p>
+e) En el caso de las personas sujetas a prisión preventiva, sólo cuando sean
+sancionados repetidamente será notificado el juez de garantía, quien podrá
+autorizarla o no si cumple los requisitos legales.
+</p>
+
+<p>
+Respuesta correcta:
+</p>
+
+<p>
+c) La sanción de internación en celda solitaria sólo puede
+aplicarse por períodos que no excedan los 10 días.
+</p>
+
+<p>
+No procede el beneficio de reducción de condena según lo establecido en la Ley N°
+19856, que crea un sistema de reinserción social de los condenados sobre la base de la
+observación de buena conducta, cuando concurre alguna de las circunstancias siguientes:
+</p>
+
+<p>
+a) Si el condenado ya hubiere obtenido el beneficio de reducción de condena con
+anterioridad.
+</p>
+
+<p>
+b) Si ejecutó el delito en desprecio o con ofensa de la autoridad pública o en el lugar que
+se halle ejerciendo funciones.
+</p>
+
+<p>
+c) Se trate de personas condenadas por violación de menor de 14 años.
+</p>
+
+<p>
+d) Si el condenado se encuentra haciendo uso del beneficio de libertad condicional
+</p>
+
+<p>
+e) Si la condena hubiere sido dictada considerando concurrente alguna de las
+circunstancias agravantes establecidas en el artículo 12 del Código Penal.
+</p>
+
+<p>
+Respuesta correcta:
+a) Si el condenado ya hubiere obtenido el beneficio de reducción
+de condena con anterioridad.
+</p>
+
+
+<p>
+El beneficio de reducción de condena consiste en:
+</p>
+
+<p>
+a) La rebaja del tiempo de condena equivalente a tres meses por cada año de cumplimiento
+en el cual el condenado hubiere demostrado comportamiento sobresaliente.
+</p>
+
+<p>
+b) La rebaja del tiempo de condena equivalente a 1 mes por cada año de cumplimiento en
+el cual el condenado hubiere demostrado comportamiento sobresaliente.
+</p>
+
+<p>
+c) La rebaja del tiempo de condena equivalente a dos meses y medio por cada año de
+cumplimiento en el cual el condenado hubiere demostrado comportamiento sobresaliente.
+</p>
+
+<p>
+d) La rebaja del tiempo de condena equivalente a dos meses por cada año de cumplimiento
+en el cual el condenado hubiere demostrado comportamiento sobresaliente. A partir de la
+mitad de la condena la rebaja de tiempo se ampliará a tres meses por cada año de
+comportamiento sobresaliente.
+</p>
+
+<p>
+e) Ninguna alternativa de este listado es correcta.
+</p>
+
+<p>
+Respuesta correcta:
+d) La rebaja del tiempo de condena equivalente a dos meses por
+cada año de cumplimiento en el cual el condenado hubiere demostrado
+comportamiento sobresaliente. A partir de la mitad de la condena la rebaja de tiempo
+se ampliará a tres meses por cada año de comportamiento sobresaliente.
+</p>
+
+
+<p>
+En relación con el beneficio de libertad condicional, es correcto afirmar:
+</p>
+
+<p>
+a) Uno de los requisitos para obtener la libertad condicional es saber leer y escribir.
+</p>
+
+<p>
+b) En caso de presidio perpetuo calificado deberán transcurrir 40 años de cumplimiento
+efectivo de la pena para poder postular a este beneficio.
+</p>
+
+<p>
+c) Cuando el tiempo mínimo de postulación es la mitad de la condena, bastarán 3 bimestres
+de buena conducta.
+</p>
+
+<p>
+d) Sólo puede otorgarse el beneficio a quienes cumplen los requisitos legales al momento
+de funcionamiento de la Comisión de Libertad Condicional; es decir, durante los primeros
+quince días de los meses de abril y octubre de cada año.
+</p>
+
+<p>
+e) La libertad condicional se concede por resolución de la Secretaría Ministerial de Justicia
+respectiva.
+</p>
+
+
+<p>
+Respuesta correcta:
+b) En caso de presidio perpetuo calificado deberán transcurrir
+40 años de cumplimiento efectivo de la pena para poder postular a este beneficio.
+</p>
+
+
+<p>
+Pablo Pizarro se encuentra cumpliendo una condena de 6 años de presidio mayor en su
+grado mínimo por un delito de robo con intimidación, solicita información acerca de los
+requisitos para poder postular a la salida dominical. El interno ha cumplido exactamente 3
+años de la pena impuesta, ha tenido muy buena conducta, ha participado en el taller
+deportivo, pero no asiste a la escuela penitenciaria ya que el curso que le corresponde (4°
+medio) no tiene vacantes. ¿Cuál información proporcionada por el defensor(a)
+penitenciario(a) es correcta?:
+</p>
+
+<p>
+a) El condenado deberá postular previamente a la salida esporádica y cumplir
+adecuadamente durante al menos 6 meses.
+</p>
+
+<p>
+b) Pablo Pizarro deberá esperar 1 año más para poder postular a la salida dominical, ya
+que el tiempo mínimo exigido para postular a este permiso de salida en caso del delito de
+robo con intimidación es de dos tercios de la pena.
+</p>
+
+<p>
+c) El Sr. Pizarro deberá esperar a tener un cupo en la escuela penitenciaria para poder
+postular, ya que uno de los requisitos exigidos por el reglamento de establecimientos
+penitenciarios es asistir con regularidad y provecho a la escuela.
+</p>
+
+<p>
+d) El condenado debe esperar que el Consejo técnico lo postule.
+</p>
+
+<p>
+e) Él está en condiciones de postular a la salida dominical, siempre que mantenga su buena
+conducta y siga participando de las actividades que realiza.
+</p>
+
+<p>
+Respuesta correcta:
+e) Él está en condiciones de postular a la salida dominical,
+siempre que mantenga su buena conducta y siga participando de las actividades que
+realiza.
+</p>
+
+<p>
+Señale la alternativa correcta en materia del llamado recurso de revisión:
+</p>
+
+<p>
+a) Por la acción de revisión se puede pedir la anulación de una sentencia
+absolutoria.
+</p>
+
+<p>
+b) El recurso de revisión se presenta ante el tribunal que dictó la sentencia
+impugnada, para que sea conocido por la Corte Suprema.
+</p>
+
+<p>
+c) El recurso de revisión sólo puede interponerse dentro de 1 año a contar de la
+notificación de la sentencia condenatoria.
+</p>
+
+<p>
+d) El recurso de revisión se presenta ante la Corte de Apelaciones de la jurisdicción
+donde tuvo lugar el juicio.
+</p>
+
+<p>
+e) No puede probarse por testigos los hechos en que se funda la solicitud de
+revisión.
+</p>
+
+<p>
+Respuesta correcta:
+e) No puede probarse por testigos los hechos en que se
+funda la solicitud de revisión.
+</p>
+
+
+<p>
+Señale la alternativa correcta respecto del Tribunal de Conducta que funciona en los
+establecimientos penitenciarios:
+</p>
+
+<p>
+a) Es presidido por un juez de garantía del lugar en que se encuentra el establecimiento
+penitenciario
+</p>
+
+<p>
+b) Una de las funciones del Tribunal de Conducta es formular, proponer y evaluar los
+proyectos y programas de reinserción dirigidos a la población penal.
+</p>
+
+<p>
+c) Gendarmería de Chile debe acreditar, mediante informe del respectivo Tribunal de
+Conducta y demás antecedentes, el cumplimiento de los requisitos establecidos para
+postular a la libertad condicional.
+</p>
+
+<p>
+d) El Tribunal de Conducta se reúne una vez al año para evaluar la conducta de las
+personas condenadas a penas privativas de libertad, o cuando el Jefe del Establecimiento
+los convoque.
+</p>
+
+<p>
+e) Sólo para efectos de definir los postulantes a la libertad condicional, pueden asistir a las
+sesiones del Tribunal de Conducta un miembro de los Tribunales de Justicia designado por
+la Corte de Apelaciones respectiva, un miembro de la Defensoría Penal Pública, designado
+por la jefatura de la Defensoría Regional respectiva, y un miembro del Ministerio Público.
+</p>
+
+<p>
+Respuesta correcta:
+c) Gendarmería de Chile debe acreditar, mediante informe del
+respectivo Tribunal de Conducta y demás antecedentes, el cumplimiento de los
+requisitos establecidos para postular a la libertad condicional.
+</p>
+
+<p>
+En relación con la regulación de las visitas que hace el Reglamento de Establecimientos
+Penitenciarios, es correcto señalar que:
+</p>
+
+<p>
+a) El estar haciendo uso de permisos de salida no obsta a solicitar visitas íntimas.
+</p>
+
+<p>
+b) La limitación o privación de las visitas no puede utilizarse como sanción frente a faltas
+disciplinarias de los internos
+</p>
+
+<p>
+c) El registro de los visitantes y sus pertenencias será realizado y dirigido por personal del
+mismo sexo del visitante.
+</p>
+
+<p>
+d) Para tener derecho a visitas es necesario haber sido evaluado en los últimos tres últimos
+bimestres con conducta buena o muy buena.
+</p>
+
+<p>
+e) Los Jefes de los establecimientos no podrán impedir las visitas de determinadas
+personas cuya presentación sea indecorosa o claramente desaseada.
+</p>
+
+<p>
+Respuesta correcta:
+c) El registro de los visitantes y sus pertenencias será realizado
+y dirigido por personal del mismo sexo del visitante.
+</p>
+
+<p>
+Uno de los requisitos que deben reunir los condenados para postular a la libertad
+condicional es contar con “conducta intachable”, lo que significa:
+</p>
+
+<p>
+a) No tener sanciones por faltas graves durante su condena.
+</p>
+
+<p>
+b) Haber sido calificado con conducta “buena” durante los últimos tres o cuatro bimestres,
+según la extensión de su condena.
+</p>
+
+<p>
+c) Haber sido calificado con conducta “muy buena” durante los últimos 6 bimestres.
+</p>
+
+<p>
+d) La calificación de su conducta como "muy buena", durante los últimos cuatro bimestres
+anteriores a su postulación, o los últimos tres bimestres, si la condena impuesta no
+excediere de quinientos cuarenta y un días.
+</p>
+
+<p>
+e) Tener un perfil de bajo riesgo de reincidencia.
+</p>
+
+<p>
+Respuesta Correcta:
+d) La calificación de su conducta como "muy buena", durante
+los últimos cuatro bimestres anteriores a su postulación, o los últimos tres
+bimestres, si la condena impuesta no excediere de quinientos cuarenta y un días.
+</p>
+
+
+<p>
+En relación con la facultad de Gendarmería para trasladar reclusos sin o contra su
+voluntad, es acertado decir que:
+</p>
+
+<p>
+a) El Reglamento de Establecimientos penitenciarios señala expresamente que es una
+sanción administrativa que sólo procede frente a reiteración de faltas disciplinarias graves.
+</p>
+
+<p>
+b) Es una facultad del Jefe del Establecimiento.
+</p>
+
+<p>
+c) El traslado implica que la conducta del interno sea calificada con nota mínima, en el
+bimestre siguiente.
+</p>
+
+<p>
+d) Gendarmería no puede disponer el traslado de una persona sujeta a prisión preventiva
+sin su consentimiento.
+</p>
+
+<p>
+e) El traslado no tiene otro objetivo que la preservación de la seguridad de los internos, sus
+compañeros de internación, del régimen del establecimiento, de los funcionarios, y de las
+tareas impuestas a la administración.
+</p>
+
+<p>
+Respuesta Correcta:
+e) El traslado no tiene otro objetivo que la preservación de la
+seguridad de los internos, sus compañeros de internación, del régimen del
+establecimiento, de los funcionarios, y de las tareas impuestas a la administración.
+</p>
+
+<p>
+Señale cuál de las siguientes alternativas es requisito para la concesión de la pena
+mixta:
+</p>
+
+<p>
+a) Que el condenado hubiere observado un comportamiento calificado como “bueno” o “muy
+bueno”, en los seis bimestres anteriores a su solicitud.
+</p>
+
+<p>
+b) Que al momento de discutirse su procedencia el condenado no registre condena por
+crimen o simple delito, a menos que hayan transcurrido 10 o 5 años, respectivamente, de
+su cumplimiento.
+</p>
+
+<p>
+c) Que el condenado se encuentre haciendo uso de alguno de los permisos de salida.
+</p>
+
+<p>
+d) Que el condenado haya cumplido al menos tres años privado de libertad.
+</p>
+
+<p>
+e) Que la sanción impuesta al condenado fuere de cinco años de presidio o reclusión menor
+en su grado máximo, u otra pena inferior.
+</p>
+
+<p>
+Respuesta correcta:
+b) Que al momento de discutirse su procedencia el condenado
+no registre condena por crimen o simple delito, a menos que hayan transcurrido 10
+o 5 años, respectivamente, de su cumplimiento.
+</p>
+
+<p>
+Señale cuál de las siguientes afirmaciones es correcta respecto de los permisos de
+salida:
+</p>
+
+<p>
+a) Los permisos de salida no proceden respecto de hechos que fueren perpetrados en el
+contexto de violaciones a los Derechos Humanos, por agentes del Estado o por personas
+o grupos de personas que actuaron con la autorización, el apoyo o la aquiescencia del
+Estado.
+</p>
+
+<p>
+b) Los permisos de salida esporádicos son concedidos por el Consejo Técnico.
+</p>
+
+<p>
+c) Uno de los requisitos para acceder a la salida dominical es haber observado muy buena
+conducta durante el año anterior a su postulación.
+</p>
+
+<p>
+d) Si las circunstancias existentes al momento de conceder el beneficio se modifican, de
+modo que ya no resulte aconsejable que el interno continúe gozando de él, el Jefe del
+Establecimiento deberá suspenderlo o revocarlo.
+</p>
+
+<p>
+e) Para postular a la salida dominical no se requiere haber cumplido un tiempo mínimo de
+la pena de manera efectiva.
+</p>
+
+<p>
+Respuesta correcta:
+d) Si las circunstancias existentes al momento de conceder el
+beneficio se modifican, de modo que ya no resulte aconsejable que el interno
+continúe gozando de él, el Jefe del Establecimiento deberá suspenderlo o revocarlo.
+</p>
+
+
+<p>
+Conforme a lo establecido en el Reglamento de Establecimientos Penitenciarios, cuál
+de las siguientes afirmaciones es incorrecta:
+</p>
+
+<p>
+a) El fin de la actividad penitenciaria consiste principalmente en proteger a la sociedad del
+delito.
+</p>
+
+<p>
+b) Fuera de los derechos perdidos o limitados por su detención, prisión preventiva o
+condena, la condición jurídica del interno es idéntica a los ciudadanos libres.
+</p>
+
+<p>
+c) Uno de los fines primordiales de la actividad penitenciaria consiste en la acción educativa
+necesaria para la reinserción social de los condenados.
+</p>
+
+<p>
+d) El Reglamento de Establecimientos Penitenciarios señala expresamente que la actividad
+penitenciaria se desarrollará con las garantías y dentro de los límites establecidos por la
+Constitución Política de la República, los tratados internacionales ratificados por Chile y
+vigentes, las leyes y sus reglamentos y las sentencias judiciales.
+</p>
+
+<p>
+e) El Reglamento de Establecimientos Penitenciarios garantiza la libertad ideológica y
+religiosa de los internos.
+</p>
+
+<p>
+Respuesta correcta:
+a) El fin de la actividad penitenciaria consiste principalmente en
+proteger a la sociedad del delito.
+</p>
+
+
+<p>
+En relación con el régimen disciplinario regulado en el Reglamento de Establecimientos
+Penitenciarios señale la alternativa correcta:
+</p>
+
+<p>
+a) En caso de falta grave sólo procede la sanción de internación en celda solitaria
+</p>
+
+<p>
+b) La sanción de internación en celda solitaria, en caso de las mujeres embarazas, sólo
+puede durar hasta 5 días.
+</p>
+
+<p>
+c) Los Jefes de turno al interior del establecimiento podrán disponer la incomunicación o
+aislamiento provisorio de cualquier interno que incurriere en falta grave, por un plazo
+máximo de veinticuatro horas.
+</p>
+
+<p>
+d) Las madres lactantes sancionadas con internación en celda solitaria tienen derecho a
+salir de su castigo para amamantar a sus hijos cada cuatro horas.
+</p>
+
+<p>
+e) Para aplicar la sanción de internación en celda solitaria se requiere la opinión favorable
+del Consejo Técnico.
+</p>
+
+<p>
+Respuesta correcta:
+c) Los Jefes de turno al interior del establecimiento podrán
+disponer la incomunicación o aislamiento provisorio de cualquier interno que
+incurriere en falta grave, por un plazo máximo de veinticuatro horas.
+</p>
+
+
+<p>
+Para acceder a la eliminación de antecedentes penales regulada por el Decreto Ley N°
+409 de 1932, es correcto afirmar:
+</p>
+
+<p>
+a) No se debe estar condenado por delito terrorista
+</p>
+
+<p>
+b) Sólo puede eliminar sus antecedentes penales la persona que registre una sola condena.
+</p>
+
+<p>
+c) Deben haber transcurrido 8 años desde el cumplimiento de la condena
+</p>
+
+<p>
+d) El Registro Civil debe emitir una resolución que así lo disponga.
+</p>
+
+<p>
+e) Entre otros requisitos, se debe estar en contacto con el Patronato de Reos (hoy, Centro
+de Apoyo para la Integración Social).
+</p>
+
+<p>
+Respuesta correcta:
+e) Entre otros requisitos, se debe estar en contacto con el
+Patronato de Reos (hoy, Centro de Apoyo para la Integración Social).
+</p>
+
+<p>
+¿Cuál de las siguientes afirmaciones en relación con el beneficio de reducción de
+condena, regulado por la Ley N°19.856, es correcta?
+</p>
+
+<p>
+a) Es otorgado por la Comisión de beneficio de reducción de condena.
+</p>
+
+<p>
+b) La reducción de la condena tendrá lugar sólo en el momento en que se diere total
+cumplimiento a la pena impuesta, una vez aplicadas las rebajas que correspondieren.
+</p>
+
+<p>
+c) Según la Ley N° 19.856, las personas condenadas a quienes se les aplicó las penas
+sustitutivas de libertad vigilada o libertad vigilada intensiva también pueden optar al
+beneficio si demuestran conducta sobresaliente.
+</p>
+
+<p>
+d) Quedan excluidas las personas que cumplen la pena sustitutiva de reclusión parcial.
+</p>
+
+<p>
+e) Sólo se considera, para efectos de la calificación de comportamiento, el tiempo que la
+persona ha cumplido en calidad de condenado, y no el que hubiere permanecido en prisión
+preventiva.
+</p>
+
+<p>
+Respuesta correcta: b) La reducción de la condena tendrá lugar sólo en el momento
+en que se diere total cumplimiento a la pena impuesta, una vez aplicadas las rebajas
+que correspondieren.
+</p>
+
+<p>
+Según lo establecido en el Decreto Ley N° 321, que establece la libertad condicional
+para las personas condenadas a penas privativas de libertad, señale la afirmación correcta
+respecto de los libertos.
+</p>
+
+<p>
+a) Las personas en libertad condicional deben presentarse una vez al mes en el
+establecimiento donde cumplían su condena.
+</p>
+
+<p>
+b) Las personas en libertad condicional deben obedecer todas las órdenes legales que
+imparta el respectivo tribunal de conducta.
+</p>
+
+<p>
+c) Las personas en libertad condicional quedarán sujetas a la supervisión de un delegado
+de libertad condicional de Gendarmería de Chile.
+</p>
+
+<p>
+d) Si la persona en libertad condicional incumpliere las condiciones establecidas en su plan
+de intervención individual sin justificación suficiente, Gendarmería de Chile deberá informar
+de ello al respectivo juez de garantía, para que se pronuncie, en audiencia citada al efecto,
+respecto de la continuidad o revocación de la libertad condicional.
+</p>
+
+<p>
+e) Las personas que se encontraren gozando de libertad condicional que hayan sido
+condenadas por conductas que la sentencia, en conformidad al derecho internacional,
+hubiere considerado como genocidio, crímenes de lesa humanidad o crímenes de guerra
+sólo pueden ser beneficiadas con la libertad completa, al cumplir los dos tercios del
+beneficio y las condiciones de plan de intervención individual.
+</p>
+
+<p>
+Respuesta correcta:
+c) Las personas en libertad condicional quedarán sujetas a la
+supervisión de un delegado de libertad condicional de Gendarmería de Chile.
+</p>
+
+
+
+<p>
+De acuerdo al Decreto ley N° 321, sobre libertad condicional, es correcto decir que:
+</p>
+
+<p>
+a) La libertad condicional es una forma de cumplir la pena que beneficia a las personas que
+no tienen antecedentes anteriores y demuestran buena conducta.
+</p>
+
+<p>
+b) La libertad condicional es un medio de prueba de que el delincuente se encuentra
+resocializado.
+</p>
+
+<p>
+c) La libertad condicional es un beneficio especialmente destinado a los condenados que
+han pedido perdón a las víctimas.
+</p>
+
+<p>
+d) La libertad condicional es un beneficio para toda persona condenada a una pena privativa
+de libertad de más de un año de duración, siempre que cumpla con los requisitos legales.
+</p>
+
+<p>
+e) La resolución de la Comisión de Libertad Condicional que rechaza el beneficio es
+apelable ante la respectiva Corte de Apelaciones.
+</p>
+
+<p>
+Respuesta correcta:
+d) La libertad condicional es un beneficio para toda persona
+condenada a una pena privativa de libertad de más de un año de duración, siempre
+que cumpla con los requisitos legales.
+</p>
+
+<p>
+En relación con la pena mixta regulada en la Ley N° 18,216, señale la alternativa
+correcta:
+</p>
+
+<p>
+a) La decisión que concede la pena mixta no es apelable.
+</p>
+
+<p>
+b) La decisión que deniega la pena mixta es apelable.
+</p>
+
+<p>
+c) Si el tribunal no otorga la pena mixta, ésta puede discutirse nuevamente en cualquier
+momento.
+</p>
+
+<p>
+d) Los condenados que fueren beneficiados con la interrupción de la pena privativa de
+libertad que cumplan satisfactoriamente su plan de intervención individual, podrán acceder
+al reemplazo de la libertad vigilada intensiva por el régimen de libertad vigilada.
+</p>
+
+<p>
+e) El control de la pena mixta mediante monitoreo telemático sólo se dispondrá en casos
+muy justificados.
+</p>
+
+<p>
+Respuesta correcta:
+b) La decisión que deniega la pena mixta es apelable.
+</p>
+
+
 <p>
 Respecto de la posibilidad de interrumpir una pena privativa de libertad y
 remplazarla por el régimen de libertad vigilada intensiva, señale la alternativa
@@ -34324,14 +35243,12 @@ un tercio de la pena privativa de libertad de manera efectiva
 </p>
 
 <p>
-III.La sanción impuesta al condenado no puede ser mayor a cinco años de presidio o
-reclusión menor en grado máximo
+III.La sanción impuesta al condenado no puede ser mayor a cinco años
+de presidio o reclusión menor en grado máximo y el postulante no debe
+presentar condenas anteriores, aun cuando hayan sido impuestas bajo el
+régimen de la Ley 20.084 de responsabilidad penal adolescente
 </p>
 
-<p>
-IV. El postulante no debe presentar condenas anteriores, aun cuando hayan sido
-impuestas bajo el régimen de la Ley 20.084 de responsabilidad penal adolescente
-</p>
 
 <p>
 a) Sólo I
@@ -39700,8 +40617,8 @@ b)
 </div>
 
 
-<div id="outline-container-org3368cdc" class="outline-3">
-<h3 id="org3368cdc"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org5fdab41" class="outline-3">
+<h3 id="org5fdab41"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 Para acceder al beneficio de libertad condicional no se requiere
@@ -41069,7 +41986,7 @@ F
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Lucas Fernandez</p>
-<p class="date">Created: 2022-10-30 dom 21:58</p>
+<p class="date">Created: 2022-11-03 jue 10:13</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

@@ -3,196 +3,23 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-11-03 jue 10:13 -->
+<!-- 2022-11-03 jue 10:24 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cuestionario Examen Habilitación</title>
 <meta name="author" content="Lucas Fernandez" />
 <meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: auto;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    top: -8px;
-    right: 12px;
-    padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
-  }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { }
-</style>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/bigblow_theme/css/hideshow.css"/>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/bigblow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/bigblow_theme/js/hideshow.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 </head>
 <body>
 <div id="content" class="content">
@@ -201,66 +28,66 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgd75caee">1. Presentación</a>
+<li><a href="#org45fa4fb">1. Presentación</a>
 <ul>
-<li><a href="#orgc8590c8">1.1. Recomendación</a></li>
-<li><a href="#orgf6d9176">1.2. Archivos de Descarga</a>
+<li><a href="#orgbd34500">1.1. Recomendación</a></li>
+<li><a href="#org16810ea">1.2. Archivos de Descarga</a>
 <ul>
-<li><a href="#org8b5f409">1.2.1. Penal</a></li>
-<li><a href="#orge6da090">1.2.2. Procesal</a></li>
-<li><a href="#org19588c7">1.2.3. Humanos</a></li>
-<li><a href="#org0b8f55d">1.2.4. Ley DPP</a></li>
-<li><a href="#org8048e02">1.2.5. Penitenciario</a></li>
+<li><a href="#org8f4d841">1.2.1. Penal</a></li>
+<li><a href="#org90adeac">1.2.2. Procesal</a></li>
+<li><a href="#org6c36186">1.2.3. Humanos</a></li>
+<li><a href="#orgb4e47ef">1.2.4. Ley DPP</a></li>
+<li><a href="#org6cc55a8">1.2.5. Penitenciario</a></li>
 </ul>
 </li>
-<li><a href="#org17bb5c1">1.3. Pendiente</a>
+<li><a href="#org9832cf5">1.3. Pendiente</a>
 <ul>
-<li><a href="#org19055ad">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
-<li><a href="#org8bf500c">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
-<li><a href="#org366594a">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
-<li><a href="#org0954965">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org9e1ff9b">2. Penal</a>
-<ul>
-<li><a href="#orga09ec6a">2.1. General</a>
-<ul>
-<li><a href="#org74f9000">2.1.1. Alternativas</a></li>
-<li><a href="#orgc2373c6">2.1.2. Verdadero y Falso</a></li>
-</ul>
-</li>
-<li><a href="#orgbe99e28">2.2. Especial</a>
-<ul>
-<li><a href="#org28ebea8">2.2.1. Alternativas</a></li>
-<li><a href="#org8995726">2.2.2. Verdadero y Falso</a></li>
+<li><a href="#orga77b8f0">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
+<li><a href="#orgd1f5b26">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
+<li><a href="#orgb822a1a">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
+<li><a href="#org1c1aaff">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org81919c1">3. Procesal</a>
+<li><a href="#orgae97b6d">2. Penal</a>
 <ul>
-<li><a href="#org2d0ccd6">3.1. Alternativas</a></li>
-<li><a href="#org0ab36c2">3.2. Verdadero y Falso</a></li>
+<li><a href="#org7251d85">2.1. General</a>
+<ul>
+<li><a href="#orgdc934f4">2.1.1. Alternativas</a></li>
+<li><a href="#org8a22cd9">2.1.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org93027ab">4. Humanos</a>
+<li><a href="#orgb47855f">2.2. Especial</a>
 <ul>
-<li><a href="#org9da26b6">4.1. Alternativas</a></li>
-<li><a href="#org662cd4c">4.2. Verdadero y Falso</a></li>
+<li><a href="#orgb3432dc">2.2.1. Alternativas</a></li>
+<li><a href="#org588f758">2.2.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org4a09f51">5. Ley DPP</a>
-<ul>
-<li><a href="#org9882332">5.1. Alternativas</a></li>
-<li><a href="#org62d078c">5.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org3bde23c">6. Penitenciario</a>
+<li><a href="#org9b0c276">3. Procesal</a>
 <ul>
-<li><a href="#org39e31d1">6.1. Alternativas</a></li>
-<li><a href="#org5fdab41">6.2. Verdadero y Falso</a></li>
+<li><a href="#org8f4ac98">3.1. Alternativas</a></li>
+<li><a href="#org9cc682c">3.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#orgd29ffc9">4. Humanos</a>
+<ul>
+<li><a href="#org3a5e6c8">4.1. Alternativas</a></li>
+<li><a href="#org84ce699">4.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org1fb4975">5. Ley DPP</a>
+<ul>
+<li><a href="#org6000ba3">5.1. Alternativas</a></li>
+<li><a href="#org360351e">5.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#orgb137566">6. Penitenciario</a>
+<ul>
+<li><a href="#orgca37007">6.1. Alternativas</a></li>
+<li><a href="#org5987b5e">6.2. Verdadero y Falso</a></li>
 </ul>
 </li>
 </ul>
@@ -268,8 +95,9 @@
 </div>
 
 
-<div id="outline-container-orgd75caee" class="outline-2">
-<h2 id="orgd75caee"><span class="section-number-2">1.</span> Presentación</h2>
+
+<div id="outline-container-org45fa4fb" class="outline-2">
+<h2 id="org45fa4fb"><span class="section-number-2">1.</span> Presentación</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 El siguiente documento/página contiene una recompilación de las
@@ -297,8 +125,8 @@ ayuda para aquellos que la necesiten.
 </p>
 </div>
 
-<div id="outline-container-orgc8590c8" class="outline-3">
-<h3 id="orgc8590c8"><span class="section-number-3">1.1.</span> Recomendación</h3>
+<div id="outline-container-orgbd34500" class="outline-3">
+<h3 id="orgbd34500"><span class="section-number-3">1.1.</span> Recomendación</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Tal como se señaló anteriormente, esta página puede ofrecer una
@@ -312,8 +140,8 @@ existencia de dos ítems denominados <i>Collapse all</i> y <i>Expand all</i>, co
 
 
 
-<div id="outline-container-orgf6d9176" class="outline-3">
-<h3 id="orgf6d9176"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
+<div id="outline-container-org16810ea" class="outline-3">
+<h3 id="org16810ea"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Con la finalidad de facilitar el buen uso de la información
@@ -323,8 +151,8 @@ mantener una copia física.
 </p>
 </div>
 
-<div id="outline-container-org8b5f409" class="outline-4">
-<h4 id="org8b5f409"><span class="section-number-4">1.2.1.</span> Penal</h4>
+<div id="outline-container-org8f4d841" class="outline-4">
+<h4 id="org8f4d841"><span class="section-number-4">1.2.1.</span> Penal</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <p>
 <a href="https://drive.google.com/file/d/14V0RjynKEk_z1j_iyjCQRMqEMNcegRyl/view?usp=sharing">Presione Aquí</a>
@@ -332,8 +160,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-orge6da090" class="outline-4">
-<h4 id="orge6da090"><span class="section-number-4">1.2.2.</span> Procesal</h4>
+<div id="outline-container-org90adeac" class="outline-4">
+<h4 id="org90adeac"><span class="section-number-4">1.2.2.</span> Procesal</h4>
 <div class="outline-text-4" id="text-1-2-2">
 <p>
 <a href="https://drive.google.com/file/d/1X_Al-3Ozc2VLlvVZ3x2No7GVIPaAy0sy/view?usp=sharing">Presione Aquí</a>
@@ -341,8 +169,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org19588c7" class="outline-4">
-<h4 id="org19588c7"><span class="section-number-4">1.2.3.</span> Humanos</h4>
+<div id="outline-container-org6c36186" class="outline-4">
+<h4 id="org6c36186"><span class="section-number-4">1.2.3.</span> Humanos</h4>
 <div class="outline-text-4" id="text-1-2-3">
 <p>
 <a href="https://drive.google.com/file/d/1CCEWIRv1pyQ9d6-qmdJ_QNw2yPaV-zAl/view?usp=sharing">Presione Aquí</a>
@@ -350,8 +178,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org0b8f55d" class="outline-4">
-<h4 id="org0b8f55d"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
+<div id="outline-container-orgb4e47ef" class="outline-4">
+<h4 id="orgb4e47ef"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
 <div class="outline-text-4" id="text-1-2-4">
 <p>
 <a href="https://drive.google.com/file/d/1_tCkMazc2Hc2T8ljJVJKJgqvWW2eIxE4/view?usp=sharing">Presione Aquí</a>
@@ -359,8 +187,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org8048e02" class="outline-4">
-<h4 id="org8048e02"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
+<div id="outline-container-org6cc55a8" class="outline-4">
+<h4 id="org6cc55a8"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
 <div class="outline-text-4" id="text-1-2-5">
 <p>
 <a href="https://drive.google.com/file/d/1znjd0yhQa4ZshXcE7o0QRl0Fe0H0lyuF/view?usp=sharing">Presione Aquí</a>
@@ -369,23 +197,23 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org17bb5c1" class="outline-3">
-<h3 id="org17bb5c1"><span class="section-number-3">1.3.</span> Pendiente</h3>
+<div id="outline-container-org9832cf5" class="outline-3">
+<h3 id="org9832cf5"><span class="section-number-3">1.3.</span> Pendiente</h3>
 <div class="outline-text-3" id="text-1-3">
 </div>
-<div id="outline-container-org19055ad" class="outline-4">
-<h4 id="org19055ad"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
+<div id="outline-container-orga77b8f0" class="outline-4">
+<h4 id="orga77b8f0"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
 </div>
 
-<div id="outline-container-org8bf500c" class="outline-4">
-<h4 id="org8bf500c"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
+<div id="outline-container-orgd1f5b26" class="outline-4">
+<h4 id="orgd1f5b26"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
 </div>
 
-<div id="outline-container-org366594a" class="outline-4">
-<h4 id="org366594a"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
+<div id="outline-container-orgb822a1a" class="outline-4">
+<h4 id="orgb822a1a"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
 </div>
-<div id="outline-container-org0954965" class="outline-4">
-<h4 id="org0954965"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
+<div id="outline-container-org1c1aaff" class="outline-4">
+<h4 id="org1c1aaff"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
 <div class="outline-text-4" id="text-1-3-4">
 <p>
 Estar atento cuando actualicen la página:
@@ -395,16 +223,16 @@ Estar atento cuando actualicen la página:
 </div>
 </div>
 </div>
-<div id="outline-container-org9e1ff9b" class="outline-2">
-<h2 id="org9e1ff9b"><span class="section-number-2">2.</span> Penal</h2>
+<div id="outline-container-orgae97b6d" class="outline-2">
+<h2 id="orgae97b6d"><span class="section-number-2">2.</span> Penal</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-orga09ec6a" class="outline-3">
-<h3 id="orga09ec6a"><span class="section-number-3">2.1.</span> General</h3>
+<div id="outline-container-org7251d85" class="outline-3">
+<h3 id="org7251d85"><span class="section-number-3">2.1.</span> General</h3>
 <div class="outline-text-3" id="text-2-1">
 </div>
-<div id="outline-container-org74f9000" class="outline-4">
-<h4 id="org74f9000"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
+<div id="outline-container-orgdc934f4" class="outline-4">
+<h4 id="orgdc934f4"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Señale cual o cuáles de los siguientes enunciados es/son correctos
@@ -7317,8 +7145,8 @@ Estudios y Proyectos, Defensoría Penal Pública.
 </div>
 
 
-<div id="outline-container-orgc2373c6" class="outline-4">
-<h4 id="orgc2373c6"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org8a22cd9" class="outline-4">
+<h4 id="org8a22cd9"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-1-2">
 <p>
 El artículo 2° del Código Penal emplea la voz “dolo”, haciéndola
@@ -9450,12 +9278,12 @@ Verdadero
 </div>
 </div>
 
-<div id="outline-container-orgbe99e28" class="outline-3">
-<h3 id="orgbe99e28"><span class="section-number-3">2.2.</span> Especial</h3>
+<div id="outline-container-orgb47855f" class="outline-3">
+<h3 id="orgb47855f"><span class="section-number-3">2.2.</span> Especial</h3>
 <div class="outline-text-3" id="text-2-2">
 </div>
-<div id="outline-container-org28ebea8" class="outline-4">
-<h4 id="org28ebea8"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
+<div id="outline-container-orgb3432dc" class="outline-4">
+<h4 id="orgb3432dc"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-2-1">
 <p>
 En el delito de perjurio, de acuerdo a la opinión dominante, es
@@ -15094,8 +14922,8 @@ Estudios y Proyectos
 
 
 
-<div id="outline-container-org8995726" class="outline-4">
-<h4 id="org8995726"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org588f758" class="outline-4">
+<h4 id="org588f758"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-2-2">
 <p>
 El concurso aparente de leyes penales entre el homicidio calificado y
@@ -17138,12 +16966,12 @@ acción judicial constituye amenazas.
 
 
 
-<div id="outline-container-org81919c1" class="outline-2">
-<h2 id="org81919c1"><span class="section-number-2">3.</span> Procesal</h2>
+<div id="outline-container-org9b0c276" class="outline-2">
+<h2 id="org9b0c276"><span class="section-number-2">3.</span> Procesal</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org2d0ccd6" class="outline-3">
-<h3 id="org2d0ccd6"><span class="section-number-3">3.1.</span> Alternativas</h3>
+<div id="outline-container-org8f4ac98" class="outline-3">
+<h3 id="org8f4ac98"><span class="section-number-3">3.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Señale cuál o cuáles de las siguientes afirmación/es es/son correctas
@@ -28797,8 +28625,8 @@ Letra d).
 
 
 
-<div id="outline-container-org0ab36c2" class="outline-3">
-<h3 id="org0ab36c2"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org9cc682c" class="outline-3">
+<h3 id="org9cc682c"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Conforme las reglas del juicio oral, sólo en los casos previstos en
@@ -32268,12 +32096,12 @@ Verdadero.
 </div>
 
 
-<div id="outline-container-org93027ab" class="outline-2">
-<h2 id="org93027ab"><span class="section-number-2">4.</span> Humanos</h2>
+<div id="outline-container-orgd29ffc9" class="outline-2">
+<h2 id="orgd29ffc9"><span class="section-number-2">4.</span> Humanos</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-org9da26b6" class="outline-3">
-<h3 id="org9da26b6"><span class="section-number-3">4.1.</span> Alternativas</h3>
+<div id="outline-container-org3a5e6c8" class="outline-3">
+<h3 id="org3a5e6c8"><span class="section-number-3">4.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Cuál o cuáles de las siguientes afirmaciones es o son correctas:
@@ -33167,8 +32995,8 @@ Penal Pública” (2020), pp129-135.
 </div>
 
 
-<div id="outline-container-org662cd4c" class="outline-3">
-<h3 id="org662cd4c"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org84ce699" class="outline-3">
+<h3 id="org84ce699"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 El Tribunal Constitucional ha señalado que la existencia de un trato
@@ -33533,12 +33361,12 @@ Penal.
 
 
 
-<div id="outline-container-org4a09f51" class="outline-2">
-<h2 id="org4a09f51"><span class="section-number-2">5.</span> Ley DPP</h2>
+<div id="outline-container-org1fb4975" class="outline-2">
+<h2 id="org1fb4975"><span class="section-number-2">5.</span> Ley DPP</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org9882332" class="outline-3">
-<h3 id="org9882332"><span class="section-number-3">5.1.</span> Alternativas</h3>
+<div id="outline-container-org6000ba3" class="outline-3">
+<h3 id="org6000ba3"><span class="section-number-3">5.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 En relación con las facultades del Defensor Regional, es correcto
@@ -34316,8 +34144,8 @@ c)
 </div>
 
 
-<div id="outline-container-org62d078c" class="outline-3">
-<h3 id="org62d078c"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org360351e" class="outline-3">
+<h3 id="org360351e"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 De conformidad al artículo 61 de la ley 20.000, los defensores penales
@@ -34472,12 +34300,12 @@ Falso: Las modalidades de pago se fijarán conjuntamente.
 
 
 
-<div id="outline-container-org3bde23c" class="outline-2">
-<h2 id="org3bde23c"><span class="section-number-2">6.</span> Penitenciario</h2>
+<div id="outline-container-orgb137566" class="outline-2">
+<h2 id="orgb137566"><span class="section-number-2">6.</span> Penitenciario</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org39e31d1" class="outline-3">
-<h3 id="org39e31d1"><span class="section-number-3">6.1.</span> Alternativas</h3>
+<div id="outline-container-orgca37007" class="outline-3">
+<h3 id="orgca37007"><span class="section-number-3">6.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-6-1">
 <p>
 Respecto del indulto particular, son correctas las siguientes afirmaciones:
@@ -40617,8 +40445,8 @@ b)
 </div>
 
 
-<div id="outline-container-org5fdab41" class="outline-3">
-<h3 id="org5fdab41"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org5987b5e" class="outline-3">
+<h3 id="org5987b5e"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-6-2">
 <p>
 Para acceder al beneficio de libertad condicional no se requiere
@@ -41986,7 +41814,7 @@ F
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Lucas Fernandez</p>
-<p class="date">Created: 2022-11-03 jue 10:13</p>
+<p class="date">Created: 2022-11-03 jue 10:24</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

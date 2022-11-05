@@ -1,7 +1,8 @@
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+#+SETUPFILE:https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 #+TITLE: Cuestionario Examen Habilitación
 #+AUTHOR: Lucas Fernandez
-
+#+LATEX_CLASS: org-plain-latex
+#+SETUPFILE: ~/Dropbox/templates/latex.setup
 
 
 * Presentación
@@ -66,10 +67,10 @@ mantener una copia física.
 
 *** DONE Dividir los archivos por materia
 
-*** TODO Faltan pruebas de penitenciario
-*** TODO Falta el último examen de Octubre 2022
+*** DONE Falta el último examen de Octubre 2022
 Estar atento cuando actualicen la página:
 [[https://www.dpp.cl/repositorio/212/589][ir a página DPP]]
+*** TODO Faltan pruebas de penitenciario
 * Penal
 ** General
 *** Alternativas

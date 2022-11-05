@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-11-03 jue 10:51 -->
+<!-- 2022-11-03 jue 11:14 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Cuestionario Examen Habilitación</title>
@@ -28,66 +28,66 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgce1c6e0">1. Presentación</a>
+<li><a href="#org9087b41">1. Presentación</a>
 <ul>
-<li><a href="#org6817cbd">1.1. Recomendación</a></li>
-<li><a href="#org8f7b701">1.2. Archivos de Descarga</a>
+<li><a href="#org3da7d70">1.1. Recomendación</a></li>
+<li><a href="#orgff98a05">1.2. Archivos de Descarga</a>
 <ul>
-<li><a href="#org27fc9b2">1.2.1. Penal</a></li>
-<li><a href="#org9ec1d39">1.2.2. Procesal</a></li>
-<li><a href="#org85cf793">1.2.3. Humanos</a></li>
-<li><a href="#org6dbb2f1">1.2.4. Ley DPP</a></li>
-<li><a href="#orgf259c55">1.2.5. Penitenciario</a></li>
+<li><a href="#org5715dc6">1.2.1. Penal</a></li>
+<li><a href="#org563f9fe">1.2.2. Procesal</a></li>
+<li><a href="#org63d5c3c">1.2.3. Humanos</a></li>
+<li><a href="#org5865bff">1.2.4. Ley DPP</a></li>
+<li><a href="#org4126c2d">1.2.5. Penitenciario</a></li>
 </ul>
 </li>
-<li><a href="#org6892c47">1.3. Pendiente</a>
+<li><a href="#orgf3334aa">1.3. Pendiente</a>
 <ul>
-<li><a href="#orgbbff163">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
-<li><a href="#org8d1f0ae">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
-<li><a href="#org8f4cbe0">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
-<li><a href="#orgd95e6bd">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgfef503a">2. Penal</a>
-<ul>
-<li><a href="#org64745ce">2.1. General</a>
-<ul>
-<li><a href="#orgb1b1d61">2.1.1. Alternativas</a></li>
-<li><a href="#org5def04a">2.1.2. Verdadero y Falso</a></li>
-</ul>
-</li>
-<li><a href="#org1da6c62">2.2. Especial</a>
-<ul>
-<li><a href="#orgf10951e">2.2.1. Alternativas</a></li>
-<li><a href="#orge831966">2.2.2. Verdadero y Falso</a></li>
+<li><a href="#org3cf3116">1.3.1. <span class="done DONE">DONE</span> Subir página a internet</a></li>
+<li><a href="#org99504ac">1.3.2. <span class="done DONE">DONE</span> Dividir los archivos por materia</a></li>
+<li><a href="#org0668a70">1.3.3. <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</a></li>
+<li><a href="#org1001427">1.3.4. <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgc4a1b19">3. Procesal</a>
+<li><a href="#org51db7ba">2. Penal</a>
 <ul>
-<li><a href="#org9e3c111">3.1. Alternativas</a></li>
-<li><a href="#org579cf46">3.2. Verdadero y Falso</a></li>
+<li><a href="#org260329a">2.1. General</a>
+<ul>
+<li><a href="#org80aa232">2.1.1. Alternativas</a></li>
+<li><a href="#org4da5d95">2.1.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org1af11d4">4. Humanos</a>
+<li><a href="#orgd2d1920">2.2. Especial</a>
 <ul>
-<li><a href="#orga361cfc">4.1. Alternativas</a></li>
-<li><a href="#orgb2d5d0b">4.2. Verdadero y Falso</a></li>
+<li><a href="#org26a3801">2.2.1. Alternativas</a></li>
+<li><a href="#org179e94d">2.2.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#org620c5dc">5. Ley DPP</a>
-<ul>
-<li><a href="#orgff3ccdb">5.1. Alternativas</a></li>
-<li><a href="#orgb0aaa28">5.2. Verdadero y Falso</a></li>
 </ul>
 </li>
-<li><a href="#orge2d5089">6. Penitenciario</a>
+<li><a href="#org13470d5">3. Procesal</a>
 <ul>
-<li><a href="#org46b3e78">6.1. Alternativas</a></li>
-<li><a href="#org8440f36">6.2. Verdadero y Falso</a></li>
+<li><a href="#org07a994d">3.1. Alternativas</a></li>
+<li><a href="#org4f385ef">3.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org9f9b6c0">4. Humanos</a>
+<ul>
+<li><a href="#orgc0bd0dc">4.1. Alternativas</a></li>
+<li><a href="#orgaeaf60d">4.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org92b773c">5. Ley DPP</a>
+<ul>
+<li><a href="#orgf531b54">5.1. Alternativas</a></li>
+<li><a href="#org69fb91e">5.2. Verdadero y Falso</a></li>
+</ul>
+</li>
+<li><a href="#org3bac77a">6. Penitenciario</a>
+<ul>
+<li><a href="#org906ade2">6.1. Alternativas</a></li>
+<li><a href="#org082846a">6.2. Verdadero y Falso</a></li>
 </ul>
 </li>
 </ul>
@@ -96,8 +96,8 @@
 
 
 
-<div id="outline-container-orgce1c6e0" class="outline-2">
-<h2 id="orgce1c6e0"><span class="section-number-2">1.</span> Presentación</h2>
+<div id="outline-container-org9087b41" class="outline-2">
+<h2 id="org9087b41"><span class="section-number-2">1.</span> Presentación</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 El siguiente documento/página contiene una recompilación de las
@@ -125,8 +125,8 @@ ayuda para aquellos que la necesiten.
 </p>
 </div>
 
-<div id="outline-container-org6817cbd" class="outline-3">
-<h3 id="org6817cbd"><span class="section-number-3">1.1.</span> Recomendación</h3>
+<div id="outline-container-org3da7d70" class="outline-3">
+<h3 id="org3da7d70"><span class="section-number-3">1.1.</span> Recomendación</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Tal como se señaló anteriormente, esta página puede ofrecer una
@@ -140,8 +140,8 @@ existencia de dos ítems denominados <i>Collapse all</i> y <i>Expand all</i>, co
 
 
 
-<div id="outline-container-org8f7b701" class="outline-3">
-<h3 id="org8f7b701"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
+<div id="outline-container-orgff98a05" class="outline-3">
+<h3 id="orgff98a05"><span class="section-number-3">1.2.</span> Archivos de Descarga</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Con la finalidad de facilitar el buen uso de la información
@@ -151,8 +151,8 @@ mantener una copia física.
 </p>
 </div>
 
-<div id="outline-container-org27fc9b2" class="outline-4">
-<h4 id="org27fc9b2"><span class="section-number-4">1.2.1.</span> Penal</h4>
+<div id="outline-container-org5715dc6" class="outline-4">
+<h4 id="org5715dc6"><span class="section-number-4">1.2.1.</span> Penal</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <p>
 <a href="https://drive.google.com/file/d/14V0RjynKEk_z1j_iyjCQRMqEMNcegRyl/view?usp=sharing">Presione Aquí</a>
@@ -160,8 +160,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org9ec1d39" class="outline-4">
-<h4 id="org9ec1d39"><span class="section-number-4">1.2.2.</span> Procesal</h4>
+<div id="outline-container-org563f9fe" class="outline-4">
+<h4 id="org563f9fe"><span class="section-number-4">1.2.2.</span> Procesal</h4>
 <div class="outline-text-4" id="text-1-2-2">
 <p>
 <a href="https://drive.google.com/file/d/1X_Al-3Ozc2VLlvVZ3x2No7GVIPaAy0sy/view?usp=sharing">Presione Aquí</a>
@@ -169,8 +169,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org85cf793" class="outline-4">
-<h4 id="org85cf793"><span class="section-number-4">1.2.3.</span> Humanos</h4>
+<div id="outline-container-org63d5c3c" class="outline-4">
+<h4 id="org63d5c3c"><span class="section-number-4">1.2.3.</span> Humanos</h4>
 <div class="outline-text-4" id="text-1-2-3">
 <p>
 <a href="https://drive.google.com/file/d/1CCEWIRv1pyQ9d6-qmdJ_QNw2yPaV-zAl/view?usp=sharing">Presione Aquí</a>
@@ -178,8 +178,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org6dbb2f1" class="outline-4">
-<h4 id="org6dbb2f1"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
+<div id="outline-container-org5865bff" class="outline-4">
+<h4 id="org5865bff"><span class="section-number-4">1.2.4.</span> Ley DPP</h4>
 <div class="outline-text-4" id="text-1-2-4">
 <p>
 <a href="https://drive.google.com/file/d/1_tCkMazc2Hc2T8ljJVJKJgqvWW2eIxE4/view?usp=sharing">Presione Aquí</a>
@@ -187,8 +187,8 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-orgf259c55" class="outline-4">
-<h4 id="orgf259c55"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
+<div id="outline-container-org4126c2d" class="outline-4">
+<h4 id="org4126c2d"><span class="section-number-4">1.2.5.</span> Penitenciario</h4>
 <div class="outline-text-4" id="text-1-2-5">
 <p>
 <a href="https://drive.google.com/file/d/1znjd0yhQa4ZshXcE7o0QRl0Fe0H0lyuF/view?usp=sharing">Presione Aquí</a>
@@ -197,23 +197,23 @@ mantener una copia física.
 </div>
 </div>
 
-<div id="outline-container-org6892c47" class="outline-3">
-<h3 id="org6892c47"><span class="section-number-3">1.3.</span> Pendiente</h3>
+<div id="outline-container-orgf3334aa" class="outline-3">
+<h3 id="orgf3334aa"><span class="section-number-3">1.3.</span> Pendiente</h3>
 <div class="outline-text-3" id="text-1-3">
 </div>
-<div id="outline-container-orgbbff163" class="outline-4">
-<h4 id="orgbbff163"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
+<div id="outline-container-org3cf3116" class="outline-4">
+<h4 id="org3cf3116"><span class="section-number-4">1.3.1.</span> <span class="done DONE">DONE</span> Subir página a internet</h4>
 </div>
 
-<div id="outline-container-org8d1f0ae" class="outline-4">
-<h4 id="org8d1f0ae"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
+<div id="outline-container-org99504ac" class="outline-4">
+<h4 id="org99504ac"><span class="section-number-4">1.3.2.</span> <span class="done DONE">DONE</span> Dividir los archivos por materia</h4>
 </div>
 
-<div id="outline-container-org8f4cbe0" class="outline-4">
-<h4 id="org8f4cbe0"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
+<div id="outline-container-org0668a70" class="outline-4">
+<h4 id="org0668a70"><span class="section-number-4">1.3.3.</span> <span class="todo TODO">TODO</span> Faltan pruebas de penitenciario</h4>
 </div>
-<div id="outline-container-orgd95e6bd" class="outline-4">
-<h4 id="orgd95e6bd"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
+<div id="outline-container-org1001427" class="outline-4">
+<h4 id="org1001427"><span class="section-number-4">1.3.4.</span> <span class="todo TODO">TODO</span> Falta el último examen de Octubre 2022</h4>
 <div class="outline-text-4" id="text-1-3-4">
 <p>
 Estar atento cuando actualicen la página:
@@ -223,16 +223,16 @@ Estar atento cuando actualicen la página:
 </div>
 </div>
 </div>
-<div id="outline-container-orgfef503a" class="outline-2">
-<h2 id="orgfef503a"><span class="section-number-2">2.</span> Penal</h2>
+<div id="outline-container-org51db7ba" class="outline-2">
+<h2 id="org51db7ba"><span class="section-number-2">2.</span> Penal</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org64745ce" class="outline-3">
-<h3 id="org64745ce"><span class="section-number-3">2.1.</span> General</h3>
+<div id="outline-container-org260329a" class="outline-3">
+<h3 id="org260329a"><span class="section-number-3">2.1.</span> General</h3>
 <div class="outline-text-3" id="text-2-1">
 </div>
-<div id="outline-container-orgb1b1d61" class="outline-4">
-<h4 id="orgb1b1d61"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
+<div id="outline-container-org80aa232" class="outline-4">
+<h4 id="org80aa232"><span class="section-number-4">2.1.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-1-1">
 <p>
 Señale cual o cuáles de los siguientes enunciados es/son correctos
@@ -7145,8 +7145,8 @@ Estudios y Proyectos, Defensoría Penal Pública.
 </div>
 
 
-<div id="outline-container-org5def04a" class="outline-4">
-<h4 id="org5def04a"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org4da5d95" class="outline-4">
+<h4 id="org4da5d95"><span class="section-number-4">2.1.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-1-2">
 <p>
 El artículo 2° del Código Penal emplea la voz “dolo”, haciéndola
@@ -9278,12 +9278,12 @@ Verdadero
 </div>
 </div>
 
-<div id="outline-container-org1da6c62" class="outline-3">
-<h3 id="org1da6c62"><span class="section-number-3">2.2.</span> Especial</h3>
+<div id="outline-container-orgd2d1920" class="outline-3">
+<h3 id="orgd2d1920"><span class="section-number-3">2.2.</span> Especial</h3>
 <div class="outline-text-3" id="text-2-2">
 </div>
-<div id="outline-container-orgf10951e" class="outline-4">
-<h4 id="orgf10951e"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
+<div id="outline-container-org26a3801" class="outline-4">
+<h4 id="org26a3801"><span class="section-number-4">2.2.1.</span> Alternativas</h4>
 <div class="outline-text-4" id="text-2-2-1">
 <p>
 En el delito de perjurio, de acuerdo a la opinión dominante, es
@@ -14922,8 +14922,8 @@ Estudios y Proyectos
 
 
 
-<div id="outline-container-orge831966" class="outline-4">
-<h4 id="orge831966"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
+<div id="outline-container-org179e94d" class="outline-4">
+<h4 id="org179e94d"><span class="section-number-4">2.2.2.</span> Verdadero y Falso</h4>
 <div class="outline-text-4" id="text-2-2-2">
 <p>
 El concurso aparente de leyes penales entre el homicidio calificado y
@@ -16966,12 +16966,12 @@ acción judicial constituye amenazas.
 
 
 
-<div id="outline-container-orgc4a1b19" class="outline-2">
-<h2 id="orgc4a1b19"><span class="section-number-2">3.</span> Procesal</h2>
+<div id="outline-container-org13470d5" class="outline-2">
+<h2 id="org13470d5"><span class="section-number-2">3.</span> Procesal</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org9e3c111" class="outline-3">
-<h3 id="org9e3c111"><span class="section-number-3">3.1.</span> Alternativas</h3>
+<div id="outline-container-org07a994d" class="outline-3">
+<h3 id="org07a994d"><span class="section-number-3">3.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Señale cuál o cuáles de las siguientes afirmación/es es/son correctas
@@ -28625,8 +28625,8 @@ Letra d).
 
 
 
-<div id="outline-container-org579cf46" class="outline-3">
-<h3 id="org579cf46"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org4f385ef" class="outline-3">
+<h3 id="org4f385ef"><span class="section-number-3">3.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Conforme las reglas del juicio oral, sólo en los casos previstos en
@@ -32096,12 +32096,12 @@ Verdadero.
 </div>
 
 
-<div id="outline-container-org1af11d4" class="outline-2">
-<h2 id="org1af11d4"><span class="section-number-2">4.</span> Humanos</h2>
+<div id="outline-container-org9f9b6c0" class="outline-2">
+<h2 id="org9f9b6c0"><span class="section-number-2">4.</span> Humanos</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-orga361cfc" class="outline-3">
-<h3 id="orga361cfc"><span class="section-number-3">4.1.</span> Alternativas</h3>
+<div id="outline-container-orgc0bd0dc" class="outline-3">
+<h3 id="orgc0bd0dc"><span class="section-number-3">4.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-4-1">
 <p>
 Cuál o cuáles de las siguientes afirmaciones es o son correctas:
@@ -32995,8 +32995,8 @@ Penal Pública” (2020), pp129-135.
 </div>
 
 
-<div id="outline-container-orgb2d5d0b" class="outline-3">
-<h3 id="orgb2d5d0b"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-orgaeaf60d" class="outline-3">
+<h3 id="orgaeaf60d"><span class="section-number-3">4.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-4-2">
 <p>
 El Tribunal Constitucional ha señalado que la existencia de un trato
@@ -33361,12 +33361,12 @@ Penal.
 
 
 
-<div id="outline-container-org620c5dc" class="outline-2">
-<h2 id="org620c5dc"><span class="section-number-2">5.</span> Ley DPP</h2>
+<div id="outline-container-org92b773c" class="outline-2">
+<h2 id="org92b773c"><span class="section-number-2">5.</span> Ley DPP</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-orgff3ccdb" class="outline-3">
-<h3 id="orgff3ccdb"><span class="section-number-3">5.1.</span> Alternativas</h3>
+<div id="outline-container-orgf531b54" class="outline-3">
+<h3 id="orgf531b54"><span class="section-number-3">5.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-5-1">
 <p>
 En relación con las facultades del Defensor Regional, es correcto
@@ -34144,8 +34144,8 @@ c)
 </div>
 
 
-<div id="outline-container-orgb0aaa28" class="outline-3">
-<h3 id="orgb0aaa28"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org69fb91e" class="outline-3">
+<h3 id="org69fb91e"><span class="section-number-3">5.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-5-2">
 <p>
 De conformidad al artículo 61 de la ley 20.000, los defensores penales
@@ -34300,12 +34300,12 @@ Falso: Las modalidades de pago se fijarán conjuntamente.
 
 
 
-<div id="outline-container-orge2d5089" class="outline-2">
-<h2 id="orge2d5089"><span class="section-number-2">6.</span> Penitenciario</h2>
+<div id="outline-container-org3bac77a" class="outline-2">
+<h2 id="org3bac77a"><span class="section-number-2">6.</span> Penitenciario</h2>
 <div class="outline-text-2" id="text-6">
 </div>
-<div id="outline-container-org46b3e78" class="outline-3">
-<h3 id="org46b3e78"><span class="section-number-3">6.1.</span> Alternativas</h3>
+<div id="outline-container-org906ade2" class="outline-3">
+<h3 id="org906ade2"><span class="section-number-3">6.1.</span> Alternativas</h3>
 <div class="outline-text-3" id="text-6-1">
 <p>
 En relación con el tiempo mínimo para postular al beneficio de libertad condicional, es
@@ -34867,6 +34867,7 @@ en que cumplió su condena, cuando se trate de pena de prisión, presidio, reclu
 relegación.
 Fuente: artículo 2 letra a) del Decreto Ley N° 409.
 </p>
+
 
 <p>
 En relación con la facultad de Gendarmería para trasladar reclusos sin o contra su
@@ -41184,9 +41185,247 @@ b)
 </div>
 
 
-<div id="outline-container-org8440f36" class="outline-3">
-<h3 id="org8440f36"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
+<div id="outline-container-org082846a" class="outline-3">
+<h3 id="org082846a"><span class="section-number-3">6.2.</span> Verdadero y Falso</h3>
 <div class="outline-text-3" id="text-6-2">
+<p>
+El DL Nº 321 no establece ningún medio de impugnación respecto de la decisión de la
+Comisión de libertad condicional que rechace el beneficio.
+</p>
+
+<p>
+Verdadero.
+Fuente: El Decreto Ley N° 321 no establece medio de impugnación en contra de la decisión
+de la Comisión de Libertad Condicional.
+</p>
+
+<p>
+Contra la resolución del jefe del establecimiento penitenciario que contenga la
+calificación de conducta la ley no contempla recurso alguno.
+</p>
+
+<p>
+Falso.
+Fuente: artículo 8° del Decreto N° 338. En contra de la resolución proceden los recursos
+administrativos establecidos en la Ley Nº 19.880
+</p>
+
+<p>
+Conforme al Reglamento de Establecimientos Penitenciarios, los privados de libertad
+no pueden ser trasladados de recinto, salvo cuando sea necesario para garantizar la vida
+e integridad física o psíquica de las personas y el orden y seguridad del recinto.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 28 del Reglamento de Establecimientos Penitenciarios.
+</p>
+
+<p>
+Los Jefes de los establecimientos podrán impedir las visitas de determinadas
+personas por razones de seguridad.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 57 del Reglamento de Establecimientos Penitenciarios.
+</p>
+
+<p>
+La concesión, suspensión o revocación del permiso de salida dominical es una facultad
+privativa del Jefe de Establecimiento; sin embargo, sólo podrá concederlo a los internos
+que gocen de informe favorable del Consejo Técnico.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 98 del Reglamento de Establecimientos Penitenciarios.
+</p>
+
+<p>
+El Tribunal de conducta de cada establecimiento debe enviar a la Comisión, para cada
+período, los antecedentes de todos los postulantes divididos en 2 listas; la primera con
+quienes reúnen todos los requisitos establecidos en el DL 321 y una segunda lista con
+quienes les falta alguno de ellos.
+</p>
+
+<p>
+Falso
+Fuente: artículo 15 Decreto N° 338 (Reglamento del Decreto Ley N° 321). La reforma de la
+Ley 21.124 y posterior Reglamento, eliminó el envío de 2 listas. Se envía sólo una lista con
+los que cumplen todos los requisitos.
+</p>
+
+<p>
+Si la persona en libertad condicional fuere condenada por cualquier delito, o
+incumpliere las condiciones establecidas en su plan de intervención individual, sin
+justificación suficiente, Gendarmería de Chile deberá informar de ello al respectivo Juez
+de Garantía, para que se pronuncie, en audiencia citada al efecto, respecto de la
+continuidad o revocación de la libertad condicional.
+</p>
+
+<p>
+Falso
+Fuente: artículo 7° del DL 321 sobre libertad condicional. El órgano que debe pronunciarse
+es la Comisión de Libertad Condicional.
+</p>
+
+<p>
+El tiempo que un condenado hubiere permanecido en prisión preventiva durante todo
+o parte del respectivo proceso no se computará para los efectos de proceder a la
+calificación de conducta necesaria para el beneficio de reducción de condena.
+</p>
+
+<p>
+Falso
+Fuente: artículo 9 de la Ley Nº 19.856. Sí se debe computar.
+</p>
+
+<p>
+No puede optar al beneficio de reducción de condena el condenado hubiere obtenido
+el beneficio con anterioridad.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 17 letra f) de la Ley 19.856.
+</p>
+
+<p>
+Para aplicar la sanción de internación en celda solitaria se requiere la opinión
+favorable del Consejo Técnico.
+</p>
+
+<p>
+Falso.
+Fuente: artículo 82 y siguientes del REP. El Reglamento de Establecimientos Penitenciarios
+no contempla esta exigencia.
+</p>
+
+<p>
+El estar haciendo uso de permisos de salida no obsta a solicitar visitas íntimas.
+</p>
+
+<p>
+Falso.
+Fuente: artículo 51, inciso 1° del Reglamento de Establecimientos Penitenciarios. Estas
+visitas sólo pueden autorizarse respecto de los internos que no gocen de permisos de
+salida.
+</p>
+
+<p>
+Según el Reglamento de Establecimientos Penitenciarios, la limitación o privación de
+las visitas no puede utilizarse como sanción frente a faltas disciplinarias de los internos.
+</p>
+
+<p>
+Falso.
+Fuente: artículo 81 letras f) y g) del Reglamento de Establecimientos Penitenciarios. Se
+trata de una sanción prevista expresamente en el Reglamento de Establecimientos
+Penitenciarios.
+</p>
+
+<p>
+Para tener derecho a visitas es necesario haber sido evaluado en los últimos tres últimos
+bimestres con conducta buena o muy buena.
+</p>
+
+<p>
+Falso.
+Fuente: artículos 49 a 57 del REP. El Reglamento de Establecimientos Penitenciarios no
+contempla dicho requisito.
+</p>
+
+<p>
+Los internos sancionados con permanencia en celda solitaria, entre otras exigencias
+del Reglamento de Establecimientos Penitenciarios, deberán ser visitados diariamente
+por el médico o paramédico.
+</p>
+
+<p>
+Verdadero.
+Fuente: artículo 86, inciso primero del Reglamento de Establecimientos Penitenciarios.
+</p>
+
+<p>
+Los Jefes de turno al interior del establecimiento podrán disponer la incomunicación o
+aislamiento provisorio de cualquier interno que incurriere en falta grave, por un plazo
+máximo de veinticuatro horas.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 84 del Reglamento de Establecimientos Penitenciarios.
+</p>
+
+<p>
+El control de convencionalidad admite un control externo, que hace la propia Corte
+Interamericana, así como uno interno, que hacen los órganos públicos de un Estado.
+</p>
+
+<p>
+Verdadero
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la Defensa Penal
+Pública (2020), pp. 81-84. El control de convencionalidad requiere un ejercicio
+hermenéutico que consiste en la verificación que realiza tanto la Corte IDH (control
+externo) como todos los agentes estatales (control interno) de la adecuación de las
+normas jurídicas y practicas internas a la Convención Americana y a los estándares
+interpretativos desarrollados en la jurisprudencia del tribunal interamericano. De ahí se
+deriva que el control de convencionalidad puede ser diferenciado según quién haga el
+ejercicio de “control”.
+</p>
+
+<p>
+El beneficio de reducción de condena tendrá lugar sólo en el momento en que se diere
+total cumplimiento a la pena impuesta, una vez aplicadas las rebajas que
+correspondieren.
+</p>
+
+<p>
+Verdadero
+Fuente: artículo 4° de la Ley 19.856
+</p>
+
+<p>
+Una de las funciones de los Centros de Educación y Trabajo (CET) es promover y apoyar
+la inserción laboral de personas que han cumplido exitosamente su condena.
+</p>
+
+<p>
+Falso
+Fuente: artículo 66 Decreto 943 de 14 de mayo de 2011. No se encuentra dentro de sus
+funciones.
+</p>
+
+<p>
+En caso de agresión a un privado de libertad, este debe demostrar que una o varias
+funcionarias/os son los autores de las lesiones, de lo contrario se entiende que es un
+conflicto entre privados y Gendarmería no tiene mayor responsabilidad.
+</p>
+
+<p>
+Falso.
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la Defensa Penal
+Pública (2020), pp. 161-162. La Corte IDH ha establecido que el Estado es responsable, en
+su condición de garante de los derechos consagrados en la Convención, de la observancia
+del derecho a la integridad personal de todo individuo que se halla bajo su custodia. En
+consecuencia, existe la presunción de considerar responsable al Estado por las torturas,
+tratos crueles, inhumanos o degradantes que exhibe una persona que ha estado bajo la
+custodia de agentes estatales.
+</p>
+
+<p>
+Las sanciones por faltas disciplinarias son aplicadas por el jefe del Establecimiento, a
+menos que se trate de faltas menores, las que serán conocidas por el jefe de Régimen
+Interno.
+</p>
+
+<p>
+Falso.
+Fuente: artículo 82 inciso primero del Reglamento de Establecimientos Penitenciarios.
+Todas las sanciones son aplicadas por el jefe del Establecimiento.
+</p>
+
 <p>
 A los Centros de Educación y Trabajo les corresponde promover y apoyar la inserción
 laboral de personas que han cumplido exitosamente su condena.
@@ -42747,7 +42986,7 @@ F
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Lucas Fernandez</p>
-<p class="date">Created: 2022-11-03 jue 10:51</p>
+<p class="date">Created: 2022-11-03 jue 11:14</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

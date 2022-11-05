@@ -33,8 +33,6 @@ el lector se fija en la parte superior derecha ⤴ podrá advertir la
 existencia de dos ítems denominados /Collapse all/ y /Expand all/, con
 éstos se podrá abrir y cerrar el contenido de todos los capítulos.
 
-
-
 ** Archivos de Descarga
 
 Con la finalidad de facilitar el buen uso de la información
@@ -75,6 +73,193 @@ Estar atento cuando actualicen la página:
 * Penal
 ** General
 *** Alternativas
+
+En materia de determinación de la pena, es correcto afirmar que:
+
+a) Cuando la pena señalada al delito es un grado de una divisible y concurren dos o más
+circunstancias atenuantes, el tribunal debe rebajar en dos grados la pena.
+
+b) A los cómplices de crimen o simple delito tentado y a los encubridores de crimen o simple
+delito frustrado, se les impondrá la pena inferior en dos grados a la señalada por la ley para
+el crimen o simple delito.
+
+c) Cuando la pena señalada por la ley conste de dos o más grados y concurran dos o más
+agravantes y ninguna atenuante, el tribunal podrá aumentar la pena hasta en dos grados al
+máximo de los designados por la ley.
+
+d) A los autores de crimen o simple delito tentado y a los encubridores de crimen o simple
+delito consumado, se les impondrá la pena inferior en tres grados a la que señala la ley para
+el crimen o simple delito.
+
+e) A los encubridores de tentativa de crimen o simple delito, se les impondrá la pena inferior
+en cuatro grados a la que señala la ley para el crimen o simple delito.
+
+Respuesta correcta: letra e)
+Fuente: artículo 54 del Código Penal
+
+Respecto a autoría y participación es incorrecto afirmar que:
+
+a) Es autor ejecutor quien ejecuta físicamente el hecho típico.
+
+b) Es autor quien fuerza o induce directamente a otro a ejecutar el hecho típico.
+
+c) Es cómplice quien coopera a la ejecución del hecho por actos anteriores o posteriores.
+
+d) Es encubridor quien, con conocimiento de la perpetración del crimen o simple delito o
+de los actos ejecutados para llevarlo a cabo y sin haber tenido participación en él como
+autor ni como cómplice, interviene, con posterioridad a su ejecución, de alguno de los
+modos que señala el artículo 17 del Código Penal.
+
+e) Son autores los que, concertados para su ejecución, facilitan los medios con que se lleva
+a efecto el hecho.
+
+Respuesta correcta: letra c)
+Fuente: artículo 16 Código Penal
+
+En relación a la aplicación de la ley penal y procesal penal en el tiempo indique la
+afirmación falsa:
+
+a) La irretroactividad hace referencia al hecho de que las leyes penales (y procesales
+penales) sólo pueden ser aplicadas a las conductas que se realizan mientras están vigentes.
+Por un lado, no pueden alcanzar a los actos que se ejecutan antes de su entrada en vigor y,
+por otro, tampoco a los que tienen lugar después del término de su vigencia.
+
+b) La retroactividad alude a aquella situación en que en el juzgamiento de un hecho se aplica
+una ley que ha entrado en vigencia con posterioridad a su realización.
+
+c) El término ultractividad se refiere a la situación que se produce cuando un hecho es
+sancionado conforme a la ley que se encontraba vigente al momento de su realización, pero
+que ya no lo está en la época de su juzgamiento.
+
+d) Lex tertia, para la mayoría de la doctrina y la jurisprudencia, es el concepto que faculta a
+los tribunales para que en el caso concreto, combine preceptos de la ley nueva dictada y la
+antigua ley derogada, y en base al principio pro reo tomar de cada una de ellas aquello que
+beneficia al reo y resolver conforme a ello.
+
+e) El artículo 19 N° 3 inciso séptimo de la Constitución estipula que: “Ningún delito se
+castigará con otra pena que la que le señale una ley promulgada con anterioridad a su
+perpetración”.
+
+Respuesta: d) Lex tertia, para la mayoría de la doctrina y la
+jurisprudencia, es el concepto que faculta a los tribunales para que
+en el caso concreto, combine preceptos de la ley nueva dictada y la
+antigua ley derogada, y en base al principio pro reo tomar de cada una
+de ellas aquello que beneficia al reo y resolver conforme a ello.
+Fuente: Minuta “Aplicación de la ley penal y procesal penal en el
+tiempo”; Departamento de Estudios; Defensoría Nacional; en
+https://decisia.lexum.com/dppc/cm/es/item/212518/index.do
+
+
+Conforme la doctrina del profesor Enrique Cury, en relación a la estructura del tipo
+en los delitos culposos, es incorrecto afirmar lo siguiente:
+
+a) El tipo culposo cumple la tarea de precisar las condiciones bajo las cuales se considera
+que en la ejecución de una acción, se ha omitido colocar la medida de dirección final de que
+el hombre medio es capaz, a causa de lo cual debe considerársele injusta.
+
+b) Entre los criterios que permiten precisar el contenido de los tipos culposos se encuentran:
+el hombre medio empírico, la atención exigida, y el cuidado exigido.
+
+c) A diferencia de la acción dolosa, la acción culposa no es típica en si, sino en cuanto fue
+realizada de manera defectuosa.
+
+d) En los tipos culposos, para que opere el reproche a título de culpa y no de dolo, es
+necesario que la acción desplegada sea lícita.
+
+e) Conforme el principio del versari en re ilícita, el que ejecuta una acción antijurídica, es
+responsable a título de dolo, de todas sus consecuencias, principio que no tiene acogida en
+nuestro derecho.
+
+Respuesta: letra d). En los tipos culposos, para que opere el reproche a título de culpa y
+no de dolo, es necesario que la acción desplegada sea lícita.
+Fuente: Fuente: Cury, Enrique, Derecho Penal parte general. Teoría de la Tipicidad. La
+estructura del tipo en los delitos culposos.
+
+En relación con la culpabilidad es correcto afirmar:
+
+a) Permite la imposición de una medida de seguridad.
+
+b) Siempre se ve excluida en caso de error de prohibición.
+
+c) Una causal de exculpación que dice relación con la culpabilidad es el cumplimiento de un
+deber.
+
+d) Solo el dolo directo y el dolo eventual pueden hacer que un acto típico y antijurídico, se
+transforme en culpable.
+
+e) La antijuridicidad es indiciaria de la culpabilidad.
+
+Respuesta correcta: e) La antijuridicidad es indiciaria de la culpabilidad
+Fuente: Derecho Penal; Parte General; Enrique Cury Urzúa; Ediciones Universidad Católica
+de Chile; Undécima edición.
+
+Con relación a las circunstancias modificatorias de responsabilidad criminal, es
+incorrecto señalar:
+
+a) La atenuante de reparar con celo el mal causado no es aplicable respecto del robo con
+violencia o intimidación en las personas.
+
+b) No producen el efecto de aumentar la pena aquellas circunstancias agravantes de tal
+manera inherentes al delito que sin concurrencia de ellas no puede cometerse.
+
+c) Cuando solo concurra una sola atenuante y ninguna agravante, el tribunal puede
+estimarla como muy calificada debiendo imponer la pena inferior en un grado al mínimo de
+la señalada por la ley al delito.
+
+d) Las circunstancias modificatorias de carácter personal no se comunican a los demás
+partícipes, aunque tengan conocimiento de ellas.
+
+e) Cuando la pena es un grado de una divisible, para determinar el mínimum y el máximum,
+se divide por mitad el período de su duración.
+
+Respuesta correcta: c)
+Cuando sólo concurra una sola atenuante y ninguna agravante, el tribunal puede
+estimarla como muy calificada debiendo imponer la pena inferior en un grado al mínimo
+de la señalada por la ley al delito.
+Es facultativo para el tribunal calificar la atenuante y también es facultativo para el
+tribunal efectuar la rebaja. Poe ende, no “debe” imponer la pena inferior en grado.
+Fuente: Artículo 68 bis del Código Penal
+
+Respecto a la excusa legal absolutoria contemplada en el 489 del Código Penal es
+correcto afirmar:
+
+a) Su ámbito de aplicación son los delitos de hurto, robo, defraudaciones o daños.
+
+b) Se aplica entre parientes consanguíneos hasta el cuarto grado inclusive, de la línea
+colateral.
+
+c) Se aplica entre parientes afines en toda la línea recta.
+
+d) Opera como atenuante respecto de los extraños que participaren del delito.
+
+e) No se aplica cuando la víctima es mayor de sesenta y cinco (65) años.
+
+Respuesta correcta: c)
+Se aplica entre parientes afines en toda la línea recta.
+Fuente: artículo 489 inciso final del Código Penal
+
+Respecto de la determinación de la pena con marco rígido del Art. 449 CP, señale la
+alternativa incorrecta:
+
+a) Sólo es aplicable al autor de delito consumado.
+
+b) El encabezado del nuevo artículo fija su ámbito de aplicación, excluyendo de la aplicación
+de los artículos 65 a 69 del Código Penal y sometiendo a reglas especiales de determinación
+de penas a los delitos comprendidos en la disposición.
+
+c) El artículo 449 también impide la aplicación general de los artículos 73 y 456 del Código
+Penal y otras reglas de atenuación de la pena.
+
+d) En presencia de reincidencia (Art. 12 N° 15 y 16), el tribunal estará obligado a excluir de
+la aplicación de la pena concreta, el grado mínimo si la pena es compuesta o el mínimum si
+la pena consta de un solo grado.
+
+e) El N° 2 del artículo 449 no se aplica cuando estamos en presencia, al mismo tiempo, de
+la agravante de reincidencia y de la atenuante regulada en el artículo 73 del Código Penal.
+
+Respuesta: c)
+Fuente: “Minuta sobre las modificaciones introducidas por la Ley 20.931, denominada
+“Ley de Agenda Corta”; Departamento de Estudios; Defensoría Penal Pública.
 
 Señale cual o cuáles de los siguientes enunciados es/son correctos
 respecto de las faltas:
@@ -4070,9 +4255,45 @@ pena consta de un solo grado.
   la Ley 20.931, denominada ‘Ley de Agenda Corta’”; Departamento de
 Estudios y Proyectos, Defensoría Penal Pública.
   
-
 *** Verdadero y Falso
 
+La extensión de la pena para un adolescente de catorce o quince años no podrá superar
+los cinco años, aunque el Código Penal sancione el respectivo delito con una pena igual o
+superior a presidio mayor en su grado medio.
+
+Respuesta: Verdadero. Si la sanción calculada en la forma dispuesta en el artículo 21
+supera los límites máximos dispuestos en el artículo 18, su extensión definitiva deberá
+ajustarse a dichos límites.
+Fuente: artículos 21 y 22, en relación con el artículo 18 de la Ley 20.084.
+
+El indulto quita al favorecido el carácter de condenado para los efectos de la
+reincidencia o nuevo delinquimiento.
+
+Respuesta: Falso
+Fuente: artículo 93 N° 3 y 4 del Código penal
+
+Cuando se habla de que el dolo tiene carácter neutro, se alude a que el conocimiento
+de la significación antijurídica del hecho típico no forma parte del dolo y que dicho
+conocimiento es un elemento autónomo del juicio de reproche en materia de culpabilidad.
+
+Respuesta: Verdadero.
+Fuente: Cury, Enrique, Derecho Penal parte general. El concepto de dolo. Carácter neutro
+del dolo.
+
+El delito preterintencional, según el profesor Enrique Cury, es sancionado conforme los
+preceptos que regulan el concurso ideal de delitos, y aplicando el artículo 75 del Código
+Penal, es decir, imponiendo la pena mayor asignada al delito más grave.
+
+Respuesta: Verdadero.
+Fuente: Cury, Enrique, Derecho Penal parte general. Formas excepcionales de los tipos.
+Delitos preterintencionales.
+
+No es circunstancia agravante cometer el delito durante el tiempo correspondiente al
+período condonado, en virtud del beneficio previsto en el sistema de reinserción social de
+los condenados, sobre la base de la observación de buena conducta.
+
+Falso: es una agravante establecida en el artículo 18 de la Ley N° 19.856
+Fuente: artículo 18 de la Ley N° 19.856
 
 El artículo 2° del Código Penal emplea la voz “dolo”, haciéndola
 sinónima de “malicia”.
@@ -5187,6 +5408,90 @@ Las penas de confinamiento, extrañamiento, relegación y destierro son
 
 ** Especial
 *** Alternativas
+
+Conforme al art. 456 bis del Código Penal, no es circunstancia agravante en los delitos
+de robo y hurto la siguiente:
+
+a) Ejecutar el delito en sitios faltos de vigilancia policial, obscuros, solitarios, sin tránsito
+habitual o que por cualquiera otra condición favorezcan la impunidad.
+
+b) Ser la víctima niño, anciano, inválido o persona en manifiesto estado de inferioridad
+física.
+
+c) Ser cometido por funcionario público.
+
+d) Ejercer la violencia en las personas que intervengan en defensa de la víctima, salvo que
+este hecho importe otro delito.
+
+e) Actuar con personas exentas de responsabilidad criminal, según el número 1° del artículo
+
+Respuesta correcta: letra c)
+Fuente: art. 456 bis del CP
+
+En el caso del delito de robo por sorpresa, la expresión "dineros o especies que los
+ofendidos lleven consigo” no implica:
+
+a) Llevarlas puestas (ejemplo ropas fáciles de arrebatar).
+
+b) Llevarlas en la ropa (ejemplo en los bolsillos, etc).
+
+c) Llevarlo asido o cogido de las manos u otra parte del cuerpo (bolsos, carteras, mochilas,
+y las cosas que se encuentren dentro de las mismas, aunque no se arrebaten aquéllas).
+
+d) Aquellas que se guardan en el portamaletas de un bus y son sustraídas en el paradero.
+
+e) Llevarlas consigo se extiende a las cosas antedichas cuando son dejadas en el suelo u otra
+parte, pero siempre en la esfera de resguardo material que constituye el propio cuerpo de
+la víctima.
+
+Respuesta correcta: letra d)
+Fuente: Lecciones de Derecho Penal Chileno, Politoff, Matus y Ramírez; Parte Especial;
+Segunda Edición Actualizada; Editorial Jurídica de Chile; Página 376
+
+Con relación a los delitos de tortura y otros tratos crueles, inhumanos y degradantes,
+es incorrecto afirmar que:
+
+a) La tortura siempre debe ser un acto intencional.
+
+b) El elemento determinante para definir la tortura es el sufrimiento o dolor.
+
+c) La tortura debe perseguir una de las finalidades que establece el artículo 150 A del Código
+Penal.
+
+d)No se considerarán como apremios ilegítimos u otros tratos crueles, inhumanos o
+degradantes las molestias o penalidades que sean consecuencia únicamente de sanciones
+legales, o que sean inherentes o incidentales a éstas, ni las derivadas de un acto legítimo de
+autoridad.
+
+e) Todas las afirmaciones son correctas.
+
+Respuesta correcta: letra e) Todas las afirmaciones son correctas.
+Fuentes: Art. 150 “A”, C.P.
+
+Respecto del delito de incendio, señale la alternativa incorrecta:
+
+a) Esta clase de delitos es de aquéllos de carácter pluriofensivo, donde prevalece no solo la
+afectación a la propiedad, sino también el daño que sufren o el peligro que corren las
+personas y el peligro para la seguridad colectiva.
+
+b) La conducta sancionada es “incendiar objetos”, lo que significa, según la doctrina
+nacional, que debe tratarse de objetos ajenos, por lo que el incendio de cosas propias nunca
+constituye delito.
+
+c) El verbo rector incendiar no implica quemar o prender fuego de cualquier manera, sino
+en provocar uno cuya propagación in-controlada solo pueda ser evitada recurriendo a
+medios extraordinarios.
+
+d) El delito de incendio permite sancionar el hecho en todas las etapas del iter criminis.
+
+e) El delito de incendio sólo se puede sancionar como culposo en el caso del Art. 495 N° 21,
+porque en general sólo pueden sancionarse aquellos cometidos con dolo, directo o
+eventual.
+
+Respuesta: b)
+Fuente: es incorrecta porque el incendio de cosas propias puede constituir delito si se
+propaga a cosas ajenas o concurra un peligro cierto o daños a las personas
+(Matus/Ramírez p. 688 t. II).
 
 En el delito de perjurio, de acuerdo a la opinión dominante, es
 correcto afirmar:
@@ -8425,10 +8730,88 @@ destinado a la habitación o sus dependencias.
   Fuente: “Ficha de robo con fuerza en las cosas”, Departamento de
   Estudios y Proyectos
   
-  
-  
 *** Verdadero y Falso
 
+Para determinar la pena a imponer al autor de un delito de robo por sorpresa, el
+tribunal puede rebajar la pena en un grado en caso de que concurra una atenuante muy
+calificada o dos o más atenuantes y ninguna agravante.
+
+Respuesta: falso
+Fuente: artículo 449 N° 1 del Código Penal y “Minuta sobre las modificaciones
+introducidas por la Ley 20.931, denominada “Ley de Agenda Corta”.
+
+Según lo dispuesto en el artículo 111 de la Ley N° 18.290, se entenderá que hay
+desempeño en estado de ebriedad cuando el informe de alcoholemia o prueba respiratoria
+que hubiere sido practicada arroje una dosificación igual o superior a 0,8 gramos por mil de
+alcohol en la sangre o en el organismo.
+
+Respuesta: verdadero
+Fuente: inciso segundo artículo 111 de la Ley N° 18.290
+
+De acuerdo con el inciso 1 del artículo 5 de la Ley N° 20.066, será constitutivo de
+violencia intrafamiliar todo maltrato que afecte la vida o la integridad física o psíquica de
+quien tenga o haya tenido la calidad de cónyuge del ofensor o una relación de convivencia
+con él; o sea pariente por consanguinidad o por afinidad en toda la línea recta o en la
+colateral hasta el tercer grado inclusive, del ofensor o de su cónyuge o de su actual
+conviviente.
+
+Respuesta: verdadero
+Fuente: artículo 5 Ley N° 20.066
+
+Según la doctrina nacional mayoritaria en el delito de violación el autor directo sólo
+puede ser un hombre.
+
+Respuesta: Verdadero
+Fuente: artículo 361 inc. 2° Código Penal
+Lecciones de Derecho Penal Chileno, Politoff, Matus y Ramírez; Parte Especial; Segunda
+Edición Actualizada; Editorial Jurídica de Chile; Página 250
+
+Se castigan como consumados desde que se encuentran en grado de tentativa los
+delitos de robo con violencia, robo con intimidación y robo en lugar habitado. En el caso del
+delito de robo en bienes nacionales de uso público, se aplica la misma regla cuando se
+cometiere con las circunstancias señaladas en el inciso primero de los artículos 449 ter o
+449 quáter del Código Penal.
+
+Respuesta: Verdadero
+Fuente: artículo 450 y 450 inciso 2° Código Penal.
+
+El culpable de robo con violencia o intimidación en las personas será castigado con
+presidio mayor en su grado máximo a presidio perpetuo cuando, con motivo u ocasión del
+robo, se cometiere alguna de las lesiones comprendidas en los artículos 395, 396 y 397,
+número 1° del Código Penal.
+
+Respuesta: Verdadero
+Fuente: Artículo 433 n°2 Código Penal.
+
+No son sancionables, a título de favorecimiento impropio del art. 367 ter del Código
+Penal, las conductas de carácter sexual entre mayores de 14 años y adultos realizadas en
+un contexto ajeno a la explotación sexual o sin que exista abuso del desamparo o
+dependencia de la víctima.
+
+Respuesta: Verdadero.
+Fuente: Articulo 367 Ter. C.P, Politoff, Matus, Ramírez, lecciones Derecho Penal Parte
+especial, Pág. 285. / Matus y Ramírez Manual de Derecho Penal Chileno parte especial,
+Pág. 224.
+
+Se entiende también por tortura, la aplicación intencional, de métodos tendientes a
+anular la personalidad de la víctima, a disminuir su voluntad o su capacidad de
+discernimiento o decisión, con alguno de los fines previstos en el 150 A del Código Penal.
+
+Respuesta: Verdadero
+Fuente: Art.150 A C.P.
+
+El Código Penal chileno castiga exclusivamente el cohecho cometido por funcionarios
+públicos nacionales.
+
+Respuesta: Falso.
+Fuente: el Art. 251 bis lo castiga también respecto de funcionarios públicos extranjeros
+
+Los particulares que cometen un delito de falsificación de instrumento público sólo
+pueden ser castigados como cómplices del funcionario público que realice la falsificación.
+
+Respuesta: Falso.
+Fuente: Los Arts. 193 y 194 del CP establecen una distinta penalidad, pero la literalidad
+de la norma es clara en cuanto a la autoría.
 
 El concurso aparente de leyes penales entre el homicidio calificado y
 el parricidio se resuelve en favor del homicidio calificado con la
@@ -9537,12 +9920,206 @@ artículo 296 del Código Penal.
   casoAdemás, no sería posible que la advertencia de ejercer una
   acción judicial constituye amenazas.
     Fuente: Artículo 296, inciso 1° del Código Penal.
-  
-  
-  
-  
+    
 * Procesal
 ** Alternativas
+
+Respecto a la violencia intrafamiliar constitutiva de delito, es correcto afirmar que:
+
+a) En cualquier etapa de la investigación y aun antes de la formalización, el tribunal con
+competencia en lo penal debe decretar alguna de las medidas cautelares contempladas en
+el Título V del Libro Primero (medidas cautelares personales) del Código Procesal Penal.
+
+b) Se puede poner término al procedimiento a través de un acuerdo reparatorio siempre
+que entre las obligaciones que emanen de éste se encuentre el abandono de la persona
+imputada del hogar que comparte con la víctima.
+
+c)En caso de condena, el tribunal deberá imponer como medida accesoria la prohibición de
+acercarse a la víctima o a su domicilio, lugar de trabajo o estudio, así como a cualquier otro
+lugar al que ésta concurra o visite habitualmente, por un plazo que no puede ser inferior a
+dos ni superior a tres años.
+
+d) La resolución que rechace la supervisión a través de monitoreo telemático de la
+prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudios impuesta
+como medida cautelar o como consecuencia de una suspensión condicional, es apelable.
+
+e) Para evaluar la irreprochable conducta anterior de la persona imputada, el juez puede
+tener en consideración las anotaciones que consten en el registro especial de personas que
+hayan sido condenadas por violencia intrafamiliar.
+
+Respuesta correcta: letra d)
+Fuente: inciso 5° artículo 20 ter de la Ley N° 20.066.
+
+En cuanto al recurso de nulidad es correcto afirmar:
+
+a) Es un recurso que genera doble instancia.
+
+b) Constituye una sanción de ineficacia procesal.
+
+c) Deberá interponerse dentro de los cinco días siguientes a la notificación de la sentencia
+definitiva, ante el tribunal que hubiere conocido del juicio oral.
+
+d) La interposición del recurso no suspende los efectos de la sentencia condenatoria
+recurrida.
+
+e) Excepcionalmente, podrá deducirse en contra de la sentencia definitiva dictada en un
+procedimiento abreviado.
+
+Respuesta correcta: b)
+Fuente: Minuta sobre “Recurso de nulidad y derechos fundamentales a la luz de la
+jurisprudencia de la Corte Suprema”, pág. 12
+
+Con relación a los motivos absolutos de nulidad del artículo 374 del Código Procesal,
+indique cuál de las siguientes alternativas es correcta:
+
+a) Requieren de preparación, es decir, la reclamación oportuna del vicio.
+
+b) Excepcionalmente, podrán producir solo la nulidad de la sentencia, debiendo la Corte en
+tal caso, dictar un fallo de reemplazo.
+
+c) Uno de los motivos absolutos de nulidad, cautela la congruencia entre acusación y fallo.
+
+d) El tribunal competente para conocer de un recurso fundado únicamente en un motivo
+absoluto es la Corte Suprema.
+
+e) Dentro de sus causales se contempla la posibilidad de reclamar la errónea aplicación de
+la ley penal sustantiva.
+
+Respuesta correcta:
+"c) Uno de los motivos absolutos de nulidad, cautela la congruencia entre acusación y
+fallo.".
+Fuente: Art. 374 f) del Código Procesal Penal.
+
+¿Cuál de las siguientes alternativas es correcta, en relación con la medida cautelar de
+internación provisoria en un centro cerrado prevista en la Ley 20.084 de responsabilidad
+penal de los adolescentes?
+
+a) La internación provisoria sólo puede decretarse respecto de adolescentes mayores de 16
+años.
+
+b) La internación provisoria solo procede tratándose de la imputación de las conductas que
+de ser cometidas por una persona mayor de dieciocho años constituirían crímenes.
+
+c) El adolescente sujeto a la medida cautelar de internación provisoria que alcanza la
+mayoría de edad -reuniéndose los demás requisitos legales- puede ser trasladado para que
+cumpla dicha medida cautelar en una Sección Juvenil, administrada por Gendarmería de
+Chile.
+
+d) Excepcionalmente se puede decretar la internación provisoria respecto de un
+adolescente imputado de un simple delito, siempre que sea reincidente.
+
+e) Todas las alternativas de este listado son correctas.
+Respuesta correcta: letra b)
+Fuente: artículo 32 de la Ley 20.084. Así lo señala expresamente esta disposición.
+
+En lo que dice relación con la audiencia de determinación de pena contemplada en
+el artículo 343 del CPP, ¿cuál de las siguientes afirmaciones es verdadera?
+
+a) Procede una vez concluida la deliberación privada de los jueces en caso de absolución.
+
+b) Solo se pueden agregar antecedentes médicos.
+
+c) Se pueden discutir circunstancias ajenas al hecho punible y los demás factores
+relevantes para la determinación y cumplimiento de la pena.
+
+d) Participan la defensa y la fiscalía, y no así los querellantes.
+
+e) Solo se puede discutir sobre la aplicación de beneficios al imputado.
+
+Respuesta correcta: letra c)
+Fuente: art. 343 CPP
+
+Respecto a la normativa relativa a las víctimas en el Código Procesal Penal Chileno es
+incorrecto afirmar:
+
+a) Se considera víctima al ofendido por el delito.
+
+b) En los delitos cuya consecuencia fuere la muerte del ofendido se considerará víctima al
+cónyuge, al conviviente civil, a los hijos, y, subsidiariamente, en orden de prelación a los
+ascendientes, al conviviente, a los hermanos y al adoptante y al adoptado.
+
+c) La víctima solo puede solicitar medidas de protección al Ministerio Público si ha deducido
+querella.
+
+d) La víctima puede Impugnar el sobreseimiento temporal o definitivo o la sentencia
+absolutoria, aun cuando no hubiere intervenido en el procedimiento.
+
+e) Ninguna de las anteriores.
+
+Respuesta correcta: c) La víctima solo puede solicitar medidas de protección al Ministerio
+Público si ha deducido querella.
+Fuentes: Artículos 108 y 109 CPP
+
+En relación a las modificaciones introducidas por la ley 21.394, que introduce
+reformas al sistema de justicia para enfrentar la situación luego del estado de excepción
+constitucional de catástrofe por calamidad pública, indique la afirmación incorrecta:
+
+a) Es la normativa que introduce expresamente el concepto de nulidad parcial en materia
+de recurso de nulidad, al Código Procesal Penal.
+
+b) Es la normativa que introduce la “audiencia intermedia” en el procedimiento ordinario
+del Código Procesal Penal.
+
+c) La disposición del art. 11 transitorio, que establece las reglas de audiencias remotas y
+semipresenciales, rige durante dos años desde la publicación de la ley, el pasado 30 de
+noviembre de 2021.
+
+d) Es la normativa que introduce la presencia del imputado, como requisito de validez de la
+audiencia en las audiencias de convenciones probatorias, de abreviado, de suspensión
+condicional del procedimiento y de acuerdos reparatorios.
+
+e) Es la normativa que introduce al Código Orgánico de Tribunales, la facultad de los
+tribunales penales de disponer el desarrollo de audiencias bajo la modalidad
+semipresencial.
+
+Respuesta: letra c) La disposición del art. 11 transitorio, que establece las reglas de
+audiencias remotas y semipresenciales, rige durante dos años desde la publicación de la
+ley, el pasado 30 de noviembre de 2021.
+Fuente: La vigencia del art. 11 transitorio, es de 1 año desde la publicación de la ley el 30
+de noviembre de 2021, conforme al artículo 1° Transitorio.
+
+En relación a las medidas de investigación de “intervenciones corporales”, indique la
+alternativa correcta:
+
+a) Sólo implican un reconocimiento externo del mismo del cuerpo.
+
+b) Son excepcionales y por tanto se deben aplicar con estricta aplicación del principio de
+proporcionalidad, salvo que se acredite una necesidad de investigación urgente que no
+pueda esperar para la protección de la víctima.
+
+c) Proceden cuando no conlleven peligros para la salud, circunstancia que debe ser
+apreciada por el juez con la asesoría de peritos, si ello es necesario, tomando en
+consideración todas las circunstancias, incluido el estado físico del afectado y su
+constitución corporal.
+
+d) Para decretarla, el CPP sólo exige la concurrencia de los requisitos generales para
+cualquier medida intrusiva.
+
+e) El CPP no regula las intervenciones o exámenes corporales, sino que se rigen
+exclusivamente por principios de rango constitucional.
+
+Respuesta: c).
+Fuente: Horvitz, t. I, p. 508.
+
+En relación a la reapertura de la investigación, de aquellos casos en que no le está
+permitido al juez decretar ni renovar las diligencias, señale cuál de las siguientes hipótesis
+no es correcta:
+
+a) Las que en su oportunidad se hubieren ordenado a petición de los intervinientes y no se
+hubieren cumplido por negligencia o hecho imputable a los mismos.
+
+b) Las que fueren manifiestamente impertinentes.
+
+c) Las que tuvieren por objeto acreditar hechos públicos y notorios.
+
+d) Si se requiere la resolución previa de una cuestión civil que debiera ser conocida por un
+tribunal que no ejerce jurisdicción en lo penal y que se mantuviere pendiente por causa no
+imputable.
+
+e) Aquellas que hubieren sido solicitadas con fines puramente dilatorios.
+
+Respuesta: d)
+Fuente: Art. 257 CPP
 
 Señale cuál o cuáles de las siguientes afirmación/es es/son correctas
 respecto de la suspensión condicional del procedimiento:
@@ -16566,10 +17143,59 @@ cumplimiento de los fines del referido permiso.
   
   Letra d).
   
-  
-  
 ** Verdadero y Falso
 
+En la valoración de la prueba el Tribunal de juicio oral en lo penal deberá hacerse cargo
+en su fundamentación de toda la prueba producida en el juicio, excepto aquella que hubiere
+desestimado.
+
+Respuesta: Falso
+Fuente: artículo 297 inc. 2° Código Procesal Penal
+
+Según el 277 inc. 2° del Código Procesal Penal el auto de apertura del juicio oral, solo
+será susceptible de recurso de apelación por la parte agraviada, cuando la exclusión de
+pruebas se decreta por inobservancia de garantías fundamentales.
+
+Respuesta: Falso
+Fuente: artículo 277 inc. 2° Código Procesal Penal
+
+Toda infracción al debido proceso es susceptible de un recurso de nulidad fundado en
+la causal del artículo 373 a) del Código Procesal Penal.
+
+Respuesta: Falso. No toda infracción al debido proceso constituye el quebranto de una
+norma fundamental, si el defecto o yerro se encuentra sancionado en un motivo absoluto
+de nulidad.
+Fuente: Minuta sobre “Recurso de nulidad y derechos fundamentales a la luz de la
+jurisprudencia de la Corte Suprema” págs. 9-10.
+
+Respecto a la nulidad parcial del juicio oral y la sentencia decretada por la Corte en un
+recurso de nulidad, existiendo pluralidad de delitos o de imputados, la Corte debe precisar
+a qué prueba, qué hechos y a qué imputados afectará aquella declaración de nulidad
+parcial.
+
+Respuesta: Verdadero.
+Fuente: Nuevo inciso segundo del artículo 386 del CPP incorporado por la ley 21.394.
+
+En materia de entrevista videograbada, los testigos citados a declarar al juicio oral no
+pueden hacer alusión al contenido de la entrevista investigativa que hubiere prestado el
+niño, niña o adolescente.
+
+Respuesta: Verdadero.
+Fuente: Artículo 12.- Ley. 21.057
+
+Al momento de la detención deben informarse al detenido, el motivo de ella, los
+hechos que se le imputaren, el derecho a un abogado y el derecho a guardar silencio.
+
+Respuesta: Verdadero
+Fuente: Arts. 135.
+
+Si hay indicios de cualquier hipótesis de legítima defensa, el imputado detenido en
+flagrancia puede permanecer privado de libertad en su residencia -en lugar del calabozo- a
+la espera de su traslado a la audiencia de control de detención.
+
+Respuesta: Falso. Sólo procede esta regla en los casos de legítima defensa privilegiada y
+no en las otras hipótesis de legítima defensa
+Fuente: artículo 10 N° del Código Penal y 138 del Código Procesal Penal
 
 Conforme las reglas del juicio oral, sólo en los casos previstos en
 los artículos 331 (reproducción de declaraciones anteriores en la
@@ -18461,9 +19087,30 @@ admiten la medida cautelar de prisión preventiva.
   
   Verdadero.
   
-  
 * Humanos
 ** Alternativas
+
+A la luz de los derechos a la libertad personal y el debido proceso consagrados en el
+Derecho Internacional de los Derechos Humanos, es correcto afirmar que:
+
+a) La prisión preventiva sólo procede cuando las otras medidas cautelares disponibles son
+insuficientes para asegurar la seguridad de la sociedad.
+
+b) Las características personales del imputado y la gravedad del delito que se le imputa no
+son, por si mismos, justificación suficiente para imponer la medida de prisión preventiva.
+
+c) Uno de los requisitos de procedencia de la prisión preventiva es su necesidad, es decir, la
+exigencia de que dicha medida sea indispensable para conseguir una finalidad legítima y
+que no exista una medida cautelar menos gravosa que pueda cumplir con el mismo
+propósito cautelar.
+
+d) Solo a) y b)
+
+e) Solo b) y c)
+
+Respuesta correcta: letra e)
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la defensa penal
+pública. Defensoría Penal Pública (2020), pág. 142 y ss.
 
 Cuál o cuáles de las siguientes afirmaciones es o son correctas:
 
@@ -18986,9 +19633,26 @@ Fuente: “Manual de Derecho Internacional de los Derechos Humanos para
 la Defensa
 Penal Pública” (2020), pp129-135.
   
-  
 ** Verdadero y Falso
 
+En relación con la jerarquía normativa de los tratados internacionales de derechos
+humanos, la Constitución Política de la República consagra expresamente que dichos
+tratados tienen un rango supralegal, pero infraconstitucional en el ordenamiento jurídico
+interno.
+
+Respuesta: Falso. La Constitución chilena no regula de manera expresa la jerarquía
+normativa de los tratados internacionales de derechos humanos.
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la defensa penal
+pública. Defensoría Penal Pública (2020), pág. 77.
+
+La Convención Americana de Derechos Humanos consagra el derecho a ser juzgado
+dentro de un plazo razonable, el cual obliga al Estado a tramitar con mayor diligencia y
+prontitud los procesos penales en los cuales el imputado se encuentra sujeto a prisión
+preventiva.
+
+Respuesta: Verdadero
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la defensa penal
+pública. Defensoría Penal Pública (2020), págs. 101 y ss.
 
 El Tribunal Constitucional ha señalado que la existencia de un trato
 diferente para una cierta categoría de delitos no es suficiente para
@@ -19197,9 +19861,6 @@ respecto de todos los delitos que tengan asignada pena de crimen.
   contenidos en el CJM.  Fuente: artículo 132 bis del Código Procesal
   Penal.
   
-  
-  
-
 * Ley DPP
 ** Alternativas
 
@@ -19660,7 +20321,6 @@ d) Todas las afirmaciones son correctas
   
   c)
   
-
 ** Verdadero y Falso
 
 
@@ -19745,12 +20405,421 @@ del imputado para la determinación de sus ingresos.
         
 Falso: Las modalidades de pago se fijarán conjuntamente.
 
-
-
-
 * Penitenciario
-
 ** Alternativas
+
+Uno de los requisitos que deben reunir los condenados para postular a la libertad
+condicional es contar con “conducta intachable”, lo que significa:
+
+a) La calificación de su conducta como "muy buena", durante los últimos cuatro bimestres
+anteriores a su postulación, o los últimos tres bimestres, si la condena impuesta no
+excediere de quinientos cuarenta y un días.
+
+b) Haber sido calificado con conducta “buena” durante los últimos cuatro bimestres.
+
+c) Haber sido calificado con conducta “muy buena” durante los últimos 6 bimestres.
+
+d) No haber sido condenado por crimen o simple delito.
+
+e) Tener un perfil de bajo riesgo de reincidencia.
+
+Respuesta Correcta: a) La calificación de su conducta como "muy buena", durante los
+últimos cuatro bimestres anteriores a su postulación, o los últimos tres bimestres, si la
+condena impuesta no excediere de quinientos cuarenta y un días.
+Fuente: artículo 2 Nº 2 DL 321 sobre libertad condicional.
+
+En relación con la regulación de las visitas que hace el Reglamento de Establecimientos
+Penitenciarios, es correcto señalar que:
+
+a) La limitación o privación de las visitas está expresamente prohibida.
+
+b) Los días y horas de visita de los condenados se determinan en base a la conducta de las
+personas internas.
+
+c) Solo se concederán visitas íntimas a las personas que mantienen muy buena o buena
+conducta durante el bimestre anterior.
+
+d) Solo podrán solicitar visitas íntimas quienes no gocen de permisos de salida.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta correcta: letra d) Sólo podrán solicitar visitas íntimas quienes no gocen de
+permisos de salida.
+Fuente: artículo 51 del Reglamento de Establecimientos Penitenciarios.
+
+En relación con el tiempo mínimo para postular al beneficio de libertad condicional, es
+correcto afirmar que:
+
+a) Cuando el tiempo mínimo de postulación es de dos tercios de la condena, de todas
+maneras, es posible postular a los permisos de salida regulados en el Reglamento de
+Establecimientos Penitenciarios a partir de los doce meses anteriores a la mitad del tiempo
+de condena.
+
+b) Las personas condenadas a presidio perpetuo calificado sólo podrán postular a la libertad
+condicional una vez que hubieren cumplido cuarenta años de privación de libertad efectiva.
+
+c) Para calcular el tiempo mínimo deben descontarse los meses de reducción de condena
+aprobados por la comisión respectiva.
+
+d) En caso de no cumplir con el tiempo mínimo, el Tribunal de Conducta remitirá los
+antecedentes del postulante en una segunda nómina, para que la Comisión de Libertad
+Condicional se pronuncie sobre si procede o no el otorgamiento del beneficio.
+
+e) Las personas condenadas a presidio perpetuo simple y además a otra u otras penas
+privativas de libertad, sólo podrán postular a la libertad condicional una vez que hubieren
+cumplido 20 años y se fijará, por este solo hecho y para todos los efectos, la duración de la
+condena en 20 años.
+
+Respuesta correcta: b) Las personas condenadas a presidio perpetuo calificado sólo
+podrán postular a la libertad condicional una vez que hubieren cumplido cuarenta años
+de privación de libertad efectiva.
+Fuente: artículo 3 del DL N° 321 sobre libertad condicional.
+
+No procede el beneficio de reducción de condena:
+
+a) Si no se ha obtenido y ejercido un permiso de salida.
+
+b) Si la condena hubiese sido dictada considerando concurrente la circunstancia agravante
+de alevosía, uso de disfraz o abuso de confianza.
+
+c) Si la persona ha sido condenada en virtud de la Ley sobre Seguridad del Estado.
+
+d) El condenado hubiere incumplido las condiciones impuestas durante el régimen de
+libertad condicional.
+
+e) Ninguna de las alternativas anteriores es correcta.
+
+Respuesta correcta: d) El condenado hubiere incumplido las condiciones impuestas
+durante el régimen de libertad condicional.
+Fuente: artículo 17 letra b) de la Ley Nº 19.856.
+
+En relación con la pena mixta regulada en el artículo 33 de la Ley N° 18.216, señale la
+alternativa correcta:
+
+a) Uno de sus requisitos es que el penado hubiere cumplido al menos la mitad de la pena
+efectivamente, o dos tercios de la misma, según el delito por el que fue condenado.
+
+b) Para que se conceda la pena mixta se necesita, entre otros requisitos, que el condenado
+hubiere hecho uso provechoso de un permiso de salida esporádica.
+
+c) Si el tribunal no otorga la interrupción de la pena regulada en este artículo, ésta no podrá
+discutirse nuevamente sino hasta transcurridos seis meses desde su denegación.
+
+d) La ley exige que el condenado reconozca su participación en los hechos por los que fue
+sancionado.
+
+e) Todas las alternativas son correctas.
+
+Respuesta correcta: c) Si el tribunal no otorga la interrupción de la pena regulada en este
+artículo, ésta no podrá discutirse nuevamente sino hasta transcurridos seis meses desde
+su denegación.
+Fuente: artículo 33 letra d) de la Ley Nº 18.216.
+
+6. De acuerdo con el Reglamento de Establecimientos Penitenciarios, en relación con la
+salida dominical es correcta señalar:
+
+a) Los internos pueden optar a este beneficio si han cumplido la mitad de la condena que
+se les impuso.
+
+b) Para su otorgamiento se requiere previo informe favorable del Consejo Técnico del
+respectivo establecimiento penitenciario.
+
+c) Para postular se requiere que previamente al interno se le haya concedido la salida
+esporádica y haya gozado provechosamente de la misma.
+
+d) La salida dominical sólo es procedente si la condena es inferior a 10 años de presidio
+mayor en su grado mínimo.
+
+e) Se otorga por una sola vez en la vida.
+
+Respuesta correcta: b) Para su otorgamiento se requiere previo informe favorable del
+Consejo Técnico del respectivo establecimiento penitenciario y sólo puede solicitarse a
+partir de los doce meses anteriores al día en que se cumpla el tiempo mínimo.
+Fuente: artículo 103 del REP.
+
+¿Cuál de estos requisitos es necesario cumplir para acceder a la eliminación de
+antecedentes penales regulada por el Decreto Ley N° 409 de 1932?
+
+a) Registrar una única condena, siempre que no sea por delitos de homicidio, violación o
+robo con violencia.
+
+b) Que hayan transcurrido todos los plazos de prescripción de pena correspondientes a la
+condena impuesta.
+
+c) Presentar una solicitud ante el Registro Civil.
+
+d) Haber observado muy buena conducta en la prisión o en el lugar en que cumplió su
+condena, cuando se trate de pena de prisión, presidio, reclusión o relegación.
+
+e) Ninguna de las alternativas anteriores es correcta.
+
+Respuesta correcta: d) Haber observado muy buena conducta en la prisión o en el lugar
+en que cumplió su condena, cuando se trate de pena de prisión, presidio, reclusión o
+relegación.
+Fuente: artículo 2 letra a) del Decreto Ley N° 409.
+
+Según el Reglamento de Establecimientos Penitenciarios, en relación con la facultad de
+Gendarmería para trasladar reclusos sin o contra su voluntad, es acertado decir que:
+
+a) Se trata de una sanción administrativa que sólo procede frente a reiteración de faltas
+disciplinarias graves.
+
+b) Es una facultad del Jefe del Establecimiento.
+
+c) La Resolución que ordene el traslado debe estar precedida de un informe técnico que las
+recomiende.
+
+d) El traslado implica una baja en la calificación de conducta de la persona trasladada.
+
+e) Todas las alternativas son correctas.
+
+Respuesta Correcta: c) La Resolución que ordene el traslado debe estar precedida de un
+informe técnico que las recomiende.
+Fuente: artículo 28, inciso final del Reglamento de Establecimientos Penitenciarios.
+
+En relación con la resolución que concede o rechaza la pena mixta del art. 33 de la Ley
+18.216:
+
+a) No procede recurso alguno en contra de dicha resolución, sin perjuicio de la acción
+constitucional de amparo.
+
+b) Procede el recurso de nulidad.
+
+c) Sólo procede el recurso de reposición.
+
+d) Procede el recurso de apelación.
+
+e) Ninguna de las alternativas anteriores es correcta.
+
+Respuesta correcta: d) Procede el recurso de apelación.
+Fuente: artículo 37 letra c) de la Ley Nº 18.216.
+
+En materias de régimen disciplinario al interior de las cárceles, ¿cuál afirmación es
+correcta, de acuerdo al Reglamento de Establecimientos Penitenciarios?:
+
+a) La celda solitaria puede aplicarse hasta por 30 días renovables con autorización judicial.
+
+b) El jefe del establecimiento, antes de imponer una sanción, debe notificar a la persona
+condenada quien cuenta con un plazo de 10 días para presentar sus descargos.
+
+c) Las personas sancionadas con aislamiento en celda solitaria deben ser visitadas, al menos
+una vez por semana, por un médico y por el jefe del establecimiento.
+
+d) Copia de la resolución que sanciona una falta grave deberá ser remitida al Director
+Regional de Gendarmería para su conocimiento, quien podrá modificarla o anularla por
+razones fundadas.
+
+e) La suspensión de las visitas no puede aplicarse a las madres lactantes.
+
+Respuesta correcta: d) Copia de la resolución que sanciona una falta grave deberá ser
+remitida al Director Regional de Gendarmería para su conocimiento, quien podrá
+modificarla o anularla por razones fundadas.
+Fuente: artículo 83 del Reglamento de Establecimientos Penitenciarios.
+
+Señale la alternativa correcta en relación con las consecuencias de la cesación del
+comportamiento sobresaliente en un período de calificación, de acuerdo con la Ley
+19.856, sobre el beneficio de reducción de condena:
+
+a) Importa la pérdida completa de las reducciones de condena correspondientes a los años
+precedentes, sin perjuicio de la procedencia futura del beneficio en el evento de que el
+condenado retomare el comportamiento sobresaliente exigido.
+
+b) La caducidad del beneficio no tendrá lugar respecto de condenados que hubieren sido
+invariablemente calificados con comportamiento sobresaliente, cuando la Comisión
+Calificadora -mediante decisión fundada- autorice la subsistencia de hasta un 80% del
+beneficio de reducción de condena acumulado.
+
+c) La referida subsistencia sólo tendrá lugar si el condenado hubiere cesado en el
+comportamiento sobresaliente durante no más de un período de calificación.
+
+d) Todas las alternativas anteriores son correctas.
+
+e) Ninguna alternativa es correcta.
+
+Respuesta correcta: d) Todas las alternativas anteriores son correctas.
+Fuente: artículo 8 de la Ley N° 19.856.
+
+Uno de los requisitos que deben reunir los condenados para postular a la libertad
+condicional es contar con un informe de postulación psicosocial, respecto del cual es
+efectivo que:
+
+a) Debe ser elaborado por un profesional idóneo designado por el juez de garantía.
+
+b) Debe ser aportado por la propia persona condenada.
+
+c) El informe debe contener un análisis de los factores de riesgo de reincidencia de la
+persona condenada, con el fin de conocer sus posibilidades para reinsertarse
+adecuadamente en la sociedad.
+
+d) Debe ser elaborado por profesional idóneo designado por la Comisión de libertad
+condicional.
+
+e) Ninguna de las alternativas anteriores es correcta.
+
+Respuesta Correcta: c) El informe debe contener un análisis de los factores de riesgo de
+reincidencia de la persona condenada, con el fin de conocer sus posibilidades para
+reinsertarse adecuadamente en la sociedad.
+Fuente: artículo 2° N° 3 del DL N° 321 sobre libertad condicional.
+
+Señale cuál de las siguientes afirmaciones es correcta respecto de los permisos de
+salida:
+
+a) Los permisos de salida son concedidos previo informe favorable del Tribunal de
+Conducta.
+
+b) El jefe del establecimiento es quien decide acerca de los permisos de salida, ya sea para
+concederlos, suspenderlos, revocarlos o rechazarlos.
+
+c) Uno de los requisitos para acceder a los permisos de salida es haber sido calificado con
+conducta intachable por la Comisión de Rebaja de Condena en el período inmediatamente
+anterior a la postulación.
+
+d) Los permisos de salida no proceden respecto de hechos que fueren perpetrados en el
+contexto de violaciones a los Derechos Humanos, por agentes del Estado o por personas o
+grupos de personas que actuaron con la autorización, el apoyo o la aquiescencia del Estado.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta correcta: b) El jefe del establecimiento es quien decide acerca de los permisos
+de salida, ya sea para concederlos, suspenderlos, revocarlos o rechazarlos.
+Fuente: artículo 98 del Reglamento de Establecimientos Penitenciarios.
+
+Respecto del indulto particular, son correctas las siguientes afirmaciones:
+
+a) Consiste en la remisión, conmutación o reducción de la pena.
+
+b) Procede respecto de todo delito.
+
+c) Elimina la calidad de condenado para todos los efectos legales.
+
+d) Procede respecto de condenados como de imputados.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta correcta: a) Consiste en la remisión, conmutación o reducción de la pena.
+Fuente: artículo 2 Ley N° 18.050.
+
+De acuerdo a lo dispuesto en la Ley N° 18.216 en relación con la pena mixta, señale la
+alternativa correcta:
+
+a) La pena mixta consiste en la interrupción de la pena privativa de libertad originalmente
+impuesta, reemplazándola por el régimen de libertad vigilada intensiva.
+
+b) Debe ser siempre controlada mediante monitoreo telemático.
+
+c) Puede ser otorgada de oficio por el tribunal.
+
+d) El tribunal puede disponer la pena mixta previo informe favorable de Gendarmería de
+Chile.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta correcta: e) Todas las alternativas anteriores son correctas.
+Fuente: artículo 33 de la Ley N° 18.216.
+
+Señale la alternativa correcta respecto del Tribunal de Conducta que funciona en los
+establecimientos penitenciarios:
+
+a) Es presidido por un juez de garantía del lugar en que se encuentra el establecimiento
+penitenciario.
+
+b) Una de las funciones del Tribunal de Conducta es formular, proponer y evaluar los
+proyectos y programas de reinserción dirigidos a la población penal.
+
+c) Tiene a su cargo la concesión y revocación del beneficio de la libertad condicional, para
+lo cual se reúne en abril y octubre de cada año.
+
+d) Un miembro de la Defensoría Penal Pública puede asistir a las sesiones del Tribunal de
+Conducta.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta correcta: d) Un miembro de la Defensoría Penal Pública puede asistir a las
+sesiones del Tribunal de Conducta.
+Fuente: Artículo 4°, inciso 3°del DS 338, Reglamento del DL 321 sobre libertad condicional.
+
+Señale la alternativa correcta en materia del llamado recurso de revisión:
+
+a) Por la acción de revisión se puede pedir la anulación de una sentencia absolutoria.
+
+b) El recurso de revisión se presenta ante el tribunal que dictó la sentencia impugnada, para
+que sea conocido por la Corte Suprema.
+
+c) El recurso de revisión sólo puede interponerse dentro de 1 año a contar de la notificación
+de la sentencia condenatoria.
+
+d) El recurso de revisión se presenta ante la Corte de Apelaciones de la jurisdicción donde
+tuvo lugar el juicio.
+
+e) No puede probarse por testigos los hechos en que se funda la solicitud de revisión.
+
+Respuesta correcta: e) No puede probarse por testigos los hechos en que se funda la
+solicitud de revisión.
+Fuente: artículo 476 del Código Procesal Penal.
+
+En relación con los Centro de Educación y Trabajo (CET) es efectivo señalar que:
+
+a) Uno de los objetivos de los CET es proporcionar trabajo regular y remunerado, acorde
+con la realidad regional.
+
+b) Uno de los objetivos de los CET es comercializar los productos de su giro y prestar
+servicios remunerados a particulares.
+
+c) Uno de los objetivos de los CET es orientar y colaborar en el proceso de colocación laboral
+de los internos en el medio libre.
+
+d) Existen CET cerrados, semiabiertos y abiertos.
+
+e) Todas las alternativas de este listado son correctas.
+
+Respuesta correcta: e) Todas las alternativas de este listado son correctas.
+Fuente: artículo 66 y 67 del Decreto N° 943 (Estatuto laboral y de formación para el trabajo
+penitenciario).
+
+Según lo establecido en el Decreto ley N° 321, que establece la Libertad Condicional
+para las personas condenadas a penas privativas de libertad, es correcto decir:
+
+a) La libertad condicional es una forma de cumplir la pena que beneficia a las personas que
+no tienen antecedentes anteriores y demuestran buena conducta.
+
+b) La libertad condicional es un medio de prueba de que el delincuente se encuentra
+resocializado.
+
+c) La libertad condicional es un beneficio especialmente establecido en favor de los
+condenados que han pedido perdón a las víctimas o han realizado acciones de reparación.
+
+d) La Libertad condicional es un medio de prueba de que la persona condenada a una pena
+privativa de libertad y a quien se le concediere, demuestra, al momento de postular a este
+beneficio, avances en su proceso de reinserción social.
+
+e) Todas las alternativas anteriores son correctas.
+
+Respuesta Correcta: d) La Libertad condicional es un medio de prueba de que la persona
+condenada a una pena privativa de libertad y a quien se le concediere, demuestra, al
+momento de postular a este beneficio, avances en su proceso de reinserción social.
+Fuente: artículo 1 inciso primero DL del 321 sobre libertad condicional.
+
+Según lo establecido en el Decreto Ley N° 321, que establece la libertad condicional,
+señale la afirmación correcta respecto de los libertos condicionales.
+
+a) Las personas en libertad condicional deben obedecer todas las órdenes legales que
+imparta la respectiva comisión.
+
+b) Las personas en libertad condicional deberán cumplir las condiciones previstas en un plan
+de intervención individual que será elaborado por el delegado de libertad condicional.
+
+c) Las personas en libertad condicional deben presentarse una vez al mes en el
+establecimiento donde cumplían su condena.
+
+d) La persona favorecida con el beneficio debe firmar mensualmente en el Centro de Apoyo
+para la Integración Social (CAIS).
+
+e) Ninguna de las alternativas anteriores es correcta.
+
+Respuesta correcta: b) Las personas en libertad condicional deberán cumplir las
+condiciones previstas en un plan de intervención individual que será elaborado por el
+delegado de libertad condicional.
+Fuente: artículo 6 del DL 321.
 
 En relación con el tiempo mínimo para postular al beneficio de libertad condicional, es
 correcto afirmar que:
@@ -23791,8 +24860,184 @@ e) II y III son correctas
   
   b)
   
-
 ** Verdadero y Falso
+
+La concesión, suspensión o revocación del permiso de salida dominical es una facultad
+del Consejo Técnico, pero para ser otorgado se requiere un informe favorable del jefe del
+establecimiento.
+
+Falso
+Fuente: artículo 98 del Reglamento de Establecimientos Penitenciarios.
+
+Si la persona en libertad condicional fuere condenada por cualquier delito o
+incumpliere las condiciones establecidas en su plan de intervención individual sin
+justificación suficiente, Gendarmería de Chile deberá informar de ello a la Comisión de
+Libertad Condicional, para que se pronuncie respecto de la continuidad o revocación de
+la libertad condicional.
+
+Verdadero
+Fuente: artículo 7° del DL 321 sobre libertad condicional. El órgano que debe pronunciarse
+es la Comisión de Libertad Condicional.
+
+Según la Ley N° 19.856, las personas condenadas a quienes se les aplicó las penas
+sustitutivas de libertad vigilada o libertad vigilada intensiva también pueden optar al
+beneficio de reducción de condena si demuestran conducta sobresaliente.
+
+Falso
+Fuente: artículo 2° de la Ley N° 19.856. El beneficio está establecido respecto de aquellas
+personas que cumplen efectivamente una pena privativa de libertad.
+
+Solo se permite aplicar la sanción de celda solitaria a una mujer que se encuentra
+recluida junto a su hijo si este último puede permanecer en dicha dependencia.
+
+Falso.
+Fuente: artículo 86, inciso final del Reglamento de Establecimientos Penitenciarios. No se
+aplicará esta sanción a las mujeres que tuvieren hijos consigo.
+
+La salida controlada al medio libre sólo puede otorgarse con el objeto de desarrollar
+actividades laborales o académicas.
+
+Verdadero.
+Fuente: artículo 105 inciso primero Reglamento de Establecimientos Penitenciarios.
+
+El beneficio de reducción de condena tendrá lugar desde el momento en que la
+Comisión de Rebaja se pronuncie sobre su procedencia.
+
+Falso
+Fuente: artículo 4° de la Ley 19.856. Tendrá lugar sólo en el momento en que se diere total
+cumplimiento a la pena impuesta, una vez aplicadas las rebajas que correspondieren.
+
+En caso de revocación de la libertad condicional, la persona condenada no podrá
+volver a postular al beneficio.
+Falso: puede hacerlo, aunque sólo después de haber cumplido la mitad del tiempo que le
+falte para completar la condena.
+Fuente: artículo 7°, inciso 2° del DL 321.
+
+La incomunicación o aislamiento provisorio de cualquier interno que incurriere en
+falta grave, no puede exceder de un plazo máximo de veinticuatro horas.
+
+Verdadero
+Fuente: artículo 84 del Reglamento de Establecimientos Penitenciarios.
+
+Las personas condenadas por homicidio, parricidio o femicidio no podrán
+desempeñarse en los Centros de Educación y Trabajo (CET).
+
+Falso
+Fuente: artículo 18 inciso final Decreto 943 de 14 de mayo de 2011. El tipo de delito y la
+duración de la pena no constituirán factores que excluyan la selección de postulantes.
+
+Contra la resolución del jefe del establecimiento penitenciario que contenga la
+calificación de conducta, no procede recurso alguno.
+
+Falso.
+Fuente: artículo 8° del Decreto N° 338. En contra de la resolución proceden los recursos
+administrativos establecidos en la Ley Nº 19.880
+
+Las personas que se encontraren gozando de libertad condicional que hayan sido
+condenadas por conductas que la sentencia, en conformidad al derecho internacional,
+hubiere considerado como genocidio, crímenes de lesa humanidad o crímenes de guerra
+sólo pueden ser beneficiadas con la libertad completa, al cumplir los dos tercios del
+beneficio y las condiciones de plan de intervención individual.
+
+Falso: están expresamente exceptuadas del beneficio de libertad completa.
+Fuente: artículo 8° inciso 2° del DL 321.
+
+Según el Reglamento de Establecimientos Penitenciarios, fuera de los derechos
+perdidos o limitados por su detención, prisión preventiva o condena, la condición jurídica
+del interno es idéntica a los ciudadanos libres.
+
+Verdadero
+Fuente: artículo 2° del REP.
+
+Según el Reglamento de Establecimientos Penitenciarios, el registro de las visitas de
+las personas condenadas debe hacerse por personal del mismo sexo.
+
+Verdadero
+Fuente: artículo 54 del Reglamento de Establecimientos Penitenciarios.
+
+Para aplicar la sanción de internación en celda solitaria se requiere la opinión
+favorable del Consejo Técnico.
+
+Falso: el reglamento no contempla esta exigencia.
+Fuente: artículo 82 y siguientes del REP.
+
+El Control de convencionalidad es la teoría acuñada por la Corte Interamericana de
+Derechos Humanos que se orienta a efectuar un análisis de compatibilidad entre la
+Convención Americana sobre Derechos Humanos y las disposiciones de derecho interno,
+así como las prácticas locales.
+
+Verdadero.
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la defensa penal
+pública, pp. 88-89.
+
+El Tribunal de conducta de cada establecimiento debe enviar a la Comisión de Libertad
+Condicional, para cada período, los antecedentes de todos los postulantes divididos en 2
+listas; la primera con quienes reúnen todos los requisitos establecidos en el DL 321 y una
+segunda lista con quienes les falta alguno de ellos.
+
+Falso
+Fuente: artículo 15 Decreto N° 338 (Reglamento del Decreto Ley N° 321). La reforma de la
+Ley 21.124 y posterior Reglamento, eliminó el envío de 2 listas. Se envía sólo una lista con
+los que cumplen todos los requisitos.
+
+El control de convencionalidad admite un control externo, que hace la propia Corte
+Interamericana, así como uno interno, que hacen los órganos públicos de un Estado.
+
+Verdadero
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la Defensa Penal
+Pública (2020), pp. 81-84. El control de convencionalidad requiere un ejercicio
+hermenéutico que consiste en la verificación que realiza tanto la Corte IDH (control
+externo) como todos los agentes estatales (control interno) de la adecuación de las
+normas jurídicas y prácticas internas a la Convención Americana y a los estándares
+interpretativos desarrollados en la jurisprudencia del tribunal interamericano. De ahí se
+deriva que el control de convencionalidad puede ser diferenciado según quién haga el
+ejercicio de “control”.
+
+El tiempo que un condenado hubiere permanecido en prisión preventiva durante todo
+o parte del respectivo proceso debe computarse para los efectos de proceder a la
+calificación de conducta necesaria para el beneficio de reducción de condena.
+
+Verdadero
+Fuente: artículo 9 de la Ley Nº 19.856.
+
+En caso de agresión a un privado de libertad, éste no debe demostrar que uno o más
+funcionarios son los autores de las lesiones, pues independiente de quien sea el agresor,
+Gendarmería es responsable de proteger a las personas bajo su custodia, de modo que
+son los funcionarios de la administración penitenciaria quienes deben demostrar en este
+caso, que adoptaron todas las medidas preventivas y que la agresión no es de autoría de
+un vigilante.
+
+Verdadero.
+Fuente: Manual de Derecho Internacional de los Derechos Humanos para la Defensa Penal
+Pública (2020), pp. 161-162. La Corte IDH ha establecido que el Estado es responsable, en
+su condición de garante de los derechos consagrados en la Convención, de la observancia
+del derecho a la integridad personal de todo individuo que se halla bajo su custodia. En
+consecuencia, existe la presunción de considerar responsable al Estado por las torturas,
+tratos crueles, inhumanos o degradantes que exhibe una persona que ha estado bajo la
+custodia de agentes estatales.
+
+En materia de régimen disciplinario, según el Reglamento de Establecimientos
+Penitenciarios, si la falta es muy grave, se puede aplicar conjuntamente la sanción de
+internación en celda solitaria y la de privación de toda visita hasta por un mes.
+
+Falso.
+Fuente: artículo 81 inciso primero del Reglamento de Establecimientos Penitenciarios. En
+esta disposición se prohíbe expresamente la acumulación de sanciones.
+
+Juan, extranjero sin residencia en Chile, fue condenado a 5 años de presidio por el
+delito de microtráfico del artículo 4° de la ley 20.000. Por ende, procede a su respecto la
+sustitución de la pena impuesta por la expulsión del territorio nacional.
+
+Respuesta: Falso. El artículo 34 de la ley 18.216 excluye explícitamente los delitos
+cometidos con infracción de la ley Nº 20.000.
+Fuente: artículo 34 de la ley 18.216
+
+No es circunstancia agravante cometer el delito durante el tiempo correspondiente al
+período condonado, en virtud del beneficio previsto en el sistema de reinserción social de
+los condenados, sobre la base de la observación de buena conducta.
+
+Falso: es una agravante establecida en el artículo 18 de la Ley N° 19.856
+Fuente: artículo 18 de la Ley N° 19.856
 
 El DL Nº 321 no establece ningún medio de impugnación respecto de la decisión de la
 Comisión de libertad condicional que rechace el beneficio.

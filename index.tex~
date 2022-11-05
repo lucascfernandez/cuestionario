@@ -37,10 +37,10 @@
 \setlist{itemsep=-2pt} % or \setlist{noitemsep} to leave space around whole list
 \author{Lucas Fernandez}
 \date{\today}
-\title{Cuestionario Examen Habilitación}
+\title{Penitenciario}
 \hypersetup{
  pdfauthor={Lucas Fernandez},
- pdftitle={Cuestionario Examen Habilitación},
+ pdftitle={Penitenciario},
  pdfkeywords={},
  pdfsubject={},
  pdfcreator={Emacs 28.2 (Org mode 9.5.5)}, 
@@ -51,10 +51,10 @@
 \tableofcontents
 
 \section{Penitenciario}
-\label{sec:orge9d9ca1}
+\label{sec:org84b049b}
 
 \subsection{Alternativas}
-\label{sec:org8ec3620}
+\label{sec:org558a193}
 
 Respecto de la posibilidad de interrumpir una pena privativa de libertad y
 remplazarla por el régimen de libertad vigilada intensiva, señale la alternativa
@@ -3376,7 +3376,7 @@ b)
 
 
 \subsection{Verdadero y Falso}
-\label{sec:org4776f72}
+\label{sec:org54a8cc5}
 
 Para acceder al beneficio de libertad condicional no se requiere
 necesariamente haber obtenido y cumplido satisfactoriamente algún tipo de
